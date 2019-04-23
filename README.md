@@ -7,10 +7,9 @@ All of my dotfiles are listed in this repository.
 
 [link](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
 
-[**General source code headers**](https://gist.github.com/APrettyCoolProgram/dbe43920e21f6aaea4c7c79a5d3cafa0): A simple template for code header comments.<br
-[**Project source code headers**](https://gist.github.com/APrettyCoolProgram/72c910496f1947f009ac0f89557c9018): A simple template for project header comments.<br
+[**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 
 ## C# .NET
-[**HtmlSourceAsString**](https://gist.github.com/APrettyCoolProgram/645ca6d8190e637129654fc75e091cac): Get the HTML source of a URL and return it as a string.<br>
-[**ListToString**](https://gist.github.com/APrettyCoolProgram/e54dc00d97848da611b495419df7cf9c): Convert a List to a string.<br>
-[**StringToArray**](https://gist.github.com/APrettyCoolProgram/c2429345ec196fc4e10dc341021c6884): Convert a string to an Array.<br>
+[DuHTML](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): A collection of common methods for working with HTML data<br>
+[DuList](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): A collection of common methods for working with Lists<>.<br>
+[DuString](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): A collection of common mthods for working with strings.<br>
