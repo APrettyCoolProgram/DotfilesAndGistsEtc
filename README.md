@@ -4,9 +4,6 @@ All of my dotfiles are listed in this repository.
 
 # Gists
 ## General
-
-[link](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
-
 [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 
 ## C# .NET
