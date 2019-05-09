@@ -1,5 +1,5 @@
-<h5 style="horizontal-align:center">
-    <p>
+<h5>
+    <p style="horizontal-align:center">
         Developed by A Pretty Cool Program <img style="vertical-align:middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
         <a href="https://github.com/APrettyCoolProgram">
             <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
