@@ -24,7 +24,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 <p align="center">
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
-
+***
 <h3>
     <p align="center">
     <a href="#overview">Overview</a> •
