@@ -56,15 +56,21 @@ For example, this is the part of the README.md that you would use to describe yo
 * List other requirements here
 
 # Installation
-## Windows
+### Windows
 Most of these dotfiles/gists require other software to be installed.
 
 For instance, the Visual Studio setting dotfiles require a version of Microsoft's Visual Studio.
-## MacOS
+### MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
 
-## Linux
+### Linux
 This is where you would have all of the instructions to install/build your project in Linux
+
+## Updating
+If your project can be updated, describe how to do so here.
+
+## Uninstall
+If your project can be uninstalled, describe how to do so here.
 
 # Configuration
 If your project allows/requires configuration settings, detail them here.
@@ -111,8 +117,7 @@ And when possible, include screenshots
 
 
 
-# Updating
-If your project can be deployed, describe how to do so here.
+
 
 
 # Deploying
