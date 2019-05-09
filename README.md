@@ -1,13 +1,3 @@
-<h5 align="right">
-    Developed by A Pretty Cool Program <img style="vertical-align:top" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
-    <a href="https://github.com/APrettyCoolProgram">
-        <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
-    </a>
-        <a href="https://twitter.com/aprettycoolprog">
-        <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="32">
-    </a>
-</h5>
-
 <h1 align="center">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-logo.png" alt="dotFiles and Gists" width="65">
     <br>
@@ -189,7 +179,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
     <p style="horizontal-align:center">
         Developed by A Pretty Cool Program
         <a href="https://github.com/APrettyCoolProgram">
-            <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
         </a>
         </a>
             <a href="https://twitter.com/aprettycoolprog">
@@ -197,7 +187,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
         </a>
         </a>
             <a href="http://aprettycoolprogram.com">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/icons8-website-filled-40.png" alt="Website" width="64">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/icons8-website-filled-40.png" alt="Website" width="32">
         </a>
     </p>
 </h5>
