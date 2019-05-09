@@ -183,7 +183,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
         </a>
         </a>
             <a href="https://twitter.com/aprettycoolprog">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="32">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Social_Icon_Circle_Color.png" alt="Twitter" width="32">
         </a>
         </a>
             <a href="http://aprettycoolprogram.com">
