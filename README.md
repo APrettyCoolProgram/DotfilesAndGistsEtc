@@ -26,7 +26,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 </p>
 
 ***
-### [Overview](#overview) | Installation(#installation)
+### [Overview](#overview) Installation(#installation)
 ***
 
 # Overview
