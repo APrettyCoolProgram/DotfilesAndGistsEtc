@@ -29,8 +29,14 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 
 <h3>
     <p align="center">
-    <a href="#overview">Overview</a> •
-    <a href="#installation">Installation</a> •
+        <a href="#overview">Overview</a> •
+        <a href="#installation">Installation</a> •
+        <a href="#configuration">Configuration</a> •
+        <a href="#usage">Usage</a> •
+        <a href="#overview">Overview</a> •
+        <a href="#installation">Installation</a> •
+        <a href="#configuration">Configuration</a> •
+        <a href="#usage">Usage</a> •
     </p>
 </h3>
 
@@ -58,7 +64,7 @@ This is where you would have all of the instructions to install/build your proje
 ### Linux
 This is where you would have all of the instructions to install/build your project in Linux
 
-## Configuration
+# Configuration
 If your project allows/requires configuration settings, detail them here.
 
 * **ConfigValue-01**<br>
@@ -101,11 +107,17 @@ And when possible, include screenshots
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
 </p>
 
-# API
-API information goes here.
+
+
+# Updating
+If your project can be deployed, describe how to do so here.
+
 
 # Deploying
 If your project can be deployed, describe how to do so here.
+
+# API
+API information goes here.
 
 # How it works
 Sometimes it's nice to let users know what is happening "behind the scenes". If you feel like doing that, do it here.
@@ -116,30 +128,29 @@ A FAQ is a list of **F**requently **A**sked **Q**uestions.
 ### Can you have more than one question in a FAQ?.
 Yes.
 
-# Known issues
+# Development
+The current stable [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases) of Dotfiles & Gists, Etc. isn't real. And while Dotfiles & Gists, Etc. is constantly being developed, there isn't a real[development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development).
+
+### Known issues
 List any known issues with your project here.
 
-# Releases
-Dotfiles & Gists, Etc. doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases)
+### Contributing
+Please see the [contributing guidelines](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Contributing.md).
 
-# Development
-Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). You can also take a look at the [development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md)
-
-# Support
+### Support
 Support information goes here
+
+# Acknowledgements
+Many of these ideas have been taken from various excellent README.md files that I've run across, many of which can be found at [Matias Singers Awesome README](https://github.com/matiassingers/awesome-readme).
 
 # Credits
 Credits go here.
-
-# Contributing
-Please see the [contributing guidelines](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Contributing.md).
 
 # Built with
 * If you're using any external libraries, list them here
 * Also list any frameworks, etc.
 
-# Acknowledgements
-Many of these ideas have been taken from various excellent README.md files that I've run across, many of which can be found at [Matias Singers Awesome README](https://github.com/matiassingers/awesome-readme).
+
 
 # Who uses Dotfiles & Gists, Etc.
 I doubt anybody really uses any of this project, but if they did, I would list them here.
@@ -153,6 +164,7 @@ Other simular projects
 # Related files:
 * [Changelog](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Changelog.md)
 * [Roadmap](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Roadmap.md)
+* [Development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md)
 * [Testing procedures](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Testing-procedures.md)
 * [Issues](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/issues)
 * [Project boards](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/projects)
@@ -164,7 +176,7 @@ Do you want to write better README.md files? Here are some resources you may fin
 * An interesting article on [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 * [How to write good README and why should you care](https://thejunkland.com/blog/how-to-write-good-readme.html)
 
-# Licensing
+# License
 Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
 
 # Questions/Comments/Feedback
