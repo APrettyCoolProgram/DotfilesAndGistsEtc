@@ -1,9 +1,3 @@
-<h5 align="center">
-    <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="65">Developed by A Pretty Cool Program
-    <a href="https://github.com/APrettyCoolProgram">
-        <img align="middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub">
-    </a>
-</h5>
 <h1 align="center">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-logo.png" alt="dotFiles and Gists" width="65">
     <br>
@@ -180,3 +174,10 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 # Links
 * [Dotfiles & Gists, Etc. project homepage](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
 * [Dotfiles & Gists, Etc. project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
+
+<h5 align="center">
+    <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="65">Developed by A Pretty Cool Program
+    <a href="https://github.com/APrettyCoolProgram">
+        <img align="middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub">
+    </a>
+</h5>
