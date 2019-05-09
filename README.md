@@ -41,11 +41,11 @@ $ command-to-type -argument
 * Time
 
 # Installation
-### Windows
+#### Windows
 This is where you would have all of the instructions to install/build your project in Windows
-### MacOS
+#### MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
-### Linux
+#### Linux
 This is where you would have all of the instructions to install/build your project in Linux
 
 ## Configuration
