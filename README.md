@@ -1,42 +1,41 @@
 <h1 align="center">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dorfiles-gists-etc-project-logo.png" alt="dotFiles and Gists" width="65">
     <br>
-    Dotfiles & Gists
+    Dotfiles & Gists, Etc.
     <br>
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-    <img src="https://img.shields.io/badge/Various-blue.svg" alt="Platform">
-    <img src="https://img.shields.io/badge/Various-blue.svg" alt="Language">
-    <img src="https://img.shields.io/badge/Various-blue.svg" alt=".NET version">
+    <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
+    <img src="https://img.shields.io/badge/Framework-Various-blue.svg" alt="Framework">
     <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen.svg" alt="Development status">
     <a href="https://help.github.com/articles/about-pull-requests/">
         <img src="https://img.shields.io/badge/Pull Requests-Go%20for%20it-brightgreen.svg?style=shields" alt="Pull requests">
     </a>
 </h1>
 
-README
+<h4 align="center"> Current stable release: <a href=https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases/tag/1.0>1.0</a> (released MM/DD/YY)</h4>
 
+This project is a collection of my dotfiles and gists, wrapped in a standard template for a project README.md.
 
-<h4 align="center"> Current stable release: <a href=https://github.com/APrettyCoolProgram/myAvatool-EnvironmentCompare/releases>vversion</a> (released MM/DD/YY)</h4>
+For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it (they probably don't).
 
-A brief introduction/description of the project.
+Also, put a screenshot here that does a lets users know what the look-and-feel of your project is - maybe a login screen, or something.
 
 <p align="center">
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
 ## Features
-* List the major features of this project
-* Use seperate bullets for each feature
-* List anything that you think users would be interested in
+* Dotfiles for various IDEs and applications
+* Useful code snippits written in various languages
+* A nice README.md teplate you can use
 
 ## Requirements
-* Operating systems
-* Frameworks
-* Modules
-* Connectivity
+* A project
+* Iime
 
 ## Development
-Let users know the development status of the project, and where to find the [development branch](). Provide a link to the current [release]()", if available, and links to [changelogs](), and [roadmaps]().
+Dotfiles & Gists, ETC is constantly being developed, but there isn't a and where to find the [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). Provide a link to the current [release]()", if available, and links to [changelogs](), and [roadmaps]().
 
 ## The Master Project
 If this project is part of a larger project, link to that [here]().
