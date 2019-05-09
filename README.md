@@ -6,7 +6,7 @@
         </a>
         </a>
             <a href="https://twitter.com/aprettycoolprog">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="32">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="64">
         </a>
     </p>
 </h5>
