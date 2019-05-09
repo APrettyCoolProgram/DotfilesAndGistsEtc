@@ -43,19 +43,19 @@ Dotfiles & Gists, Etc. is a collection of various configuration files and code s
 
 In addition, the README for this project (this file) can be used as a template for your project's README.md. I've spent alot of time trying to create a great README that can be used for a variety of project types. Just copy the text from this file into your README, and modify it to fit your project.
 
-## Features
+### Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
 * List other features that are enticing
 
-## Use case scenarios
+### Use case scenarios
 Give some.
 
-## Demo
+### Demo
 If there is a demo, link to it here.
 
-## Requirements
+### Requirements
 * Various, depends on the dotfile/gist
 * List other requirements here
 
