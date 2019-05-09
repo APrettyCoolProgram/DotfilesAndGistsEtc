@@ -177,17 +177,17 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 <br>
 <h4 align="center">
     <p>
-        <img align="bottom" src="https://forthebadge.com/images/badges/built-with-love.svg">by A Pretty Cool Program
+        <img src="https://forthebadge.com/images/badges/built-with-love.svg">&nbsp; &nbsp;
         <a href="https://github.com/APrettyCoolProgram">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">&nbsp;
         </a>
         </a>
             <a href="https://twitter.com/aprettycoolprog">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Social_Icon_Circle_Color.png" alt="Twitter" width="32">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Social_Icon_Circle_Color.png" alt="Twitter" width="32">&nbsp;
         </a>
         </a>
             <a href="http://aprettycoolprogram.com">
-            <img  src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/icons8-website-filled-40.png" alt="Website" width="32">
+            <img  src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/icons8-website-filled-40.png" alt="Website" width="32">&nbsp;
         </a>
     </p>
 </h4>
