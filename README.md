@@ -24,13 +24,17 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 <p align="center">
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
+
 ***
+
 <h3>
     <p align="center">
     <a href="#overview">Overview</a> •
     <a href="#installation">Installation</a> •
     </p>
 </h3>
+
+***
 
 # Overview
 For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
