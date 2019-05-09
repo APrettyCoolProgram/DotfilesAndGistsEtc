@@ -14,19 +14,18 @@
 </h1>
 
 
-    <p align="center">
-       
-       <h3>
-        <a href="#overview">Overview</a> •
-        <a href="#dotfiles">Dotfiles</a> •
-        <a href="#gists">Gists</a> •
-        </h3>
-        <h4>
-        <a href="#acknowledgements">Acknowledgements</a> •
-        <a href="#additional-reading">Additional reading</a> •
-        <a href="#license">License</a>
-        </h4>
-    </p>
+<p align="center">
+    <h3>
+    <a href="#overview">Overview</a> •
+    <a href="#dotfiles">Dotfiles</a> •
+    <a href="#gists">Gists</a> •
+    </h3>
+    <h4>
+    <a href="#acknowledgements">Acknowledgements</a> •
+    <a href="#additional-reading">Additional reading</a> •
+    <a href="#license">License</a>
+    </h4>
+</p>
 
 
 ***
