@@ -35,7 +35,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 * Iime
 
 ## Development
-Dotfiles & Gists, ETC is constantly being developed, but there isn't a and where to find the [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). Provide a link to the current [release]()", if available, and links to [changelogs](), and [roadmaps]().
+Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). It also doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases). If the project had a [changelog](), or [roadmap](), they would be listed here.
 
 ## The Master Project
 If this project is part of a larger project, link to that [here]().
