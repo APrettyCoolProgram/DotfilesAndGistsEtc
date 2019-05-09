@@ -39,9 +39,9 @@
 ***
 
 # Overview
-Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files.
+Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-In addition, the README.md for this project (this file) can be used as a template for your project's README.md. I've spent alot of time trying to create the perfect README.md. Not sure if I've succeeded, but it seems to work pretty well for my projects.
+In addition, the README for this project (this file) can be used as a template for your project's README.md. I've spent alot of time trying to create a great README that can be used for a variety of project types. Just copy the text from this file into your README, and modify it to fit your project.
 
 ## Features
 * Dotfiles for various IDEs and applications
@@ -211,3 +211,5 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
         </a>
     </p>
 </h4>
+
+<--! This README.md was created using Dotfiles & Gists, Etc. (https://github.com/APrettyCoolProgram/dotfiles-gists-etc) -->
