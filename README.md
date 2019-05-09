@@ -30,46 +30,25 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
 
+## Usage
+If your project is run from the command line, or something simular, put that here. Keep it simple!
+```
+$ command-to-type -argument
+```
+
 ## Requirements
 * A project
-* Iime
+* Time
 
-## Development
-Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). It also doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases). If the project had a [changelog](), or [roadmap](), they would be listed here.
+# Installation
+### Windows
+This is where you would have all of the instructions to install/build your project in Windows
+### MacOS
+This is where you would have all of the instructions to install/build your project in MacOS
+### Linux
+This is where you would have all of the instructions to install/build your project in Linux
 
-## The Master Project
-If this project is part of a larger project, link to that [here]().
-
-## Project Usage
-List any instructions/steps to use the project.
-
-### Step One: Code snippits
-Be sure to include
-<br>
-> `code snippets when applicable`
-
-<br>
-
-### Step Two: Screenshots
-When possible, include screenshots
-<br>
-<p align="center">
-    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
-</p>
-
-
-Save the file as "ENVIRONMENT-APPLICATION[-Modules].rcsi", for example: `LIVE-PM-Modules.rcsi`
-
-When you're done, you should have the following files for each environment (replacing "ENVIRONMENT" with "LIVE/UAT/SBOX/BLD"):
-* ENVIRONMENT-RADplus.rcsi
-* ENVIRONMENT-PM.rcsi
-* ENVIRONMENT-PM-Modules.rcsi
-* ENVIRONMENT-CWS.rcsi
-* ENVIRONMENT-CWS-Modules.rcsi
-
-When you have all of the files (there should be 20 total), copy them to "myAvatool-EnvironmentCompare/AppData/CurentServerInformation/". 
-
-### Step Three: Configurations
+## Configuration
 If your project allows/requires configuration settings, detail them here.
 
 * **ConfigValue-01**<br>
@@ -79,3 +58,86 @@ This is a configuration setting.<br>
 * **ConfigValue-02**<br>
 (*"default_value"*)<br>
 This is another configuration setting.<br>
+
+## Using Project
+List any instructions/steps to use the project. Sometimes you can do this in a few paragraphs. Sometimes you're better off splitting everything into steps.
+
+Be sure to include
+> `code snippets when applicable`
+
+And when possible, include screenshots
+<br>
+<p align="center">
+    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
+</p>
+
+### Step One: Dotfiles
+My dotfiles:
+* **.gitignore**: The standard gitignore file for A Pretty Cool Program projects
+* **visual-studio-2017.settings: My VS2017 settings
+* **visual-studio-2019.settings: My VS2019 settings
+* **visual-studio-2019.editorconfig: My VS2019 editor settings
+* **resharper-19.1-EAP6.Dot.Settings: My Resharper settings (for 19.1 EAP6)
+<br>
+
+### Step Two: Gists
+This is a nice collection of Gists:
+##### General
+[**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
+##### C# .NET
+[**DuHTML**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): A collection of common methods for working with HTML data<br>
+[**DuList**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): A collection of common methods for working with Lists.<br>
+[**DuString**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): A collection of common mthods for working with strings.<br>
+
+## How it works
+Sometimes it's nice to let users know what is happening "behind the scenes". If you feel like doing that, do it here.
+
+## FAQ
+### What is a FAQ?
+A FAQ is a list of **F**requently **A**sked **Q**uestions.
+### Can you have more than one question in a FAQ?.
+Yes.
+
+## Known issues
+List any known issues with your project here.
+
+## Releases
+Dotfiles & Gists, Etc. doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases)
+
+## Development
+Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). 
+
+### Contributing
+Feel free to fork/pull this repository.
+
+# Project related files:
+* [Changelog](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Changelog.md)
+* [Roadmap](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Roadmap.md)
+* [Testing procedures](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Testing-procedures.md)
+* [Development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md).
+
+# Related projects
+If this project is part of another project, link to that [here](https://github.com/APrettyCoolProgram/dotfiles-gists-etc).
+
+# Additional reading
+Do you want to write better README.md files? Here are some resources you may find helpful:
+* [Matias Singers Awesome README](https://github.com/matiassingers/awesome-readme) has a plethora of excellent README.md examples 
+* An interesting article on [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [How to write good README and why should you care](https://thejunkland.com/blog/how-to-write-good-readme.html)
+
+# Built with
+* If you're using any external libraries, list them here
+* Also list any frameworks, etc.
+
+# Acknowledgements
+I'd like to thank the Academy!
+
+# Licensing
+Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+
+# Questions/Comments/Feedback
+<feedback@aprettycoolprogram>
+
+# Links
+* [Project homepage](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
+* [Project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
