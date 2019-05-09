@@ -54,7 +54,7 @@ This is a configuration setting.<br>
 This is another configuration setting.<br>
 
 ## Usage
-List any instructions/steps to use the project. Sometimes you can do this in a few paragraphs.
+List any instructions/steps to use the project.
 
 Sometimes this is as simple as providing a command:
 ```
@@ -65,20 +65,17 @@ Other times you're better off splitting everything into steps.
 ### Step One: Dotfiles
 My dotfiles:
 * **.gitignore**: The standard gitignore file for A Pretty Cool Program projects
-* **visual-studio-2017.settings: My VS2017 settings
-* **visual-studio-2019.settings: My VS2019 settings
-* **visual-studio-2019.editorconfig: My VS2019 editor settings
-* **resharper-19.1-EAP6.Dot.Settings: My Resharper settings (for 19.1 EAP6)
-<br>
+* **visual-studio-2017.settings**: My VS2017 settings
+* **visual-studio-2019.settings**: My VS2019 settings
+* **visual-studio-2019.editorconfig**: My VS2019 editor settings
+* **resharper-19.1-EAP6.Dot.Settings**: My Resharper settings (for 19.1 EAP6)
 
 ### Step Two: Gists
 This is a nice collection of Gists:
-#### General
-[**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
-#### C# .NET
-[**DuHTML**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): A collection of common methods for working with HTML data<br>
-[**DuList**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): A collection of common methods for working with Lists.<br>
-[**DuString**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): A collection of common mthods for working with strings.<br>
+* [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
+* [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
+* [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
+* [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
 
 ### Step Three: Fancy Stuff
 Be sure to include
