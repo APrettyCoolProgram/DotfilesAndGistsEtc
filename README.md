@@ -1,17 +1,3 @@
-<h5>
-    <p style="horizontal-align:center">
-        Developed by A Pretty Cool Program <img style="vertical-align:middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
-        <a href="https://github.com/APrettyCoolProgram">
-            <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
-        </a>
-        </a>
-            <a href="https://twitter.com/aprettycoolprog">
-            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="64">
-        </a>
-    </p>
-</h5>
-
-
 <h5 align="right">
     Developed by A Pretty Cool Program <img style="vertical-align:top" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
     <a href="https://github.com/APrettyCoolProgram">
@@ -198,3 +184,20 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 # Links
 * [Dotfiles & Gists, Etc. project homepage](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
 * [Dotfiles & Gists, Etc. project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
+
+<h5>
+    <p style="horizontal-align:center">
+        Developed by A Pretty Cool Program <img style="vertical-align:middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
+        <a href="https://github.com/APrettyCoolProgram">
+            <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
+        </a>
+        </a>
+            <a href="https://twitter.com/aprettycoolprog">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="64">
+        </a>
+        </a>
+            <a href="https://twitter.com/aprettycoolprog">
+            <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="64">
+        </a>
+    </p>
+</h5>
