@@ -13,20 +13,16 @@
     </a>
 </h1>
 
-
-<p align="center">
-    <h3>
-    <a href="#overview">Overview</a> •
-    <a href="#dotfiles">Dotfiles</a> •
-    <a href="#gists">Gists</a> •
-    <h4>
-    <a href="#acknowledgements">Acknowledgements</a> •
-    <a href="#additional-reading">Additional reading</a> •
-    <a href="#license">License</a>
-    </h4>
-    </h3>
-</p>
-
+<h4>
+    <p align="center">
+        <a href="#overview">Overview</a> •
+        <a href="#dotfiles">Dotfiles</a> •
+        <a href="#gists">Gists</a> •
+        <a href="#acknowledgements">Acknowledgements</a> •
+        <a href="#additional-reading">Additional reading</a> •
+        <a href="#license">License</a>
+    </p>
+</h4>
 
 ***
 
