@@ -1,4 +1,4 @@
-<h6 align="center">
+<h6 align="left">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="dotFiles and Gists" width="65">Developed by A Pretty Cool Program
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
