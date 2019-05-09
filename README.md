@@ -176,7 +176,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 * [Dotfiles & Gists, Etc. project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
 
 <h5 align="center">
-    Developed by A Pretty Cool Program <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="32">
+    Developed by A Pretty Cool Program <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="48">
     <a href="https://github.com/APrettyCoolProgram">
         <img align="middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
     </a>
