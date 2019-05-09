@@ -39,7 +39,9 @@
 ***
 
 # Overview
-For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? What's the point? Those sorts of things.
+Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files.
+
+In addition, the README.md for this project (this file) can be used as a template for your project's README.md. I've spent alot of time trying to create the perfect README.md. Not sure if I've succeeded, but it seems to work pretty well for my projects.
 
 ## Features
 * Dotfiles for various IDEs and applications
