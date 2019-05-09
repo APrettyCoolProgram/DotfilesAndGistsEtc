@@ -27,9 +27,8 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 
 ***
 
-<h4>
+<h3>
     <p align="center">
-        CONTENTS:&nbsp;
         <a href="#overview">Overview</a> •
         <a href="#installation">Installation</a> •
         <a href="#configuration">Configuration</a> •
@@ -39,7 +38,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
         <a href="#configuration">Configuration</a> •
         <a href="#usage">Usage</a>
     </p>
-</h4>
+</h3>
 
 ***
 
