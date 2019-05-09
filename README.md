@@ -1,4 +1,4 @@
-<h3>
+<h5>
     <p align="center">
         Developed by A Pretty Cool Program <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
         <a href="https://github.com/APrettyCoolProgram">
@@ -9,7 +9,7 @@
             <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="32">
         </a>
     </p>
-</h3>
+</h5>
 
 
 <h5 align="right">
