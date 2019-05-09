@@ -63,35 +63,6 @@ The Gists:
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
 * [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
 
-### Step Three: Fancy Stuff
-Be sure to include
-> `code snippets when applicable`
-
-And when possible, include screenshots
-<br>
-<p align="center">
-    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
-</p>
-
-# Examples
-If your project has examples, give them here.
-
-
-# Updating
-If your project can be updated, describe how to do so here.
-
-# Uninstall
-If your project can be uninstalled, describe how to do so here.
-
-# Deploying
-If your project can be deployed, describe how to do so here.
-
-# API
-API information goes here.
-
-# How it works
-Sometimes it's nice to let users know what is happening "behind the scenes". If you feel like doing that, do it here.
-
 # FAQ
 ### What is a FAQ?
 A FAQ is a list of **F**requently **A**sked **Q**uestions.
@@ -99,32 +70,10 @@ A FAQ is a list of **F**requently **A**sked **Q**uestions.
 Yes.
 
 # Development
-The current stable [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases) of Dotfiles & Gists, Etc. isn't real. And while Dotfiles & Gists, Etc. is constantly being developed, there isn't a real[development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development).
-
-### Known issues
-List any known issues with your project here.
-
-### Contributing
-Please see the [contributing guidelines](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Contributing.md).
-
-### Support
-Support information goes here
+Dotfiles & Gists, Etc. is in perpetual development, but there aren't any releases or development branches. Everything is here in the master branch.
 
 # Acknowledgements
 Many of these ideas have been taken from various excellent README.md files that I've run across, many of which can be found at [Matias Singers Awesome README](https://github.com/matiassingers/awesome-readme).
-
-# Credits
-Credits go here.
-
-# Built with
-* If you're using any external libraries, list them here
-* Also list any frameworks, etc.
-
-# Who uses Dotfiles & Gists, Etc.
-I doubt anybody really uses any of this project, but if they did, I would list them here.
-
-# Related projects
-If this project is part of another project, link to that [here](https://github.com/APrettyCoolProgram/dotfiles-gists-etc).
 
 # You may also like
 Other simular projects
