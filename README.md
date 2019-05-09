@@ -25,26 +25,21 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
-# Features
+## Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
 
-# Usage
-If your project is run from the command line, or something simular, put that here. Keep it simple!
-```
-$ command-to-type -argument
-```
-# Requirements
+## Requirements
 * A project
 * Time
 
 # Installation
-## Windows
+### Windows
 This is where you would have all of the instructions to install/build your project in Windows
-## MacOS
+### MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
-## Linux
+### Linux
 This is where you would have all of the instructions to install/build your project in Linux
 
 ## Configuration
@@ -58,17 +53,14 @@ This is a configuration setting.<br>
 (*"default_value"*)<br>
 This is another configuration setting.<br>
 
-## Using Project
-List any instructions/steps to use the project. Sometimes you can do this in a few paragraphs. Sometimes you're better off splitting everything into steps.
+## Usage
+List any instructions/steps to use the project. Sometimes you can do this in a few paragraphs.
 
-Be sure to include
-> `code snippets when applicable`
-
-And when possible, include screenshots
-<br>
-<p align="center">
-    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
-</p>
+Sometimes this is as simple as providing a command:
+```
+$ command-to-type -argument
+```
+Other times you're better off splitting everything into steps.
 
 ### Step One: Dotfiles
 My dotfiles:
@@ -81,12 +73,22 @@ My dotfiles:
 
 ### Step Two: Gists
 This is a nice collection of Gists:
-##### General
+#### General
 [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
-##### C# .NET
+#### C# .NET
 [**DuHTML**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): A collection of common methods for working with HTML data<br>
 [**DuList**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): A collection of common methods for working with Lists.<br>
 [**DuString**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): A collection of common mthods for working with strings.<br>
+
+### Step Three: Fancy Stuff
+Be sure to include
+> `code snippets when applicable`
+
+And when possible, include screenshots
+<br>
+<p align="center">
+    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
+</p>
 
 ## How it works
 Sometimes it's nice to let users know what is happening "behind the scenes". If you feel like doing that, do it here.
