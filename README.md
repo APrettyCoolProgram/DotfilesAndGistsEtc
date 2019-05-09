@@ -13,15 +13,13 @@
     </a>
 </h1>
 
-***
-
 <h3>
     <p align="center">
         <a href="#overview">Overview</a> •
-        <a href="#usage">Usage</a> •
-        <a href="#faq">FAQ</a> •
-        <a href="#development">Development</a> •
-        <a href="#related">Related</a> •
+        <a href="#dotfiles">Dotfiles</a> •
+        <a href="#gists">Gists</a> •
+        <a href="#acknowledgements">Acknowledgements</a> •
+        <a href="#additional-reading">Additional reading</a> •
         <a href="#license">License</a>
     </p>
 </h3>
