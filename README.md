@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dorfiles-gists-etc-project-logo.png" alt="dotFiles and Gists" width="65">
     <br>
-    Project name
+    Dotfiles & Gists
     <br>
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/Various-blue.svg" alt="Platform">
