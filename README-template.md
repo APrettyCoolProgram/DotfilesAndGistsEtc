@@ -14,9 +14,11 @@
 </h1>
 
 <h4>
-    <p align="center">
-        <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
-    </p>
+<p align="center">
+    <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
+    <br>
+    Current stable release: <a href=https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases/tag/1.0>1.0</a> (released MM/DD/YY)
+</p>
 </h4>
 
 ***
@@ -37,27 +39,66 @@
 ***
 
 # Overview
-Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
-
-In addition, this project contains README template that can be used as a template for your project's README.md. I've spent alot of time trying to create a great README that can be used for a variety of project types. Just copy the text from this README template file into your README, and modify it to fit your project.
+For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
 
 ### Features
+* This is where you'll list all of the important project features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md template you can use in your project
 
+### Use case scenarios
+If your project has helpful use case scenarios, discuss them here.
+
+### Demo
+If there is a demo for your project, link to it [here](http://my-project-demo).
+
 ### Requirements
-There aren't any project-specific requirements, but most of the dotfiles/gists do require various packages/applications/frameworks be installed.
+
+* Various, depends on the dotfile/gist
+
+# Installation
+This is where you'll list t
+
+Most of these dotfiles/gists require other software to be installed, it just depends on what dotfile/gist you are using.
+
+### Windows
+This is where you would have all of the instructions to install/build your project in Windows.
+
+### MacOS
+This is where you would have all of the instructions to install/build your project in MacOS.
+
+### Linux
+This is where you would have all of the instructions to install/build your project in Linux.
+
+# Configuration
+Dotfiles & Gists, Etc. doesn't require any configuration, but if your project does you should detail that here. You should also include any configuration filenames and locations.
+
+* **ConfigValue-01**<br>
+(*"default_value"*)<br>
+This is a configuration setting.<br>
+
+* **ConfigValue-02**<br>
+(*"default_value"*)<br>
+This is another configuration setting.<br>
 
 # Usage
-The dotfiles:
+List any instructions/steps to use the project.
+
+Sometimes this is as simple as providing a command:
+```
+$ command-to-type -argument
+```
+Other times you're better off splitting everything into steps.
+
+### Step One: My Dotfiles
 * **.gitignore**: The standard gitignore file for A Pretty Cool Program projects
 * **visual-studio-2017.settings**: My VS2017 settings
 * **visual-studio-2019.settings**: My VS2019 settings
 * **visual-studio-2019.editorconfig**: My VS2019 editor settings
 * **resharper-19.1-EAP6.Dot.Settings**: My Resharper settings (for 19.1 EAP6)
 
-The Gists:
+### Step Two: My Gists
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
