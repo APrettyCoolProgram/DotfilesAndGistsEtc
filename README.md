@@ -15,11 +15,12 @@
 
 <h4 align="center"> Current stable release: <a href=https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases/tag/1.0>1.0</a> (released MM/DD/YY)</h4>
 
-This project is a collection of my dotfiles and gists, wrapped in a standard template for a project README.md.
+Dotfiles & Gists, Etc. is a collection of my various dotfiles and gists, wrapped in a standard template for a project README.md.
 
-For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
+Maybe
+> Put a cool quote here? - me
 
-Also, put a screenshot here that does a lets users know what the look-and-feel of your project is - maybe a login screen, or something.
+Here is a screenshot, so you know what it looks like:
 
 <p align="center">
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
@@ -43,13 +44,19 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 ***
 
 # Overview
-For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
+For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? What's the point? Those sorts of things.
 
 ## Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
 * List other features that are enticing
+
+## Use case scenarios
+Give some.
+
+## Demo
+If there is a demo, link to it here.
 
 ## Requirements
 * Various, depends on the dotfile/gist
@@ -65,12 +72,6 @@ This is where you would have all of the instructions to install/build your proje
 
 ### Linux
 This is where you would have all of the instructions to install/build your project in Linux
-
-## Updating
-If your project can be updated, describe how to do so here.
-
-## Uninstall
-If your project can be uninstalled, describe how to do so here.
 
 # Configuration
 If your project allows/requires configuration settings, detail them here.
@@ -115,10 +116,15 @@ And when possible, include screenshots
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
 </p>
 
+# Examples
+If your project has examples, give them here.
 
 
+# Updating
+If your project can be updated, describe how to do so here.
 
-
+# Uninstall
+If your project can be uninstalled, describe how to do so here.
 
 # Deploying
 If your project can be deployed, describe how to do so here.
@@ -156,8 +162,6 @@ Credits go here.
 # Built with
 * If you're using any external libraries, list them here
 * Also list any frameworks, etc.
-
-
 
 # Who uses Dotfiles & Gists, Etc.
 I doubt anybody really uses any of this project, but if they did, I would list them here.
