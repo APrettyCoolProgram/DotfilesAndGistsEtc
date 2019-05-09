@@ -1,5 +1,5 @@
 <h6 align="center">
-    <img align="middle" hspace="50" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="dotFiles and Gists" width="65">Developed by A Pretty Cool Program
+    <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="dotFiles and Gists" width="65">Developed by A Pretty Cool Program
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
     <img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
