@@ -44,6 +44,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 
 # Overview
 For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
+
 ## Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
@@ -55,13 +56,14 @@ For example, this is the part of the README.md that you would use to describe yo
 * List other requirements here
 
 # Installation
-### Windows
+## Windows
 Most of these dotfiles/gists require other software to be installed.
 
 For instance, the Visual Studio setting dotfiles require a version of Microsoft's Visual Studio.
-### MacOS
+## MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
-### Linux
+
+## Linux
 This is where you would have all of the instructions to install/build your project in Linux
 
 # Configuration
