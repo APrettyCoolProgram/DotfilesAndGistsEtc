@@ -25,11 +25,13 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
-```
- Table of contents
-* [Features](#features)
-```
+# Table of contents
+* [Overview](#overview)
+    * [Features](#features)
+    * [Requirements](#requirements)
 
+# Overview
+For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
 
 ## Features
 * Dotfiles for various IDEs and applications
