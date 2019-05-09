@@ -62,16 +62,14 @@ $ command-to-type -argument
 ```
 Other times you're better off splitting everything into steps.
 
-### Step One: Dotfiles
-My dotfiles:
+### Step One: My Dotfiles
 * **.gitignore**: The standard gitignore file for A Pretty Cool Program projects
 * **visual-studio-2017.settings**: My VS2017 settings
 * **visual-studio-2019.settings**: My VS2019 settings
 * **visual-studio-2019.editorconfig**: My VS2019 editor settings
 * **resharper-19.1-EAP6.Dot.Settings**: My Resharper settings (for 19.1 EAP6)
 
-### Step Two: Gists
-This is a nice collection of Gists:
+### Step Two: My Gists
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
