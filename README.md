@@ -5,8 +5,6 @@
     </a>
 </h5>
 
-
-
 <h1 align="center">
     <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-logo.png" alt="dotFiles and Gists" width="65">
     <br>
