@@ -177,7 +177,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 <h4 align="center">
     <p>
         <div>
-            <img style="float:left" src="https://forthebadge.com/images/badges/built-with-love.svg"> by A Pretty Cool Program
+            <img style="float:left" src="https://forthebadge.com/images/badges/built-with-love.svg"> by A Pretty Cool Programd
         </div>
         <br>
         <br>
