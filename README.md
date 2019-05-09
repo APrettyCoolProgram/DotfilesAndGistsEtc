@@ -24,13 +24,11 @@
 <h3>
     <p align="center">
         <a href="#overview">Overview</a> •
-        <a href="#installation">Installation</a> •
-        <a href="#configuration">Configuration</a> •
         <a href="#usage">Usage</a> •
-        <a href="#overview">Overview</a> •
-        <a href="#installation">Installation</a> •
-        <a href="#configuration">Configuration</a> •
-        <a href="#usage">Usage</a>
+        <a href="#faq">FAQ</a> •
+        <a href="#development">Development</a> •
+        <a href="#related">Related</a> •
+        <a href="#license">License</a>
     </p>
 </h3>
 
