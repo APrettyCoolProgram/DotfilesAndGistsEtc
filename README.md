@@ -25,14 +25,12 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
-# Table of contents
-* [Overview](#overview)
-    * [Features](#features)
-    * [Requirements](#requirements)
+***
+[Overview](#overview) [Features](#features) [Requirements](#requirements)
+***
 
 # Overview
 For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
-
 ## Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
@@ -126,11 +124,14 @@ Feel free to fork/pull this repository.
 # Who uses Dotfiles & Gists, Etc.
 I doubt anybody really uses any of this project, but if they did, I would list them here.
 
-# Project related files:
+# Related files:
 * [Changelog](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Changelog.md)
 * [Roadmap](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Roadmap.md)
 * [Testing procedures](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Testing-procedures.md)
-* [Development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md).
+* [Development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md)
+* [Issues](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/issues)
+* [Project boards](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/projects)
+* [Wiki](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/wiki)
 
 # Related projects
 If this project is part of another project, link to that [here](https://github.com/APrettyCoolProgram/dotfiles-gists-etc).
