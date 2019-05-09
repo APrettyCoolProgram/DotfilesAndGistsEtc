@@ -16,7 +16,7 @@
 <h4>
 <p align="center">
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
-        Current stable release: <a href=https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases/tag/1.0>1.0</a> (released MM/DD/YY)
+    <br>Current stable release: <a href=https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases/tag/1.0>1.0</a> (released MM/DD/YY)
 </p>
 </h4>
 
