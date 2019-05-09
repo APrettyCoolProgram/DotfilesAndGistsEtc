@@ -177,8 +177,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 
 <br>
 <br>
-<br>
-<h5 align="center">
+<h4 align="center">
     <p>
         Developed by A Pretty Cool Program
         <br>
@@ -195,4 +194,4 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
             <img  src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/icons8-website-filled-40.png" alt="Website" width="32">
         </a>
     </p>
-</h5>
+</h4>
