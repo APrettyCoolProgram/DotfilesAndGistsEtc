@@ -1,12 +1,7 @@
 <h6 align="center">
-    <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="dotFiles and Gists" width="65">Developed by A Pretty Cool Program
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-    <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
-    <img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
-    <img src="https://img.shields.io/badge/Framework-Various-blue.svg" alt="Framework">
-    <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen.svg" alt="Development status">
-    <a href="https://help.github.com/articles/about-pull-requests/">
-        <img src="https://img.shields.io/badge/Pull Requests-Go%20for%20it-brightgreen.svg?style=shields" alt="Pull requests">
+    <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="65">Developed by A Pretty Cool Program
+    <a href="https://github.com/APrettyCoolProgram">
+        <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub">
     </a>
 </h6>
 
