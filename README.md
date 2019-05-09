@@ -35,17 +35,16 @@ If your project is run from the command line, or something simular, put that her
 ```
 $ command-to-type -argument
 ```
-
 ## Requirements
 * A project
 * Time
 
 # Installation
-#### Windows
+### Windows
 This is where you would have all of the instructions to install/build your project in Windows
-#### MacOS
+### MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
-#### Linux
+### Linux
 This is where you would have all of the instructions to install/build your project in Linux
 
 ## Configuration
