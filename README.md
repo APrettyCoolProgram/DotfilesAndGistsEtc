@@ -123,7 +123,7 @@ List any known issues with your project here.
 Dotfiles & Gists, Etc. doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases)
 
 # Development
-Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). 
+Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). You can also take a look at the [development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md)
 
 # Support
 Support information goes here
@@ -132,7 +132,7 @@ Support information goes here
 Credits go here.
 
 # Contributing
-Feel free to fork/pull this repository.
+Please see the [contributing guidelines](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Contributing.md).
 
 # Built with
 * If you're using any external libraries, list them here
@@ -154,7 +154,6 @@ Other simular projects
 * [Changelog](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Changelog.md)
 * [Roadmap](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Roadmap.md)
 * [Testing procedures](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Testing-procedures.md)
-* [Development notes](https://github.com/APrettyCoolProgram/GRU-ReadmeToPDF/blob/master/src/AppData/Documentation/Development-notes.md)
 * [Issues](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/issues)
 * [Project boards](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/projects)
 * [Wiki](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/wiki)
@@ -177,7 +176,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 <br>
 <h4 align="center">
     <p>
-        Developed by A Pretty Cool Program
+        <img src="https://forthebadge.com/images/badges/built-with-love.svg"> by A Pretty Cool Program
         <br>
         <br>
         <a href="https://github.com/APrettyCoolProgram">
@@ -193,3 +192,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
         </a>
     </p>
 </h4>
+
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
