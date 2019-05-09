@@ -1,3 +1,15 @@
+<h3>
+    <p align="center">
+    <a href="https://github.com/APrettyCoolProgram">
+        <img align="bottom" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub" width="32">
+    </a>
+    </a>
+        <a href="https://twitter.com/aprettycoolprog">
+        <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/Twitter_Logo_Blue.png" alt="Twitter" width="32">
+    </a>
+</h3>
+
+
 <h5 align="right">
     Developed by A Pretty Cool Program <img style="vertical-align:top" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="75">
     <a href="https://github.com/APrettyCoolProgram">
