@@ -17,7 +17,7 @@
 
 This project is a collection of my dotfiles and gists, wrapped in a standard template for a project README.md.
 
-For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it (they probably don't).
+For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
 
 Also, put a screenshot here that does a lets users know what the look-and-feel of your project is - maybe a login screen, or something.
 
@@ -25,18 +25,26 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
+# Table of contents
+* [Features](#features)
+
+
+
 ## Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
+* List other features that are enticing
 
 ## Requirements
-* A project
-* Time
+* Various, depends on the dotfile/gist
+* List other requirements here
 
 # Installation
 ### Windows
-This is where you would have all of the instructions to install/build your project in Windows
+Most of these dotfiles/gists require other software to be installed.
+
+For instance, the Visual Studio setting dotfiles require a version of Microsoft's Visual Studio.
 ### MacOS
 This is where you would have all of the instructions to install/build your project in MacOS
 ### Linux
@@ -53,7 +61,7 @@ This is a configuration setting.<br>
 (*"default_value"*)<br>
 This is another configuration setting.<br>
 
-## Usage
+# Usage
 List any instructions/steps to use the project.
 
 Sometimes this is as simple as providing a command:
@@ -85,26 +93,35 @@ And when possible, include screenshots
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-01.png" alt="Alternate text for image" width="600">
 </p>
 
-## How it works
+# API
+API information goes here.
+
+# Deploying
+If your project can be deployed, describe how to do so here.
+
+# How it works
 Sometimes it's nice to let users know what is happening "behind the scenes". If you feel like doing that, do it here.
 
-## FAQ
+# FAQ
 ### What is a FAQ?
 A FAQ is a list of **F**requently **A**sked **Q**uestions.
 ### Can you have more than one question in a FAQ?.
 Yes.
 
-## Known issues
+# Known issues
 List any known issues with your project here.
 
-## Releases
+# Releases
 Dotfiles & Gists, Etc. doesn't have an official [release](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/releases)
 
-## Development
+# Development
 Dotfiles & Gists, Etc. is constantly being developed, but there isn't a [development branch](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/tree/development). 
 
-### Contributing
+# Contributing
 Feel free to fork/pull this repository.
+
+# Who uses Dotfiles & Gists, Etc.
+I doubt anybody really uses any of this project, but if they did, I would list them here.
 
 # Project related files:
 * [Changelog](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Documentation/Changelog.md)
@@ -126,7 +143,7 @@ Do you want to write better README.md files? Here are some resources you may fin
 * Also list any frameworks, etc.
 
 # Acknowledgements
-I'd like to thank the Academy!
+Many of these ideas have been taken from various excellent README.md files that I've run across, many of which can be found at [Matias Singers Awesome README](https://github.com/matiassingers/awesome-readme).
 
 # Licensing
 Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
@@ -135,5 +152,5 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 <feedback@aprettycoolprogram>
 
 # Links
-* [Project homepage](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
-* [Project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
+* [Dotfiles & Gists, Etc. project homepage](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
+* [Dotfiles & Gists, Etc. project repository](https://github.com/APrettyCoolProgram/dotfiles-gists-etc)
