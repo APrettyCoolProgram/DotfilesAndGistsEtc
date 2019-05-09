@@ -177,7 +177,7 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
 <h4 align="center">
     <p>
         <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-        <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="APCP" width="64">
+        <img style="vertical-align:middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="APCP" width="64">
     </p>
     <p>
         <a href="https://github.com/APrettyCoolProgram">
