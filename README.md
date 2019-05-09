@@ -25,17 +25,17 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
     <img align="center" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-gists-etc-project-screenshot-00.png" alt="Alternate text for image" width="600">
 </p>
 
-## Features
+# Features
 * Dotfiles for various IDEs and applications
 * Useful code snippits written in various languages
 * A nice README.md teplate you can use
 
-## Usage
+# Usage
 If your project is run from the command line, or something simular, put that here. Keep it simple!
 ```
 $ command-to-type -argument
 ```
-## Requirements
+# Requirements
 * A project
 * Time
 
