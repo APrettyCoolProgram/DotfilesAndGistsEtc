@@ -26,7 +26,7 @@ Also, put a screenshot here that does a lets users know what the look-and-feel o
 </p>
 
 ***
-### [Overview](#overview) [Features](#features) [Requirements](#requirements)
+### [Overview](#overview) | Installation(#installation)
 
 # Overview
 For example, this is the part of the README.md that you would use to describe your project and what it can be used for. Maybe write about why you created the project (I wanted all of my dotfiles and code snippits in one place), or why other people would care about it. What makes this project unique? Why would somebody want to use it? Those sorts of things.
