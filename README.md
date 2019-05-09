@@ -1,9 +1,9 @@
-<h6 align="center">
+<h5 align="center">
     <img align="middle" hspace="10" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/apcp-logo.png" alt="A Pretty Cool Program" width="65">Developed by A Pretty Cool Program
     <a href="https://github.com/APrettyCoolProgram">
-        <img align="middle"  src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub">
+        <img align="middle" src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/GitHub-Mark-32px.png" alt="GitHub">
     </a>
-</h6>
+</h5>
 
 
 
