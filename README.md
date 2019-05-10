@@ -1,13 +1,15 @@
-<img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="300">
-<br>
-<img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-<img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
-<img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
-<img src="https://img.shields.io/badge/Framework-Various-blue.svg" alt="Framework">
-<img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen.svg" alt="Development status">
-<a href="https://help.github.com/articles/about-pull-requests/">
-    <img src="https://img.shields.io/badge/Pull Requests-Go%20for%20it-brightgreen.svg?style=shields" alt="Pull requests">
-</a>
+<p align="center">
+    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="300">
+    <br>
+    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
+    <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
+    <img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
+    <img src="https://img.shields.io/badge/Framework-Various-blue.svg" alt="Framework">
+    <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen.svg" alt="Development status">
+    <a href="https://help.github.com/articles/about-pull-requests/">
+        <img src="https://img.shields.io/badge/Pull Requests-Go%20for%20it-brightgreen.svg?style=shields" alt="Pull requests">
+    </a>
+</p>
 
 ***
 
