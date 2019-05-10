@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="300">
+    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="500">
     <br>
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
     <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
