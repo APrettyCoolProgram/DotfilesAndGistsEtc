@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="65">
+    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="300">
     <br>
     Dotfiles & Gists, Etc.
     <br>
