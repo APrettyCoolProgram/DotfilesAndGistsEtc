@@ -84,4 +84,4 @@ Dotfiles & Gists, Etc. is licensed under the [Apache 2.0 License](https://www.ap
     </p>
 </h4>
 
-<!-- This README.md was created using Dotfiles & Gists, Etc. (https://github.com/APrettyCoolProgram/dotfiles-gists-etc) -->
+<!-- This README.md was created using GRU-ReadmeTemplate (https://github.com/APrettyCoolProgram/GRU-ReadmeTemplate) -->
