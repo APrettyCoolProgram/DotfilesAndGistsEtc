@@ -8,7 +8,7 @@
 Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
 
-# Dotfiles
+# DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
 * [**visual-studio-2017.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2017.vssettings): My VS2017 settings
 * [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.vssettings): My VS2019 settings
@@ -17,7 +17,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files and code s
 
 <h1><!-- Seperator --></h1>
 
-# Gists
+# GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
