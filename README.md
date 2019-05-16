@@ -1,32 +1,10 @@
-<p align="center">
-    <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="dotFiles and Gists" width="500">
-    <br>
-    <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License">
-    <img src="https://img.shields.io/badge/Platform-Various-blue.svg" alt="Platform">
-    <img src="https://img.shields.io/badge/Language-Various-blue.svg" alt="Language">
-    <img src="https://img.shields.io/badge/Framework-Various-blue.svg" alt="Framework">
-    <img src="https://img.shields.io/badge/Development%20Status-Active-brightgreen.svg" alt="Development status">
-    <a href="https://help.github.com/articles/about-pull-requests/">
-        <img src="https://img.shields.io/badge/Pull Requests-Go%20for%20it-brightgreen.svg?style=shields" alt="Pull requests">
-    </a>
-</p>
+<!-- Built using GRU-Readme b190516 (https://github.com/APrettyCoolProgram/GRU-Readme) -->
 
-***
+<h2 align="center">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="Dotfiles & Gists, Etc." width="500"><br>
+  A collection of utilities for GitHub code repositories
+</h2>
 
-<h4>
-    <p align="center">
-        <a href="#overview">Overview</a> •
-        <a href="#dotfiles">Dotfiles</a> •
-        <a href="#gists">Gists</a> •
-        <a href="#acknowledgements">Acknowledgements</a> •
-        <a href="#additional-reading">Additional reading</a> •
-        <a href="#license">License</a>
-    </p>
-</h4>
-
-***
-
-# Overview
 Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
 <h1><!-- Seperator --></h1>
