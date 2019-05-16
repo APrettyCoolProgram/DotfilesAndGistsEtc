@@ -16,7 +16,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files and code s
 * [**resharper-19.1-EAP6.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): My Resharper settings (for 19.1 EAP6)
 
 # GISTS
-* [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
+* [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
 * [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
