@@ -15,8 +15,6 @@ Dotfiles & Gists, Etc. is a collection of various configuration files and code s
 * [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.editorconfig): My VS2019 editor settings
 * [**resharper-19.1-EAP6.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): My Resharper settings (for 19.1 EAP6)
 
-<h1><!-- Seperator --></h1>
-
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.<br
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
