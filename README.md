@@ -5,8 +5,7 @@
   A collection of utilities for GitHub code repositories
 </h2>
 
-Dotfiles & Gists, Etc. is a collection of various configuration files and code snippits that I've created over the years, and tend to need often. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
-
+Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
@@ -20,6 +19,15 @@ Dotfiles & Gists, Etc. is a collection of various configuration files and code s
 * [**DuHTML.cs**](https://gist.github.com/APrettyCoolProgram/564cb0acd1419003c29624a7d5318064): Common C#.NET methods for working with HTML data<br>
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
 * [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
+
+# EXTENSIONS
+* Visual Studio 2019 Community
+  * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+  * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+  * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+  * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+  * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
+  * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 
 ***
 
