@@ -9,10 +9,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
-* [**visual-studio-2017.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2017.vssettings): My VS2017 settings
-* [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.vssettings): My VS2019 settings
-* [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.editorconfig): My VS2019 editor settings
-* [**resharper-19.1.1.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): My ReSharper settings (for 19.1.1)
+* [**visual-studio-2017.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2017.vssettings): Visual Studio Community 2017 settings
+* [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.vssettings): Visual Studio Community 2017 settings
+* [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.editorconfig): Visual Studio Community 2017 editor settings
+* [**resharper-19.1.1.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): ReSharper 19.1.1 settings
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
