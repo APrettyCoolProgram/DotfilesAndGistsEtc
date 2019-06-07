@@ -12,7 +12,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**visual-studio-2017.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2017.vssettings): My VS2017 settings
 * [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.vssettings): My VS2019 settings
 * [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.editorconfig): My VS2019 editor settings
-* [**resharper-19.1-EAP6.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): My Resharper settings (for 19.1 EAP6)
+* [**resharper-19.1.1.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): My ReSharper settings (for 19.1.1)
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
