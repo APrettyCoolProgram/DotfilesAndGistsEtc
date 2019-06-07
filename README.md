@@ -35,7 +35,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   Questions/Comments/Feedback: <a href = "mailto: feedback@aprettycoolprogram.com">feedback@aprettycoolprogram.com</a>
   <br>
   <br>
-
-  [![https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg](https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg)](https://aprettycoolprogram.com)&nbsp;&nbsp;[![https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;&nbsp;[![https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/APrettyCoolProgram)&nbsp;&nbsp;[![https://img.shields.io/badge/README%20built%20using-GRU%20Readme-yellow.svg](https://img.shields.io/badge/GRU%20Readme-Style%2003-yellow.svg)](https://github.com/APrettyCoolProgram/GRU-Readme)
-
+  
+ [![https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg](https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg)](https://aprettycoolprogram.com)&nbsp;&nbsp;[![https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;&nbsp;[![https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/APrettyCoolProgram)&nbsp;&nbsp;[![https://img.shields.io/badge/README%20built%20using-GRU%20Readme-yellow.svg](https://img.shields.io/badge/README%20built%20using-GRU%20Readme-yellow.svg)](https://github.com/APrettyCoolProgram/GRU-Readme)
+ 
 </h5>
