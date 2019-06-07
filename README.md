@@ -2,7 +2,7 @@
 
 <h2 align="center">
   <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="Dotfiles & Gists, Etc." width="500"><br>
-  A collection of utilities for GitHub code repositories
+  A collection of dotfiles, code snippits, and other useful things for development
 </h2>
 
 Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
