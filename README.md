@@ -23,6 +23,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 # EXTENSIONS
 * Visual Studio 2019 Community
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+  * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
   * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
@@ -37,5 +38,5 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   <br>
   
  [![https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg](https://img.shields.io/badge/Developed%20by-A%20Pretty%20Cool%20Program-orange.svg)](https://aprettycoolprogram.com)&nbsp;&nbsp;[![https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;&nbsp;[![https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/APrettyCoolProgram)&nbsp;&nbsp;[![https://img.shields.io/badge/README%20built%20using-GRU%20Readme-yellow.svg](https://img.shields.io/badge/README%20built%20using-GRU%20Readme-yellow.svg)](https://github.com/APrettyCoolProgram/GRU-Readme)
- 
+
 </h5>
