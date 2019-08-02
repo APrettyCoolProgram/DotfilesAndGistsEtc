@@ -30,6 +30,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 
+# MTGJSON
+* [**C# Set class**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/MTGJSON/MGJSON_set.cs)
+
+
 ***
 
 <h5 align="middle">
