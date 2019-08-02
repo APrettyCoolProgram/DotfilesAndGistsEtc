@@ -31,7 +31,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 
 # MTGJSON
-* [**C# Set class**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/MTGJSON/MGJSON_set.cs)
+* [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
 
 
 ***
