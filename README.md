@@ -24,6 +24,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * Visual Studio 2019 Community
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
+  * [** Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
   * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
