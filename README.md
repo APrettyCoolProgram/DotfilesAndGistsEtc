@@ -1,18 +1,17 @@
 <!-- Built using GRU-Readme b190516 (https://github.com/APrettyCoolProgram/GRU-Readme) -->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/Project/dotfiles-and-gists-etc-logo.png" alt="Dotfiles & Gists, Etc." width="500"><br>
-  A collection of dotfiles, code snippits, and other useful things for development
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/project-logo.png" alt="Dotfiles & Gists, Etc." width="500"><br>
+  A collection of dotfiles, code snippits, and other useful things
 </h2>
 
 Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
-* [**visual-studio-2017.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2017.vssettings): Visual Studio Community 2017 settings
-* [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.vssettings): Visual Studio Community 2017 settings
-* [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/visual-studio-2019.editorconfig): Visual Studio Community 2017 editor settings
-* [**resharper-19.1.1.Dot.Settings**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/resharper-19.1-EAP6.DotSettings): ReSharper 19.1.1 settings
+* [**visual-studio-2019.settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/visual-studio-2019.vssettings): Visual Studio Community 2019 settings
+* [**visual-studio-2019.editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/visual-studio-2019.editorconfig): Visual Studio Community 2019 editor settings
+* [**resharper.DotSettings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/resharper-19.1.3.DotSettings): ReSharper settings
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
@@ -21,13 +20,13 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
 
 # A PRETTY COOL THEME
-* [**Visual Studio 2019**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/APrettyCoolTheme/VisualStudio2019)
+* [**Visual Studio 2019**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/Etc/APrettyCoolTheme/VisualStudio2019)
 
 # RECOMMENDED EXTENSIONS
 * Visual Studio 2019 Community
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-  * [** Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+  * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
   * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
@@ -35,8 +34,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 
 # MTGJSON
-* [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
-
+* [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Etc/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
 
 ***
 
