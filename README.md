@@ -20,7 +20,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**DuList.cs**](https://gist.github.com/APrettyCoolProgram/c4da726cd93e11e3e9c7568be58ff342): Common C#.NET methods for working with Lists.<br>
 * [**DuString.cs**](https://gist.github.com/APrettyCoolProgram/3f48bafc3ff1f1c95d7100de2fff4db0): Common C#.NET methods for working with strings.<br>
 
-# EXTENSIONS
+# A PRETTY COOL THEME
+* [**Visual Studio 2019**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/APrettyCoolTheme/VisualStudio2019)
+
+# RECOMMENDED EXTENSIONS
 * Visual Studio 2019 Community
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
