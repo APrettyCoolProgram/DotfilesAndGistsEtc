@@ -1,1 +1,0 @@
-This is where you project's contributing guidelines would go.

@@ -1,1 +1,0 @@
-This is where your project testing procedures would go.
