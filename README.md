@@ -32,6 +32,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
   * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+* Visual Studio Code
+  * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
+
+
 
 # MTGJSON
 * [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Etc/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
