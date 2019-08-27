@@ -27,15 +27,20 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
   * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+  * [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
+  * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
+  * [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
   * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+  * [**Markdown Editor**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
+  * [**Open Command Line**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
+  * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
   * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+  * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
 * Visual Studio Code
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
-
-
 
 # MTGJSON
 * [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Etc/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
