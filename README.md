@@ -37,6 +37,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
   * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+  * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 * Visual Studio Code
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
 
