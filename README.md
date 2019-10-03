@@ -1,17 +1,46 @@
-<!-- GRU-Readme-For-Projects v3.0.18.190924 (https://github.com/APrettyCoolProgram/GRU-Readme) ------------------------
-	   GRU-README-For-Projects is customizable README.md template written in GitHub-flavored Markdown and HTML, intended
+<!-- GRU-Readme-For-Projects v3.1.0.191003 (https://github.com/APrettyCoolProgram/GRU-Readme) -------------------------
+     GRU-README-For-Projects is customizable README.md template written in GitHub-flavored Markdown and HTML, intended
      for use with GitHub repositories that contain references to other repositories, rather than being a code
      repository itself. The source contains an abundance of comments walking you through how to use each component.
 ---------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/AppData/Image/project-logo.png" alt="Dotfiles & Gists, Etc." width="300"><br>
-  A collection of dotfiles, random experiments, and other (useful?) things
+  <img src="https://github.com/APrettyCoolProgram/UnShippableCode/blob/master/reporesources/image/unshippableCodeLogoWithText_large.png" alt="Repository logo" width="250"><br>
+  Random, ugly, buggy, unfinished...but it probably works!<br>
+  <br>
 </h2>
+<br>
 
 Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-[![UnShippableCode](https://github.com/APrettyCoolProgram/UnShippableCode/blob/master/reporesources/image/unShippableCodeRepositoryLogo-300.png)](https://github.com/APrettyCoolProgram/UnShippableCode)
+# EXPERIMENTAL PROJECTS AND PROTOTYPE CODE
+
+<div>
+  <a href="https://github.com/APrettyCoolProgram/ExperimentalCode">
+    <img src="https://github.com/APrettyCoolProgram/ExperimentalCode/blob/master/reporesources/image/experimentalCodeLogo-small.png" align="left" title="ExperimentalCode" width="64">
+  </a>
+  <a href="https://github.com/APrettyCoolProgram/ExperimentalCode">Experimental Code</a>
+  <br>
+  Code snippits and fragments to test an idea
+</div>
+<br>
+<div>
+  <a href="https://github.com/APrettyCoolProgram/PrototypeCode">
+    <img src="https://github.com/APrettyCoolProgram/PrototypeCode/blob/master/reporesources/image/prototypeCodeLogo-small.png" align="left" title="PrototypeCode" width="64">
+  </a>
+  <a href="https://github.com/APrettyCoolProgram/PrototypeCode">Prototype Code</a>
+  <br>
+  A safe space to test ideas and concepts
+</div>
+<br>
+<div>
+  <a href="https://github.com/APrettyCoolProgram/UnshippableCode">
+    <img src="https://github.com/APrettyCoolProgram/UnshippableCode/blob/master/reporesources/image/unshippableCodeLogo-small.png" align="left" title="UnshippableCode" width="64">
+  </a>
+  <a href="https://github.com/APrettyCoolProgram/UnshippableCode">UnshippableCode</a>
+  <br>
+  Random, ugly, buggy, unfinished...but probably works!
+</div>
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
