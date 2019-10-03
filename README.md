@@ -13,8 +13,6 @@
 
 Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-#
-
 # EXPERIMENTAL PROJECTS AND PROTOTYPE CODE
 
 <div>
