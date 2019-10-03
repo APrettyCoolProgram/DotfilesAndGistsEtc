@@ -5,8 +5,8 @@
 ---------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/UnShippableCode/blob/master/reporesources/image/unshippableCodeLogoWithText_large.png" alt="Repository logo" width="250"><br>
-  Random, ugly, buggy, unfinished...but it probably works!<br>
+  <img src="https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/reporesources/image/dotfilesAndGistsEtcLogo-large.png" alt="Repository logo" width="250"><br>
+  A collection of dotfiles, random experiments, and other (useful?) things<br>
   <br>
 </h2>
 <br>
