@@ -80,8 +80,6 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Etc/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
 
 ***
-
-***
 <div align="center">
 
   [![Developed by](https://img.shields.io/badge/developed%20by-A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;
