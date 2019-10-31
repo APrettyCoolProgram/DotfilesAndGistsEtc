@@ -1,5 +1,5 @@
 ## .gitignore for A Pretty Cool Program projects
-## Version 190416
+## Version 191028
 ## Most of this has been copy/pasted from https://github.com/github/gitignore
 ## Changelog at EOF
 
@@ -38,6 +38,7 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Bb]uild/ 
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -498,9 +499,10 @@ dmypy.json
 
 ## Changelog
 ##
-## 192021
+## 191028
+##  Added [Bb]uild/  
+## 190221
 ##  Added *.[Ss]cratch/  
-##
 ## 190219
 ##  Initial release
 ##  Added https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
