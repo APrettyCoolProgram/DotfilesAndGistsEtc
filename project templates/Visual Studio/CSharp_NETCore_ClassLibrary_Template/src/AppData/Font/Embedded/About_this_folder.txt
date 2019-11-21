@@ -1,5 +1,0 @@
-﻿About the /AppAbout the /AppData/Image/Embedded/ folder
-=========================================
-This folder should contain files your local project fonts.
-
-By default, this folder is always copied to your project's output directory.
