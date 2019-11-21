@@ -1,0 +1,6 @@
+﻿About the /AppData/Image/Embedded/ folder
+=========================================
+This folder should contain files your project images that are are embedded in
+your assembly, and not copied to a local drive.
+
+By default, this folder is not copied to your project's output directory.
