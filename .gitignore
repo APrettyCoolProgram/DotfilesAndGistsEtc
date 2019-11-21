@@ -1,5 +1,5 @@
 ## .gitignore for A Pretty Cool Program projects
-## Version 191028
+## Version 191121
 ## Most of this has been copy/pasted from https://github.com/github/gitignore
 ## Changelog at EOF
 
@@ -36,9 +36,9 @@ x86/
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/
+[Bb]uild/ 
 [Oo]bj/
 [Ll]og/
-[Bb]uild/ 
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
