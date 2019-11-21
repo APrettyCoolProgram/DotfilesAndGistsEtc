@@ -74,9 +74,9 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
 
 # PROJECT TEMPLATES
-[**C# .NET Core Class Library**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_Template/src)
-[**C# .NET Core WPF Application**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_WPF_Template/src)
-[**C# .NET Core xUnit Tests**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_xUnit_Template/src)
+* [**C# .NET Core Class Library**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_Template/src)
+* [**C# .NET Core WPF Application**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_WPF_Template/src)
+* [**C# .NET Core xUnit Tests**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_xUnit_Template/src)
 
 # DOCUMENTS
 [**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md): Code of conduct for A Pretty Cool Program projects
