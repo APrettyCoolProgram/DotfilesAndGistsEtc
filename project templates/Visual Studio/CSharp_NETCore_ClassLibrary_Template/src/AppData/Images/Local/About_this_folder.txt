@@ -1,0 +1,5 @@
+﻿About the /AppData/Image/Local/ folder
+======================================
+This folder should contain files your local project images.
+
+By default, this folder is always copied to your project's output directory.
