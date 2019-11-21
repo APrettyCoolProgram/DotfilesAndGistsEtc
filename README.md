@@ -53,7 +53,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
 
 # RECOMMENDED EXTENSIONS
-* Visual Studio 2019 Community
+* Visual Studio 2019
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
   * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
@@ -72,6 +72,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 * Visual Studio Code
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
+
+# OTHER DEVELOPMENT STUFF
+* [**Dracula**](https://draculatheme.com/) color theme
+* [**Fira Code**](https://github.com/tonsky/FiraCode) font
 
 # PROJECT TEMPLATES
 * [**C# .NET Core Class Library**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_Template/src)
