@@ -44,10 +44,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
-* [**Resharper 2019.2.2 settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/resharper-19.2.2.DotSettings): ReSharper 2019.2.2 settings
-* [**Viasfora 4.2.188 settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/viasfora_4.2.188.xml): Viasfora 4.2.188 settings
-* [**Visual Studio 2019 settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/visual-studio-2019.vssettings): Visual Studio Community 2019 settings
-* [**Visual Studio 2019 editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Dotfiles/visual-studio-2019.editorconfig): Visual Studio Community 2019 editor settings
+* [**Resharper settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/resharper.DotSettings): ReSharper 2019.2.2 settings
+* [**Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml): Viasfora 4.2.188 settings
+* [**Visual Studio 2019 settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings): Visual Studio Community 2019 settings
+* [**Visual Studio 2019 editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig): Visual Studio Community 2019 editor settings
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
@@ -59,7 +59,6 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
   * [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
   * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
-  * [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
   * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
   * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
   * [**Markdown Editor**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
@@ -69,12 +68,20 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
   * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
   * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+  * [**Visual Studio Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
   * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 * Visual Studio Code
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
 
+# PROJECT TEMPLATES
+
+
+
+# DOCUMENTS
+[**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md) Code of conduct for A Pretty Cool Program projects
+
 # MTGJSON
-* [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Etc/MTGJSON/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
+* [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/etc/mtgjson/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
 
 ***
 <div align="center">
