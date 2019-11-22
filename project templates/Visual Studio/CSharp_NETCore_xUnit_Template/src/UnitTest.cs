@@ -9,7 +9,7 @@
 
 using Xunit;
 
-namespace CSharp_NETCore_xUnit_Template
+namespace CSharp_NETCore_xUnit_ProjectTemplate
 {
     public class UnitTest
     {
