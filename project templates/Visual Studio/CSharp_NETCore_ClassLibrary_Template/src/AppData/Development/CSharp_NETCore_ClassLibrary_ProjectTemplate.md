@@ -2,6 +2,13 @@
 
 > This is a changelog for the Visual Studio template this project uses.
 
+## Build 191122
+##### INFORMATION
+* Project name is now "CSharp_NETCore_ClassLibrary_ProjectTemplate"
+##### CHANGED
+* Namespace changed to CSharp_NETCore_ClassLibrary_ProjectTemplate
+* Updated included dotfiles
+
 ## Build 191120
 ##### INFORMATION
 * Project name is now "CSharp_NETCore_ClassLibrary_Template"

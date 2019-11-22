@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_NETCore_ClassLibrary_Template", "CSharp_NETCore_ClassLibrary_Template.csproj", "{3479BCE5-8593-4B17-A08B-78F2BECA102A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp_NETCore_ClassLibrary_ProjectTemplate", "CSharp_NETCore_ClassLibrary_ProjectTemplate.csproj", "{3479BCE5-8593-4B17-A08B-78F2BECA102A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

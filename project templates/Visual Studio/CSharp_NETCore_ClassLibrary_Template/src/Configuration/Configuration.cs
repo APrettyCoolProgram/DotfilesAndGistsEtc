@@ -9,7 +9,7 @@
 
 /* Configuration logic.
  */
-namespace NETCore_ClassLibrary_ProjectTemplate
+namespace CSharp_NETCore_ClassLibrary_ProjectTemplate
 {
     public class Configuration
     {

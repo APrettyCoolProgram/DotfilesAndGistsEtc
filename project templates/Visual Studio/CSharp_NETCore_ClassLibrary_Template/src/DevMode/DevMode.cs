@@ -11,7 +11,7 @@
  */
 using System;
 
-namespace NETCore_ClassLibrary_ProjectTemplate
+namespace CSharp_NETCore_ClassLibrary_ProjectTemplate
 {
     public class DevMode
     {
