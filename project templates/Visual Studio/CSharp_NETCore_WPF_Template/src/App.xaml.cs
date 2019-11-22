@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace NETCore_WPFApp_ProjectTemplate
+namespace CSharp_NETCore_WPF_ProjectTemplate
 {
     /// <summary>
     /// Interaction logic for App.xaml

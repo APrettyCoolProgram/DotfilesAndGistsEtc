@@ -11,7 +11,7 @@
  */
 using System;
 
-namespace CSharp_NETCore_WPF_Template
+namespace CSharp_NETCore_WPF_ProjectTemplate
 {
     public class DevMode
     {

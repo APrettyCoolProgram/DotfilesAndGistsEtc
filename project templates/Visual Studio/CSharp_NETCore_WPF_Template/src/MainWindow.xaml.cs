@@ -11,7 +11,7 @@
  */
 using System.Windows;
 
-namespace CSharp_NETCore_WPF_Template
+namespace CSharp_NETCore_WPF_ProjectTemplate
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

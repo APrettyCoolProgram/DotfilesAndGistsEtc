@@ -9,7 +9,7 @@
 
 /* Maintenance logic.
  */
-namespace CSharp_NETCore_WPF_Template
+namespace CSharp_NETCore_WPF_ProjectTemplate
 {
     public class Maintenance
     {
