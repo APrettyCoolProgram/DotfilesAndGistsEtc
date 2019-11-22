@@ -44,10 +44,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # DOTFILES
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore)
+* [**Visual Studio 2019 Editor editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig)
+* [**Visual Studio 2019 IDE settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings)
 * [**Visual Studio 2019 Resharper settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/resharper.DotSettings)
 * [**Visual Studio 2019 Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
-* [**Visual Studio 2019 IDE settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings)
-* [**Visual Studio 2019 Editor editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig)
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
