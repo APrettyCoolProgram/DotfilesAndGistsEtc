@@ -90,9 +90,10 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**Fira Code**](https://github.com/tonsky/FiraCode)
 
 # TEMPLATES
-* [**C# .NET Core Class Library**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_Template/src)
-* [**C# .NET Core WPF Application**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_WPF_Template/src)
-* [**C# .NET Core xUnit Tests**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/project%20templates/Visual%20Studio/CSharp_NETCore_xUnit_Template/src)
+* Visual Studio
+  * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_ProjectTemplate/src)
+  * [**C# .NET Core WPF Application Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_WPF_ProjectTemplate/src)
+  * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_xUnit_ProjectTemplate/src)
 
 # DOCUMENTS
 * [**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md)
