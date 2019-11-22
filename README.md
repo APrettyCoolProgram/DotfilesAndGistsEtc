@@ -43,14 +43,14 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 </div>
 
 # DOTFILES
-* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore): The standard gitignore file for A Pretty Cool Program projects
-* [**Resharper settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/resharper.DotSettings): ReSharper 2019.2.2 settings
-* [**Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml): Viasfora 4.2.188 settings
-* [**Visual Studio 2019 settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings): Visual Studio Community 2019 settings
-* [**Visual Studio 2019 editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig): Visual Studio Community 2019 editor settings
+* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore)
+* [**Visual Studio 2019 Resharper settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/resharper.DotSettings)
+* [**Visual Studio 2019 Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
+* [**Visual Studio 2019 IDE settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings)
+* [**Visual Studio 2019 Editor editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig)
 
 # GISTS
-* [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856): Templates for source code header comments.
+* [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
 
 # EXTENSIONS
 * Visual Studio 2019
