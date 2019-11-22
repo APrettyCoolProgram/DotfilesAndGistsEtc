@@ -54,32 +54,32 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # SOFTWARE EXTENSIONS
 * Visual Studio 2019
-  Extension collections:
-  * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-  * [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)<br>
-  Individual extensions:
-  * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
-  * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
-  * [**SlowCheetah**](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms)
-  * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-  * [**Code alignment**](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment)
-  * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
-  * [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
-  * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
-  * [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
-  * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
-  * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
-  * [**Open Command Line**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
-  * [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
-  * [**Open in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-  * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
-  * [**Project File Tools**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
-  * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
-  * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
-  * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
-  * [**Visual Studio Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
-  * [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
-  * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+  * Extension collections:
+    * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+    * [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
+  * Individual extensions:
+    * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
+    * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
+    * [**SlowCheetah**](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms)
+    * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
+    * [**Code alignment**](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment)
+    * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+    * [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
+    * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
+    * [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
+    * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+    * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
+    * [**Open Command Line**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
+    * [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
+    * [**Open in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
+    * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
+    * [**Project File Tools**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
+    * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
+    * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+    * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+    * [**Visual Studio Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
+    * [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+    * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 * Visual Studio Code
   * [**Paste JSON as Code**](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype&ssr=false#overview)
 
