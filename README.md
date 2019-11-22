@@ -56,8 +56,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * Visual Studio 2019
   Extension collections:
   * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-  * [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
-  <br>
+  * [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)<br>
   Individual extensions:
   * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
   * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
