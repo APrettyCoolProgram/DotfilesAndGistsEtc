@@ -56,10 +56,37 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * Visual Studio 2019
   * Extension collections:
     * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+      * Align Assignments
+      * Copy As Html
+      * Double-Click Maximize
+      * Fix Mixed Tabs
+      * Match Margin
+      * Middle-Click Scroll
+      * Peek Help
+      * Power Commands for Visual Studio
+      * Quick Launch Tasks
+      * Shrink Empty Lines
+      * Solution Error Visualizer
+      * Time Stamp Margin
     * [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
+      * Add New File
+      * Browser Reload on Save
+      * Browser Sync
+      * Bundler & Minifier
+      * Editor Enhancements
+      * File Icons
+      * File Nesting
+      * Image Sprites
+      * Image Optimizer
+      * Markdown Editor
+      * Open Command Line
+      * Package Installer
+      * Package Security Alerts
+      * Web Accessibility Checker
+      * Web Compiler
+      * ZenCoding
   * Individual extensions:
     * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
-    * [**Add New File**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
     * [**SlowCheetah**](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms)
     * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
     * [**Code alignment**](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment)
@@ -68,10 +95,8 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
     * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
     * [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
     * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
-    * [**File Icons**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.FileIcons)
-    * [**Open Command Line**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpenCommandLine)
     * [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
-    * [**Open in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
+    * [**Open in VS Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
     * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
     * [**Project File Tools**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
     * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
@@ -88,6 +113,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # FONTS
 * [**Fira Code**](https://github.com/tonsky/FiraCode)
+* [**Google Fonts**](https://github.com/google/fonts)
 
 # TEMPLATES
 * Visual Studio
