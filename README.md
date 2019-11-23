@@ -75,6 +75,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
+  * CSS Tools
   * Editor Enhancements
   * File Icons
   * File Nesting
@@ -84,6 +85,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   * Open Command Line
   * Package Installer
   * Package Security Alerts
+  * SVG Viewer
   * Web Accessibility Checker
   * Web Compiler
   * ZenCoding
