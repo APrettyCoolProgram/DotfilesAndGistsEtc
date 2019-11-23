@@ -117,9 +117,12 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # TEMPLATES
 * Visual Studio
-  * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_ProjectTemplate)
-  * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_WPF_ProjectTemplate)
-  * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_xUnit_ProjectTemplate)
+  * Project Templates
+    * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_ProjectTemplate)
+    * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_WPF_ProjectTemplate)
+    * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_xUnit_ProjectTemplate)
+  * Solution Templates
+    * [**C# .NET Core WPF Solution**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_WPF_SolutionTemplate)
 
 # DOCUMENTS
 * [**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md)
