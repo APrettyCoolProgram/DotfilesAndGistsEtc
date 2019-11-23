@@ -118,7 +118,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 
 # TEMPLATES
 ### Visual Studio
-* Project Templates
+##### Project Templates
   * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_ClassLibrary_ProjectTemplate)
   * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_WPF_ProjectTemplate)
   * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharp_NETCore_xUnit_ProjectTemplate)
