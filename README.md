@@ -101,7 +101,6 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
 * [**Open in VS Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
-* [**Project File Tools**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ProjectFileTools)
 * [**ReSharper**](https://marketplace.visualstudio.com/items?itemName=JetBrains.ReSharper)
 * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
