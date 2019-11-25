@@ -1,4 +1,4 @@
-﻿// ====================================================================================================================
+﻿// ============================================================================================================ 2:10 PM
 //    FILENAME:Maintenance.cs
 //       BUILD: YYYYMMDD
 //     PROJECT: ProjectName (https://github.com/GitHubAccount/ProjectName)
@@ -9,13 +9,9 @@
 
 /* Maintenance logic.
  */
-namespace CSharp_NETCore_WPF_ProjectTemplate
+namespace CSharpNETCoreWPFProjectTemplate
 {
-    public class Maintenance
+    public static class Maintenance
     {
-        /// <summary>Default constructor.</summary>
-        public Maintenance()
-        {
-        }
     }
 }

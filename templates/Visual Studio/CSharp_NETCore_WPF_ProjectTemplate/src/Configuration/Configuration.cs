@@ -1,4 +1,4 @@
-﻿// ===========================================================================================================  11:59 AM
+﻿// ============================================================================================================ 2:10 PM
 //    FILENAME: Configuration.cs
 //       BUILD: YYYYMMDD
 //     PROJECT: ProjectName (https://github.com/GitHubAccount/ProjectName)
@@ -9,7 +9,7 @@
 
 /* Configuration logic.
  */
-namespace CSharp_NETCore_WPF_ProjectTemplate
+namespace CSharpNETCoreWPFProjectTemplate
 {
     public class Configuration
     {

@@ -1,4 +1,4 @@
-﻿// ====================================================================================================================
+﻿// ============================================================================================================ 2:10 PM
 //    FILENAME: DevMode.cs
 //       BUILD: YYYYMMDD
 //     PROJECT: ProjectName (https://github.com/GitHubAccount/ProjectName)
@@ -11,15 +11,10 @@
  */
 using System;
 
-namespace CSharp_NETCore_WPF_ProjectTemplate
+namespace CSharpNETCoreWPFProjectTemplate
 {
-    public class DevMode
+    public static class DevMode
     {
-        /// <summary></summary>
-        public DevMode()
-        {
-        }
-
         /// <summary>Launch the application, do something(s), then quit.</summary>
         /// <param name="quitAfterLaunch">Determines if any of this code runs. [true, FALSE]</param>
         public static void LaunchApplicationThenQuit(bool quitAfterLaunch = false)
@@ -33,7 +28,7 @@ namespace CSharp_NETCore_WPF_ProjectTemplate
              * method can lead to unintended consequences, the quitAfterLaunch boolean automatically defaulted to
              * "false", and you'll need to call "DevMode.LaunchApplicationThenQuit(true)" implicitly.
              */
-            if (quitAfterLaunch)
+            if(quitAfterLaunch)
             {
                 // YOUR CODE HERE.
                 Environment.Exit(0);
@@ -53,7 +48,7 @@ namespace CSharp_NETCore_WPF_ProjectTemplate
              * code in this  method can lead to unintended consequences, the quitAfterLaunch boolean automatically
              * defaulted to "false", and you'll need to call "DevMode.TestCode(true)" implicitly.
              */
-            if (useTestCode)
+            if(useTestCode)
             {
                 // YOUR CODE HERE
             }
@@ -71,7 +66,7 @@ namespace CSharp_NETCore_WPF_ProjectTemplate
              *
              * You can have any number of DevMode action buttons, and can reuse them for different testing purposes.
              */
-            switch (actionButtonNumber)
+            switch(actionButtonNumber)
             {
                 case 01:
                     // YOUR CODE HERE

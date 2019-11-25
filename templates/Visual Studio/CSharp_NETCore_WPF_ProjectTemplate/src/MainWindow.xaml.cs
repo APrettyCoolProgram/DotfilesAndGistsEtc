@@ -1,4 +1,4 @@
-﻿// ===========================================================================================================  11:20 AM
+﻿// ============================================================================================================ 2:10 PM
 //    FILENAME: MainWindow.xaml.cs
 //       BUILD: YYYYMMDD
 //     PROJECT: ProjectName (https://github.com/GitHubAccount/ProjectName)
@@ -11,7 +11,7 @@
  */
 using System.Windows;
 
-namespace CSharp_NETCore_WPF_ProjectTemplate
+namespace CSharpNETCoreWPFProjectTemplate
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml

@@ -2,6 +2,22 @@
 
 > This is a changelog for the Visual Studio template this project uses.
 
+## Build 191125
+##### INFORMATION
+* Project name is now "CSharpNETCoreWPFProjectTemplate"
+##### ADDED
+* Microsoft.CodeAnalysis.FxCopAnalyzers NuGet package
+* Roslynator.Analyzers NuGet package
+##### CHANGED
+* All header comments are formatted the same
+* Configuration.cs is now static
+* DevMode.cs is now static
+* Maintenance.cs is now static
+##### REMOVED
+* Configuration.Configuration() constructor
+* Configuration.DevMode() constructor
+* Configuration.Maintenance() constructor
+
 ## Build 191122
 ##### INFORMATION
 * Project name is now "CSharp_NETCore_WPF_ProjectTemplate"
