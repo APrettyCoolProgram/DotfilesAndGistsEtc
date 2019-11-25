@@ -92,7 +92,6 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 * [**SlowCheetah**](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms)
 * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-* [**Code alignment**](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment)
 * [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
 * [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
 * [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
