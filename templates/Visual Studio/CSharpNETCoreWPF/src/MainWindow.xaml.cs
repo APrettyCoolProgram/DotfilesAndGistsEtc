@@ -31,7 +31,6 @@ namespace CSharpNETCoreWPF
             InitializeComponent();
 
             DevMode.UseDevModes(false,false);
-            DevMode.QuickCodeTest();
 
             StartApplication();
         }
