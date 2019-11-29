@@ -56,11 +56,11 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-gists-etc/blob/master/.gitignore)
 
 ### Visual Studio 2019
+* [**License Header Manager**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/LicenseHeaderManager.licenseheader)
 * [**Visual Studio 2019 Editor editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig)
 * [**Visual Studio 2019 IDE settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings)
-* [**Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
-* [**Viasfora theme**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
-* [**License Header Settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
+* [**Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora-settings.xml)
+* [**Viasfora theme**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora-theme.json)
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
