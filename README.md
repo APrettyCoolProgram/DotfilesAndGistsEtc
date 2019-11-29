@@ -19,7 +19,7 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
   <a href="https://github.com/APrettyCoolProgram/TheLittleThings">
     <img src="https://github.com/APrettyCoolProgram/TheLittleThings/blob/master/reporesources/image/theLittleThings-small.png" align="left" title="TheLittleThings" width="64">
   </a>
-  <a href="https://github.com/APrettyCoolProgram/TheLittleThings/tree/master/reporesources/image">The Little Things</a>
+  <a href="https://github.com/APrettyCoolProgram/TheLittleThings/">The Little Things</a>
   <br>
   Simple apps and utilities that generally do dumb things, but work.
 </div>
