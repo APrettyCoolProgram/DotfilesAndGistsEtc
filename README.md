@@ -16,6 +16,15 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 # EXPERIMENTAL PROJECTS AND PROTOTYPE CODE
 
 <div>
+  <a href="https://github.com/APrettyCoolProgram/TheLittleThings">
+    <img src="https://github.com/APrettyCoolProgram/TheLittleThings/blob/master/reporesources/image/theLittleThings-small.png" align="left" title="TheLittleThings" width="64">
+  </a>
+  <a href="https://github.com/APrettyCoolProgram/TheLittleThings/tree/master/reporesources/image">The Little Things</a>
+  <br>
+  Simple apps and utilities that generally do dumb things, but work.
+</div>
+<br>
+<div>
   <a href="https://github.com/APrettyCoolProgram/ExperimentalCode">
     <img src="https://github.com/APrettyCoolProgram/ExperimentalCode/blob/master/reporesources/image/experimentalCodeLogo-small.png" align="left" title="ExperimentalCode" width="64">
   </a>
@@ -49,8 +58,9 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 ### Visual Studio 2019
 * [**Visual Studio 2019 Editor editorconfig**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.editorconfig)
 * [**Visual Studio 2019 IDE settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/visual-studio-2019.vssettings)
-* [**Visual Studio 2019 Resharper settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/resharper.DotSettings)
-* [**Visual Studio 2019 Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
+* [**Viasfora settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
+* [**Viasfora theme**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
+* [**License Header Settings**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/dotfiles/viasfora.xml)
 
 # GISTS
 * [**Source code headers**](https://gist.github.com/APrettyCoolProgram/7df746be2a69552e0772a78749678856)
