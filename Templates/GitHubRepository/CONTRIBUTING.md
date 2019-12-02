@@ -14,7 +14,7 @@ Please note we have a [Code of Conduct](CODE-OF-CONDUCT.md), please follow it in
 | Directory       |                                                                                                  |
 |-----------------|--------------------------------------------------------------------------------------------------|
 |`/`              | Root directory                                                                                   |
-| **`/Bin`**           | MSBuild binaries                                                                                 |
+|**`/Bin`**           | MSBuild binaries                                                                                 |
 |`/Documentation` | Application documentation                                                                        |
 |`/Dependencies`  | Application dependencies                                                                         |
 
