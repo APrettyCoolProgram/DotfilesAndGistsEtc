@@ -11,7 +11,7 @@
 </h2>
 <br>
 
-Dotfiles & Gists, Etc. is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
+**Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
 # EXPERIMENTAL PROJECTS AND PROTOTYPE CODE
 
@@ -127,14 +127,14 @@ Dotfiles & Gists, Etc. is a collection of various configuration files, code snip
 * [**Google Fonts**](https://github.com/google/fonts)
 
 # TEMPLATES
-### Visual Studio
-#### Project Templates
+### GitHub
+* [**Repository**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/Templates/GitHubRepository)
+* [**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md)
+
+### Visual Studio Project Templates
 * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreClassLibrary)
 * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreWPF)
 * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreXUnit)
-
-# DOCUMENTS
-* [**CODE OF CONDUCT**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/doc/CODE_OF_CONDUCT.md)
 
 # MTGJSON
 * [**C# Set class**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/etc/mtgjson/MTGJSON_set.cs): A C# class for individual MTGJSON sets (compatible w/v4.2.2-rebuild.3)
