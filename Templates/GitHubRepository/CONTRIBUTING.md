@@ -13,10 +13,10 @@ Please note we have a [Code of Conduct](CODE-OF-CONDUCT.md), please follow it in
 ## CODE ORGANIZATION
 | Directory       |                                                                                                  |
 |-----------------|--------------------------------------------------------------------------------------------------|
-|`/`              | Root directory                                                                                   |
-|**`/Bin`**           | MSBuild binaries                                                                                 |
-|`/Documentation` | Application documentation                                                                        |
-|`/Dependencies`  | Application dependencies                                                                         |
+|**`/`**              | Root directory                                                                                   |
+|`/Bin`         | MSBuild binaries                                                                                 |
+|**`/Documentation`** | Application documentation                                                                        |
+|**`/Dependencies`**  | Application dependencies                                                                         |
 
 
 
