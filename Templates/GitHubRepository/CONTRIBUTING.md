@@ -11,10 +11,12 @@ Please note we have a [Code of Conduct](CODE-OF-CONDUCT.md), please follow it in
 4. You may merge the Pull Request in once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
 
 ## CODE ORGANIZATION
-| Directory |                |
-|-----------|----------------|
-|`/`        | root directory |
-|`/app`     | root directory |
+| Directory        |                                                                                                  |
+|------------------|--------------------------------------------------------------------------------------------------|
+|`/`               | Root directory                                                                                   |
+|`/Dependencies`   | Application dependencies                                                                         |
+|`/Ddocumentation` | Application documentation                                                                        |
+
 
 
 
