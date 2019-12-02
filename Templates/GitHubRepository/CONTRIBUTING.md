@@ -1,6 +1,6 @@
 # CONTRIBUTING: ProjectName
 
-Please see the [Code of Conduct](CODE_OF_CONDUCT.md) documentation.
+Please see the [Code of Conduct](./CODE_OF_CONDUCT.md) documentation.
 
 #### **Did you find a bug?**
 
