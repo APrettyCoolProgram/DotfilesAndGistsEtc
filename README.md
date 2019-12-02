@@ -5,7 +5,7 @@
 ---------------------------------------------------------------------------------------------------------------------->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/reporesources/image/dotfilesAndGistsEtcLogo-large.png" alt="Repository logo" width="250"><br>
+  <img src="https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Repo/image/dotfilesAndGistsEtcLogo-large.png" alt="Repository logo" width="250"><br>
   A collection of dotfiles, random experiments, and other (useful?) things<br>
   <br>
 </h2>
