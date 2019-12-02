@@ -14,15 +14,11 @@ Please note we have a [Code of Conduct](CODE-OF-CONDUCT.md), please follow it in
 | Directory       |                                                                                                  |
 |-----------------|--------------------------------------------------------------------------------------------------|
 |`/`              | Root directory                                                                                   |
-
-| **`/Bin`**  | Application dependencies                                                                         |
+|  *`/Bin`*           | MSBuild binaries                                                                                 |
 |`/Documentation` | Application documentation                                                                        |
 |`/Dependencies`  | Application dependencies                                                                         |
 
 
-
-`/bin` – where MSBuild binaries are created, generally excluded from check-in.<br>
-`/dependencies` – Application dependencies<br>
 
 
 
