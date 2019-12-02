@@ -1,6 +1,6 @@
 # CONTRIBUTING: ProjectName
 
-Please see the [Code of Conduct](./CODE_OF_CONDUCT.md) documentation.
+Please see the [Code of Conduct](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Templates/GitHubRepository/CODE-OF-CONDUCT.md) documentation.
 
 #### **Did you find a bug?**
 
