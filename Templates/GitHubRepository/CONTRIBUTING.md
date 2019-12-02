@@ -1,4 +1,6 @@
-# CONTRIBUTING
+# CONTRIBUTING: ProjectName
+
+Please see the [Code of Conduct](CODE_OF_CONDUCT.md) documentation.
 
 #### **Did you find a bug?**
 
@@ -47,3 +49,6 @@ Ruby on Rails is a volunteer effort. We encourage you to pitch in and [join the 
 Thanks! :heart: :heart: :heart:
 
 Rails Team
+
+
+https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/blob/master/Templates/GitHubRepository/CONTRIBUTING.md
