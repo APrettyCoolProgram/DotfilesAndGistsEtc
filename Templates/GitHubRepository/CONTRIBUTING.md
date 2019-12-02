@@ -15,7 +15,7 @@ Please note we have a [Code of Conduct](CODE-OF-CONDUCT.md), please follow it in
 |-----------------|--------------------------------------------------------------------------------------------------|
 |`/`              | Root directory                                                                                   |
 
-|**`/Bin`**  | Application dependencies                                                                         |
+| **`/Bin`**  | Application dependencies                                                                         |
 |`/Documentation` | Application documentation                                                                        |
 |`/Dependencies`  | Application dependencies                                                                         |
 
