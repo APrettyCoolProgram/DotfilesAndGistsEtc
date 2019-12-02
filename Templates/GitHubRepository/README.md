@@ -469,14 +469,13 @@ While designing these templates, I read, researched, and borrowed ideas from exi
 * [Insights](https://github.com/APrettyCoolProgram/GRU-Readme/pulse)
 * [Code of conduct](https://github.com/APrettyCoolProgram/GRU-Readme/blob/master/CODE_OF_CONDUCT.md)
 * [Contributing](https://github.com/APrettyCoolProgram/GRU-Readme/blob/master/CONTRIBUTING.md)
-* [License](https://github.com/APrettyCoolProgram/GRU-Readme/blob/master/LICENSE.md)
+* [License](LICENSE.md)
 * [Testing procedures](https://github.com/APrettyCoolProgram/GRU-Readme/blob/master/doc/testing-procedures.md)
 * [Development notes](https://github.com/APrettyCoolProgram/GRU-Readme/blob/master/doc/development-notes.md)
 
 ### DOCUMENTATION
 
-### BUILT WITH
-* [shields.io](https://shields.io/)
+
 
 ### USED BY
 
