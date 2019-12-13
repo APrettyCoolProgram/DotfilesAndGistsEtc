@@ -38,8 +38,8 @@ the logo size by increasing/decreasing the "width" value.
 # ABOUT THIS REPOSITORY
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-### DOTFILES
-#### GitHub
+## DOTFILES
+### GitHub
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
 #### Visual Studio 2019
 * [**License Header Manager license header**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
@@ -48,8 +48,8 @@ the logo size by increasing/decreasing the "width" value.
 * [**Viasfora settings**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-settings.xml)
 * [**Viasfora theme**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-theme.json)
 
-### EXTENSIONS
-#### Visual Studio 2019
+## EXTENSIONS
+### Visual Studio 2019
 * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
   * Align Assignments
   * Copy As Html
@@ -100,17 +100,17 @@ the logo size by increasing/decreasing the "width" value.
 * [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 
-### FONTS
+## FONTS
 * [**Fira Code**](https://github.com/tonsky/FiraCode)
 * [**Google Fonts**](https://github.com/google/fonts)
 
-### NUGET PACKAGES
-#### Visual Studio 2019
+## NUGET PACKAGES
+### Visual Studio 2019
 * [**Roslyn Analyzers**](https://github.com/dotnet/roslyn-analyzers)
 * [**Roslynator**](https://github.com/JosefPihrt/Roslynator)
 
-### TEMPLATES
-#### GitHub
+## TEMPLATES
+### GitHub
 * [**Standard repository**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/Templates/GitHubRepository)
 
 ### Visual Studio 2019 Project Templates
@@ -118,7 +118,7 @@ the logo size by increasing/decreasing the "width" value.
 * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreWPF)
 * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreXUnit)
 
-# THEMES
+## THEMES
 * [**Dracula**](https://draculatheme.com/)
 
 ***
