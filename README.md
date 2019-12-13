@@ -40,7 +40,7 @@ the logo size by increasing/decreasing the "width" value.
 
 ## DOTFILES
 ### GitHub
-* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
+* [**generic.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore):
 #### Visual Studio 2019
 * [**License Header Manager license header**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
 * [**Visual Studio 2019 .editorconfig (C#)**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019-csharp.editorconfig)
