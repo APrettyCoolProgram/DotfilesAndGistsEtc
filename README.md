@@ -42,14 +42,12 @@ the logo size by increasing/decreasing the "width" value.
 #### GitHub
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
 
-# VISUAL STUDIO 2019
-### Extensions
-
-
-
-
-
-
+#### Visual Studio 2019
+* [**License Header Manager**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/LicenseHeaderManager.licenseheader)
+* [**Visual Studio 2019 Editor editorconfig (C#)**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019-csharp.editorconfig)
+* [**Visual Studio 2019 IDE settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019.vssettings)
+* [**Viasfora settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/viasfora-settings.xml)
+* [**Viasfora theme**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/viasfora-theme.json)
 
 
 
