@@ -114,9 +114,10 @@ the logo size by increasing/decreasing the "width" value.
 * [**Standard repository**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/Templates/GitHubRepository)
 
 ### Visual Studio 2019 Project Templates
-* [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreClassLibrary)
-* [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreWPF)
-* [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/templates/Visual%20Studio/CSharpNETCoreXUnit)
+* [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreClassLibrary)
+* [**C# .NET Core Console Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreClassLibrary)
+* [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreWPF)
+* [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreXUnit)
 
 ## THEMES
 * [**Dracula**](https://draculatheme.com/)
