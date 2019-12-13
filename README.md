@@ -43,11 +43,11 @@ the logo size by increasing/decreasing the "width" value.
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
 
 #### Visual Studio 2019
-* [**License Header Manager**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader): License header for the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension
-* [**Visual Studio 2019 Editor editorconfig (C#)**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019-csharp.editorconfig)
-* [**Visual Studio 2019 IDE settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019.vssettings)
-* [**Viasfora settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/viasfora-settings.xml)
-* [**Viasfora theme**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/viasfora-theme.json)
+* [**License Header Manager license header**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
+* [**Visual Studio 2019 .editorconfig (C#)**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019-csharp.editorconfig)
+* [**Visual Studio 2019 .vssettings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019.vssettings)
+* [**Viasfora settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-settings.xml)
+* [**Viasfora theme**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-theme.json)
 
 
 
