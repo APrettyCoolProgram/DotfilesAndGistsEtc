@@ -40,8 +40,7 @@ the logo size by increasing/decreasing the "width" value.
 
 ### DOTFILES
 #### GitHub
-* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore)<br>
-A generic .gitignore file that covers *a lot* of ground.
+* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
 
 # VISUAL STUDIO 2019
 ### Extensions
