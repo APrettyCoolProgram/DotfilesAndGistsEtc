@@ -68,7 +68,7 @@ the logo size by increasing/decreasing the "width" value.
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
-  * CSS Tools
+  * CSS Tools 2019
   * Editor Enhancements
   * File Icons
   * File Nesting
@@ -78,7 +78,7 @@ the logo size by increasing/decreasing the "width" value.
   * Open Command Line
   * Package Installer
   * Package Security Alerts
-  * SVG Viewer
+  * SVG Viewer [Preview]
   * Web Accessibility Checker
   * Web Compiler
   * ZenCoding
@@ -96,7 +96,6 @@ the logo size by increasing/decreasing the "width" value.
 * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
 * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
-* [**Visual Studio Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
 * [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 
