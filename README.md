@@ -36,125 +36,39 @@ the logo size by increasing/decreasing the "width" value.
 </h2>
 <br>
 
-<!-- REPOSITORY BADGES [Optional] -------------------------------------------------------------------------------------
-Convey important information about the repository. See https://shields.io for more information about customizing
-badges.
-
-For "Status", choose one of the following:
-* Active: ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-* Maintained: ![Status](https://img.shields.io/badge/status-maintained-green.svg)
-* Depreciated: ![Status](https://img.shields.io/badge/status-depreciated-yellowgreen.svg)
-* Archived: ![Status](https://img.shields.io/badge/status-archived-yellow.svg)
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-<div align="center">
-
-  ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  [![License](https://img.shields.io/github/license/aprettycoolprogram/a-repository-template)](https://www.apache.org/licenses/LICENSE-2.0)
-  ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/a-repository-template?label=latest%20release)
-
-</div>
-
-<!-- SCREENSHOT [Optional] --------------------------------------------------------------------------------------------
-Screenshots are nice. Increase/decrease the logo size by increasing/decreasing the "width" value.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-<div align="center">
-  <img src="https://github.com/aprettycoolprogram/a-repository-template/blob/master/repository-resource/image/screenshot/your-screenshot-here.png" alt="Your screenshot here" width="400">
-  <br>
-</div>
-
-<!-- TABLE OF CONTENTS [Optional] -------------------------------------------------------------------------------------
-A Table of Contents allows users to quickly find exactly what they are looking for.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
 <h5 align="left">
 
-  ### CONTENTS
-  [ABOUT THIS REPOSITORY](#about-this-repository)<br>
-  [FEATURES](#features)<br>
-  [REQUIREMENTS](#requirements)<br>
-  [EXAMPLE](#example)<br>
-  [BEFORE YOU BEGIN](#before-you-begin)<br>
-  [GETTING STARTED](#getting-started)<br>
-  [INSTALLING](#installing)<br>
-  [BUILD PROCESS](#build-process)<br>
-  [SETUP](#setup)<br>
-  [CONFIGURATION](#configuration)<br>
-  [USAGE](#usage)<br>
-  [UPDATING](#updating)<br>
-  [UNINSTALLING](#uninstalling)<br>
-  [DEMO](#demo)<br>
-  [HOW IT WORKS](#how-it-works)<br>
-  [API](#api)<br>
-  [FAQ](#faq)<br>
-  [SUPPORT](#support)<br>
-  [DEVELOPMENT](#development)<br>
-
-</h5>
-
-<!-- ABOUT THIS REPOSITORY [Required] ---------------------------------------------------------------------------------
-Introduce your repository, and encourage the reader to continue reading. You should:
-* Describe what the repository is.
-* What problem(s) does it solve?
-* What is the motivation/philosophy behind it?
-* Why should the user care or want to use it?
-* List one or two noteworthy features that stand out from similar repositories
-* Clarify the level of knowledge required, and note key technical concepts/technologies/frameworks used
-* Use screenshots and code snippets to illustrate general functionality
-* Use Markdown to make text stand out.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
 # ABOUT THIS REPOSITORY
-This is a template for GitHub repositories. Just clone this project, add your files, customize some things, and there you go!
+**Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-One of the first things you should do is to modify this file, README.md. Your repository README is the first thing users will see. It's your one shot to make a good first impression and convince the reader they should learn more about your repository. But where do you start? What makes a good README file?
+# GITHUB
+### Dotfiles
+* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore)<br>
+A generic .gitignore file that covers *a lot* of ground.
 
-This is a README.md template written in GitHub-flavored Markdown and HTML. A simple text editor (even GitHub itself) is all you need. The README source code contains an abundance of comments that walk you through each of the components. Customize those you want to use and remove those you don't need.
+# VISUAL STUDIO 2019
+## EXTENSIONS
 
-<!-- FEATURES [Optional] ----------------------------------------------------------------------------------------------
-Important features of your repository here. This shouldn't be an exhaustive list, just the cool stuff.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-# FEATURES
-* Feature #1
-* Feature #2
-* Feature #3
 
-<!-- REQUIREMENTS [Optional] ------------------------------------------------------------------------------------------
-Requirements are what a user will need in order to use this repository in any capacity.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-# REQUIREMENTS
-* Requirement #1
-* Requirement #2
-* Requirement #3
 
-<!-- EXAMPLES [Optional] ----------------------------------------------------------------------------------------------
-Examples uses.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-# EXAMPLES
-Some examples of GRU-Readme in action:
-* Example #1
-* Example #2
-* Example #3
 
-<!-- BEFORE YOU BEGIN [Optional] --------------------------------------------------------------------------------------
-Important information that the user should know before they continue.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
+
+
+
+
+
+
+
+
 # BEFORE YOU BEGIN
 A GitHub README.md file can be written in GitHub-flavored Markdown, HTML, or a mix of both. Each of these formats have their advantages and disadvantages, and a well-written README will leverage the strength of each. In order to use this template, you'll need to understand at least the basics of both.
 
-#### What is markdown?
-[Markdown](https://en.wikipedia.org/wiki/Markdown) is a lightweight markup language with plain text formatting syntax. Markdown's key design goal is *readability*. This readme uses GitHub-flavored Markdown, for the README *content*.
-
-#### What is HTML?
-[HTML](https://en.wikipedia.org/wiki/HTML) is the standard markup language for creating web pages and web applications. Keep in mind that GitHub README.md files do not fully support HTML syntax - a small subset of HTML tags are allowed. In addition, most HTML structures are either unnecessary (thanks to Markdown), or unsupported. For the most part, this template uses HTML to modify the *layout* of your README, such as complex tables or content positioning
-
-### ACKNOWLEDGEMENTS
-While designing these templates, I read, researched, and borrowed ideas from existing README resources, and this project would not have been possible without them. Please see the [acknowledgements](documentation/acknowledgements.md) and document for more information. 
-
-
-
-### ADDITIONAL READING
-For more Markdown resources, please see the [additional reading](documentation/additional-reading.md) document.
 
 ### RELATED PROJECTS
 * [**Related project #1**](URL)
+
+
+
 
 <!-- GETTING STARTED [Optional] ---------------------------------------------------------------------------------------
 An overview of how to install/configure/build/use the project.
