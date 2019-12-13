@@ -38,8 +38,8 @@ the logo size by increasing/decreasing the "width" value.
 # ABOUT THIS REPOSITORY
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
 
-# GITHUB
-### Dotfiles
+### DOTFILES
+#### GitHub
 * [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore)<br>
 A generic .gitignore file that covers *a lot* of ground.
 
