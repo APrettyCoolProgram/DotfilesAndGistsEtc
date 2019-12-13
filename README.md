@@ -51,8 +51,8 @@ the logo size by increasing/decreasing the "width" value.
 ## EXTENSIONS
 ### Visual Studio 2019
 * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-  * Align Assignments
-  * Copy As Html
+  > Align Assignments
+  > Copy As Html
   * Double-Click Maximize
   * Fix Mixed Tabs
   * Match Margin
