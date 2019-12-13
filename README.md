@@ -40,10 +40,10 @@ the logo size by increasing/decreasing the "width" value.
 
 ### DOTFILES
 #### GitHub
-* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/gitignore/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
+* [**.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore): A generic .gitignore file that covers *a lot* of ground.
 
 #### Visual Studio 2019
-* [**License Header Manager**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/LicenseHeaderManager.licenseheader)
+* [**License Header Manager**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
 * [**Visual Studio 2019 Editor editorconfig (C#)**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019-csharp.editorconfig)
 * [**Visual Studio 2019 IDE settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/visual-studio-2019.vssettings)
 * [**Viasfora settings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/dotfiles/viasfora-settings.xml)
