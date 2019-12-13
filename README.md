@@ -34,7 +34,6 @@ the logo size by increasing/decreasing the "width" value.
   <br>
   <br>
 </h2>
-<br>
 
 # ABOUT THIS REPOSITORY
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years. Hopefully others find some value in these files, so feel free to copy/paste/fork/whatever.
@@ -45,7 +44,7 @@ the logo size by increasing/decreasing the "width" value.
 A generic .gitignore file that covers *a lot* of ground.
 
 # VISUAL STUDIO 2019
-## EXTENSIONS
+### Extensions
 
 
 
