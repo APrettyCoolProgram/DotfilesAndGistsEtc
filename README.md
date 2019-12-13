@@ -20,44 +20,15 @@ This is a customizable README.md template written in GitHub-flavored Markdown (c
 contains an abundance of comments walking you through how to use each component.
 ---------------------------------------------------------------------------------------------------------------------->
 
-<!-- ARCHIVED PROJECT BANNER [Optional] -------------------------------------------------------------------------------
-Make it clear that this is an archived repository.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-<!-- By default, this block of code is commented out.
-***
-### THIS REPOSITORY HAS BEEN ARCHIVED
-[RepositoryName] Development has been moved to [**RepositoryName**](https://github.com/GitHubAccount/RepositoryName/tree/master).
-
-You can also have an explanation of why this repository has been archived.
-***
--->
-
-<!-- DEVELOPMENT BRANCH BANNER [Optional] -----------------------------------------------------------------------------
-Make it clear that this is a development branch.
------------------------------------------------------------------------------ (Remove this comment block when done) -->
-<!-- By default, this block of code is commented out.
-***
-### THIS IS THE DEVELOPMENT BRANCH
-You are probably looking for the [**stable branch**](https://github.com/GitHubAccount/RepositoryName/tree/master).
-
-Here are some commands you can use with the development branch.
-
-```
-$ ExampleCommand1
-$ ExampleCommand2
-```
-***
--->
-
 <!-- LOGO AND SHORT BLURB [Required] ----------------------------------------------------------------------------------
 Display a logo and give a short description what the repository is. Keep the description short, and save the details
 for the introduction. The repository name is optional; sometimes it looks good, sometimes it doesn't. Increase/decrease
 the logo size by increasing/decreasing the "width" value.
 ----------------------------------------------------------------------------- (Remove this comment block when done) -->
 <h2 align="center">
-  A Repository Template
+  Dotfiles and Gists, Etc.
   <br>
-  <img src="https://github.com/aprettycoolprogram/a-repository-template/blob/master/repository-resource/image/logo/a-repository-template-logo-100x100.png" alt="A Repository Template" width="100">
+  <img src="https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/master/repository-resource/image/logo/dotfiles-and-gists-logo-1058x867.png" alt="Dotfiles and Gists, Etc." width="200">
   <br>
   A template for GitHub repositories
   <br>
