@@ -96,6 +96,7 @@ the logo size by increasing/decreasing the "width" value.
 * [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
 * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+* [[**Visual Studio Spell Checker**](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 * [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 
