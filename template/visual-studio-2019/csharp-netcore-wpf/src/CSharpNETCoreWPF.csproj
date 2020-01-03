@@ -55,10 +55,10 @@
     <None Update="AppData\Development\Dotfiles\about-this-folder.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="AppData\Development\Roadmap.md">
+    <None Update="AppData\Development\roadmap.md">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="AppData\Development\ScratchData.txt">
+    <None Update="AppData\Development\scratch-data.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="AppData\Document\about-this-folder.md">

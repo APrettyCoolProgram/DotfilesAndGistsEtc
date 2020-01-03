@@ -11,7 +11,7 @@
 * ../AppData/Import/
 ##### CHANGED
 * Renamed "AboutThisFolder.md" files to "about-this-folder.md"
-* Updated "about-this-folder/md" files
+* Updated "about-this-folder.md" files
 * ../AppData/Document/CHANGELOG.md -> ../AppData/Development/changelog.md
 * ../AppData/Document/LICENSE.md -> ../AppData/Development/license.md
 * ../AppData/Document/NOTICES.md -> ../AppData/Development/notices.md
@@ -20,12 +20,8 @@
 * ../AppData/Development/Roadmap.md -> ../AppData/Development/roadmap.md
 * ../AppData/Development/ScratchData.md -> ../AppData/Development/scratch-data.md
 * ../AppData/Development/CSharpNETCoreWPF.md -> ../AppData/Development/changelog-csharp-netcore-wpf.md
-* ../AppData/Config/ -> ../AppData/Configuration/
-##### REMOVED
-
-
-
-
+* ../Config/ -> ../Configuration/
+* ../Config/Config.cs -> ../Configuration/Configuration.cs
 
 ## Build 191126
 ##### INFORMATION
