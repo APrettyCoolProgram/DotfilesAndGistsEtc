@@ -122,6 +122,10 @@ the logo size by increasing/decreasing the "width" value.
 * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreWPF)
 * [**C# .NET Core xUnit Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreXUnit)
 
+
+Notepad++
+* editorconfig plugin https://github.com/editorconfig/editorconfig-notepad-plus-plus
+
 ## THEMES
 * [**Dracula**](https://draculatheme.com/)
 
