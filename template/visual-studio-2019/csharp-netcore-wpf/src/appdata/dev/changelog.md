@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/), and this
 
 # Changelog template
 
-## v0.0.0 (YYYY-MM-DD)
+## v0.0.0.0 (YYYY-MM-DD)
 ##### INFORMATION   
 ##### ADDED
 ##### CHANGED

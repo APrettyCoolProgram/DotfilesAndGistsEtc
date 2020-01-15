@@ -1,13 +1,8 @@
-﻿# About /AppData/Import/
+﻿# About appdata/import/
+Application imported data.
 
-### Description
-Data to be imported to your application should go here.
+**Created at runtime:** Yes, always.
 
-### Contents
-Application specific, none by default.
-
-### Created at runtime
-Yes, always.
-
-### Additional information
-None.
+| **/**        |                                                                                                      |
+|:------------ |:---------------------------------------------------------------------------------------------------- |
+| various      | Imported data                                                                                        |    

@@ -2,6 +2,37 @@
 
 > This is a changelog for the Visual Studio C# .NET Core 3.0 WPF Project Template
 
+## Build 200115
+##### ADDED
+* ../appdata/about-this-folder.md
+* ../appdata/dev/dotfile/editorconfig/
+* ../appdata/dev/dotfile/git/
+* ../appdata/dev/dotfile/rider/
+* ../appdata/dev/dotfile/visual-studio/
+* ../appdata/dev/dotfile/visual-studio-code/
+* ../appdata/extension/
+* ../appdata/external/
+* ../appdata/scripts/
+* ../appdata/tools/
+##### CHANGED
+* ../AppData/ -> ../appdata/
+* ../appdata/Cache/ -> ../appdata/cache/
+* ../appdata/Configuration/-> ../appdata/conf/
+* ../appdata/Development/ -> ../appdata/dev/
+* ../appdata/Document/ -> ../appdata/doc/
+* ../appdata/Export/ -> ../appdata/export/
+* ../appdata/Font/ -> ../appdata/font/
+* ../appdata/Image/ -> ../appdata/image/
+* ../appdata/Import/ -> ../appdata/import/
+* ../appdata/Runtime/ -> ../appdata/runtime/
+* ../appdata/Temp/ -> ../appdata/temp/
+* ../appdata/dev/dotfiles/ -> ../appdata/dev/dotfile/
+* ../appdata/font/Embedded/ -> ../appdata/font/embedded/
+* ../appdata/font/Local/ -> ../appdata/font/local/
+* ../appdata/image/Embedded/ -> ../appdata/image/embedded/
+* ../appdata/image/Local/ -> ../appdata/image/local/
+* Updated CSharpNETCoreWPF.sln.licenseheader
+
 ## Build 200103
 ##### ADDED
 * Build now builds to "../bin/"

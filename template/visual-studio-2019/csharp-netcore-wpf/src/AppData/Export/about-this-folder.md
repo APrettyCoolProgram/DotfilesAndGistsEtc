@@ -1,13 +1,8 @@
-﻿# About /AppData/Export/
+﻿# About appdata/export/
+Application exported data.
 
-### Description
-Data exported from the application should go here.
+**Created at runtime:** Yes, always.
 
-### Contents
-Application specific, none by default.
-
-### Created at runtime
-Yes, always.
-
-### Additional information
-None.
+| **/**        |                                                                                                      |
+|:------------ |:---------------------------------------------------------------------------------------------------- |
+| various      | Exported data                                                                                        |    

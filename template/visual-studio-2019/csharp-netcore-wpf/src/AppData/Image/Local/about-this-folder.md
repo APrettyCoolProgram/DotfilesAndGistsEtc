@@ -1,13 +1,8 @@
-﻿# About /AppData/Image/Local
-
-### Description
+﻿# About appdata/image/local/
 Local images should go here.
 
-### Contents
-Application specific, none by default.
+**Created at runtime:** Yes, always.
 
-### Created at runtime
-Yes, always.
-
-### Additional information
-None.
+| **/**        |                                                                                                      |
+|:------------ |:---------------------------------------------------------------------------------------------------- |
+| various      | Local images                                                                                         |

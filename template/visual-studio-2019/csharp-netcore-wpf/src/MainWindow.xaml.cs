@@ -30,7 +30,7 @@ namespace CSharpNETCoreWPF
         {
             InitializeComponent();
 
-            DevMode.UseDevModes(false,false);
+            DevMode.UseDevModes(false, false);
 
             StartApplication();
         }
@@ -52,6 +52,8 @@ namespace CSharpNETCoreWPF
         /// </summary>
         private static void CustomizeWindow()
         {
+            /* YOUR CODE HERE
+             */
         }
 
         /// <summary>
@@ -59,6 +61,8 @@ namespace CSharpNETCoreWPF
         /// </summary>
         private static void CustomizeControls()
         {
+            /* YOUR CODE HERE
+             */
         }
     }
 }
