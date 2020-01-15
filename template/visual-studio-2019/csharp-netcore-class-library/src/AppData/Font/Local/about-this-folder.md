@@ -1,13 +1,8 @@
-﻿# About /AppData/Font/Local
+﻿# About appdata/font/local/
+Local fonts should go here.
 
-### Description
-Embedded fonts should go here.
+**Created at runtime:** Yes, always.
 
-### Contents
-Application specific, none by default.
-
-### Created at runtime
-Yes, always.
-
-### Additional information
-None.
+| **/**        |                                                                                                      |
+|:------------ |:---------------------------------------------------------------------------------------------------- |
+| various      | Local fonts                                                                                          |
