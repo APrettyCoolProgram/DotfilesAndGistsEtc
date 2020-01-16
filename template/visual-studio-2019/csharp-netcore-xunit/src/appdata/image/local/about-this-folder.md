@@ -1,8 +1,8 @@
-﻿# About appdata/export/
-Application exported data.
+﻿# About appdata/image/local/
+Local images should go here.
 
 **Created at runtime:** Yes, always.
 
 | **/**        |                                                                                                      |
 |:------------ |:---------------------------------------------------------------------------------------------------- |
-| various      | Exported data                                                                                        |    
+| various      | Local images                                                                                         |

@@ -1,8 +1,8 @@
-﻿# About appdata/export/
-Application exported data.
+﻿# About appdata/doc/
+Application documentation should be stored here.
 
 **Created at runtime:** Yes, always.
 
 | **/**        |                                                                                                      |
 |:------------ |:---------------------------------------------------------------------------------------------------- |
-| various      | Exported data                                                                                        |    
+| various      | Configuration and setting data                                                                       |    

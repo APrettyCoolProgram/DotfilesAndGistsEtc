@@ -1,8 +1,8 @@
-﻿# About appdata/export/
-Application exported data.
+﻿# About appdata/tool/
+Application tool.
 
 **Created at runtime:** Yes, always.
 
 | **/**        |                                                                                                      |
 |:------------ |:---------------------------------------------------------------------------------------------------- |
-| various      | Exported data                                                                                        |    
+| various      | Application tools                                                                                    |     

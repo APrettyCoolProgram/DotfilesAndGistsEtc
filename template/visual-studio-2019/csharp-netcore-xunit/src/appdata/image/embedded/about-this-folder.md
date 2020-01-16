@@ -1,8 +1,8 @@
-﻿# About appdata/export/
-Application exported data.
+﻿# About appdata/image/embedded/
+Embedded imagess should go here.
 
 **Created at runtime:** Yes, always.
 
 | **/**        |                                                                                                      |
 |:------------ |:---------------------------------------------------------------------------------------------------- |
-| various      | Exported data                                                                                        |    
+| various      | Embedded images                                                                                      |
