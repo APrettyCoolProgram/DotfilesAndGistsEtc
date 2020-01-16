@@ -1,13 +1,8 @@
-﻿# About /AppData/Temp/
+﻿# About appdata/temp/
+Any temporary application data should be stored here. *Temporary data* is data that should be deleted when the application exits. *Cached data* should be available to the application at launch, and not be deleted when the application is exited, should be stored in appdata/temp.
 
-### Description
-Temporary files should go here.
+**Created at runtime:** Yes, always.
 
-### Contents
-Application specific, none by default.
-
-### Created at runtime
-Yes, always.
-
-### Additional information
-None.
+| **/**        |                                                                                                      |
+|:------------ |:---------------------------------------------------------------------------------------------------- |
+| various      | Temporary data                                                                                       |     
