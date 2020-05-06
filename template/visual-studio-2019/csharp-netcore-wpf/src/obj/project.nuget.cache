@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "PYB2zctMJIzjiuPAuDjUv1sE/TttXV8jLAO9SGMCob9qS6ToJrjd6sm3zff8aVhp83xDQMmndViEi9O19hzC8Q==",
+  "success": true,
+  "projectFilePath": "F:\\GitHub\\A Pretty Cool Program\\dotfiles-and-gists-etc\\template\\visual-studio-2019\\csharp-netcore-wpf\\src\\CSharpNETCoreWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\2.9.8\\microsoft.codeanalysis.fxcopanalyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\2.9.8\\microsoft.codeanalysis.versioncheckanalyzer.2.9.8.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codequality.analyzers\\2.9.8\\microsoft.codequality.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netcore.analyzers\\2.9.8\\microsoft.netcore.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netframework.analyzers\\2.9.8\\microsoft.netframework.analyzers.2.9.8.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\roslynator.analyzers\\2.2.0\\roslynator.analyzers.2.2.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
