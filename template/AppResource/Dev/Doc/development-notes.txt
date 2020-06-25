@@ -1,0 +1,53 @@
+﻿================================================================================
+Development notes
+================================================================================
+
+Added the following Nuget packages:
+* Windows API Code Pack-Core Nuget package.
+* Windows API Code Pack-Shell Nuget package.
+
+
+Game Asset Studio icon
+----------------------
+Abstract 050 Icon
+https://game-icons.net/1x1/viscious-speed/abstract-050.html
+Foreground radial gradient from FFF600 to FF0000
+
+
+Save floppy disk
+https://icons8.com/icons/set/save/ultraviolet
+dff0fe
+25897E
+A3E7DF
+65D6C9
+
+Exit X
+https://icons8.com/icon/set/exit/ultraviolet
+EA8066
+E2522E
+F6C9BD
+
+Settings gear
+https://icons8.com/icon/set/settings/ultraviolet
+5999B3
+223E49
+DEEBF0
+
+Closed folder
+https://icons8.com/icon/set/folder/ultraviolet
+9BC2D1
+366375
+DEEBF0
+
+Open, empty folder
+https://icons8.com/icon/set/folder/ultraviolet
+9BC2D1
+366375
+DEEBF0
+
+
+
+
+
+
+
