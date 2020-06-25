@@ -1,0 +1,4 @@
+﻿# About AppResource/DevMode/
+
+If you have data that you retrieve from a remote location, you can store that data in DevMode/ instead. When your
+Project starts, the data will be copied to where it should be at runtime.

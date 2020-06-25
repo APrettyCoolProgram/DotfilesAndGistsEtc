@@ -1,0 +1,11 @@
+﻿About AppResource/Cache/
+
+Cached data is:
+
+    1. Data that is available to a project at launch
+    2. Data that is not removed/deleted when a projectexits
+    3. Data that can be removed without having a detrimental
+       effect on a project(i.e. it's optional)
+
+Data that does not meet the above requirements should probably be
+stored in "AppData/Temp/".
