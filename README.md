@@ -20,8 +20,6 @@ This is a customizable README.md template written in GitHub-flavored Markdown (c
 contains an abundance of comments walking you through how to use each component.
 ---------------------------------------------------------------------------------------------------------------------->
 
-
-
 <!-- LOGO AND SHORT BLURB [Required] ----------------------------------------------------------------------------------
 Display a logo and give a short description what the repository is. Keep the description short, and save the details
 for the introduction. The repository name is optional; sometimes it looks good, sometimes it doesn't. Increase/decrease
