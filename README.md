@@ -28,8 +28,6 @@ the logo size by increasing/decreasing the "width" value.
 <h2 align="center">
   Dotfiles and Gists, Etc.
   <br>
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/repository-resource/image/logo/dotfiles-and-gists-etc-logo-1058x867.png" alt="Dotfiles and Gists, Etc." width="200">
-  <br>
   A collection of dotfiles, random experiments, and other (useful?) things
   <br>
   <br>
