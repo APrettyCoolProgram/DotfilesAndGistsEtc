@@ -1,0 +1,20 @@
+﻿<!--
+	<project-name>: https://github-account/repository-name
+	<project-name>.MainWindow.xaml
+	b0000.0000
+	(c) <YYYY> <name-of-copyright-owner>. Licensed under the Apache License 2.0
+	This project uses the dotnet-core-csharp-wpf-template (v2.2): https://github.com/aprettycoolprogram/some-templates-->
+
+<Window
+    x:Class="dotnet_core_csharp_wpf_template.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:dotnet_core_csharp_wpf_template"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="800"
+    Height="450"
+    mc:Ignorable="d">
+    <Grid />
+</Window>
