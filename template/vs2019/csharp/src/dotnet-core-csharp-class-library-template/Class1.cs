@@ -1,8 +1,11 @@
 ﻿// <project-name>: https://github-account/repository-name
-// <project-name>.Class1.cs
-// b0000.0000
-// (c) <YYYY> <name-of-copyright-owner>. Licensed under the Apache License 2.0
-// This project uses the dotnet-core-csharp-wpf-template-v2.2: https://github.com/aprettycoolprogram/some-templates
+// <file-name> [<version/build>]: <file-description>
+// Authors:
+//  author01@email-address.com
+//  author02@email-address.com
+// Additional documentation: /AppResource/Doc/Proj/
+
+// dotnet-core-csharp-class-library-template-200625
 
 namespace dotnet_core_csharp_class_library_template
 {
