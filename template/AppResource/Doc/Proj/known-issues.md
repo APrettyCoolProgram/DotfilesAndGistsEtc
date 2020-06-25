@@ -1,4 +1,4 @@
-﻿> [Game Asset Studio](https://github-account/game-asset-studio) v0.0<br>
+﻿> [project-name](https://github-account/project-name) v0.0<br>
 > known-issues.md: Known issues.
 > Additional documentation: /AppResource/Doc/Proj/
 

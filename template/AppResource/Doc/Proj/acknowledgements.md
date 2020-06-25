@@ -1,7 +1,7 @@
-> [Game Asset Studio](https://github-account/game-asset-studio) v0.0<br>
+> [project-name](https://github-account/project-name) v0.0<br>
 > acknowledgements.md: Acknowledgements.
 > Additional documentation: /AppResource/Doc/Proj/
 
 # ACKNOWLEDGEMENTS
 
-Please see the [notifications](url) document for third party acknowledgments.
+Please see the [notices](url) document for third party acknowledgments.
