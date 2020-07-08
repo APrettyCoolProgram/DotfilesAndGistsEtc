@@ -8,13 +8,11 @@ The **projdata/** folder contains all project data.
 
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
-The **projdata/** folder is built using [projdata](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
+The **projdata/** folder is built using the [projdata/ template](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
 (b200708)
 
-
-
-# PROJDATA/ STRUCTURE
-The top-level structure of pr **projdata/** looks like this:
+# PROJDATA/ FRAMEWORK
+The top-level of **projdata/** looks like this:
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | [asset/](#project-assets)           | Project assets                                                    |
@@ -23,7 +21,7 @@ The top-level structure of pr **projdata/** looks like this:
 | [doc/](#project-documentation)      | Project documentation                                             |
 | [runtime/](#project-runtime)        | Project runtime data                                              |
 
-### Project assets
+### PROJECT ASSETS
 All project assets are stored in **projdata/asset/**.
 
 Examples of project assets are:
@@ -31,7 +29,7 @@ Examples of project assets are:
 * A sound effect when a button is pushed
 * A non-standard font
 
-| projdata/asset/                     | Asset type/sub-type                                               |
+
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
 | asset/font /                        | Fonts |
