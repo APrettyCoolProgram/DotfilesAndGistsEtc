@@ -1,15 +1,36 @@
 ﻿# projdata/
-| /                                   |                                                                   |
+Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
+
+### Structure
+| projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| asset/                              | Assets |
+| asset/                              | Assets (audio, images, etc) |
+|   asset/                            | Assets (audio, images, etc) |
+| config/                             | Configuration files |
+| dev/                                | Development data |
+| doc                                 | Documentation |
+| help                                | Help data |
+| runtime                             | Runtime data |
+
+| projdata/asset                      |                                                                   |
+|:------------------------------------|:------------------------------------------------------------------|
+| audio/                              | Audio |
+| font /                        | Fonts |
+| image/control                 | Images used on controls|
+| image/doc                     | Images used in documentation |
+| image/icon                    | Icons |
+| image/logo                    | Logos |
+| video/screenshot              | Screenshots |
+
+| projdata/config                     |                                                                   |
+|:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
 | asset/font /                        | Fonts |
-| asset/image/                        | Images |
-| asset/image/control/                | ...for controls |
-| asset/image/control/                | ...for documentation |
-| asset/video/                        | Video |
-| aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
-
+| asset/image/control                 | Images used on controls|
+| asset/image/doc                     | Images used in documentation |
+| asset/image/icon                    | Icons |
+| asset/image/logo                    | Logos |
+| asset/video/screenshot              | Screenshots |
 
 
 
@@ -41,16 +62,7 @@
 
 > This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
 
-Required project data is stored in **projdata/**.
 
-Project data is static data that is not created or modified by the project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
-
-Examples of project data:
-* Images for project controls
-* Audio used in an project
-* Static text and configuration files
-* Datafiles required for development
-* Project documentation and help files
 
 ## Structure
 | Folder              | Contents                                    |
