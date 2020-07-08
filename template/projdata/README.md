@@ -3,17 +3,18 @@ The **projdata/** folder contains all project data.
 
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
-### Structure
+## Structure
+This is the top level.
 | **projdata/**                       |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| [asset/](#project-assets)                              | [Project assets](#projdata/asset/) (ex: audio files, images, fonts) |
+| [asset/](#project-assets)           | Project assets (ex: audio files, images, fonts) |
 | config/                             | Project configuration files |
 | dev/                                | Development data |
 | doc/                                | Documentation |
 | runtime/                            | Runtime data |
 
 ### Project assets
-
+This is description of the project assets
 | **projdata/asset/**                 |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
@@ -21,6 +22,8 @@ Project data is static data that is not created or modified by a project. Dynami
 | asset/image/                        | Images used on controls|
 | asset/video/                        | Video |
 
+#### Project assets - images
+This is specific to images
 | **projdata/asset/image/**           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/image/control                 | Images used on controls|
