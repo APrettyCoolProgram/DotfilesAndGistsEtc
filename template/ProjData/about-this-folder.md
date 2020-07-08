@@ -1,12 +1,12 @@
-﻿# ProjData/
-This file is a placeholder that ensures that ***ProjData/*** folders:
-* Are included in the GitHub repository
-* Are available to a project application at runtime
+﻿# About ProjData/
+This file is a placeholder that ensures that the **ProjData/** folders:
+* Are included in a source code repositories
+* Are available to a project at runtime
 
-### Purpose
-The `ProjData/` folders contains all project data.
+### Purpose of ProjData/
+The **ProjData/** folders contain required project data.
 
-Project data is static data that a project needs to function.
+Project data is data that a project needs to function. Project data is generally static, and is not created/modified by the project/application. Data that is create/modified by a project/application should be stored in the **AppData** folders.
 
 Examples of project data:
 * Images for application controls
@@ -14,8 +14,6 @@ Examples of project data:
 * Static text and configuration files
 * Datafiles required for development
 * Project documentation and help files
-
-Dynamic data that a project application creates and/or manipulates should not be stored in `ProjData/`, and should instead be stored in `AppData/`
 
 ### Structure
 Each of the following sub-folders may have its own structure.
