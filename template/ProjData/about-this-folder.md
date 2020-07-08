@@ -1,7 +1,5 @@
 ﻿# ProjData/
-> This file is a placeholder that ensures that the **ProjData/** folders:
-> * Are included in a source code repositories
-> * Are available to a project at runtime
+> This file is a placeholder that ensures that the **ProjData/** folders are included in a source code repositories, and optionally available to a project at runtime.
 
 ## Purpose of ProjData/
 Any required project data is stored in **ProjData/**.
