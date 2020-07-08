@@ -1,8 +1,8 @@
 ﻿# projdata/
-| Asset folder            | Contents                                    |
-|:------------------------|:--------------------------------------------|
-| `projdata/asset/`       | Project assets                         |
-| `projdata/asset/audio/` | Project audio |
+| Asset folder                        | Contents                                                          |
+|:------------------------------------|:------------------------------------------------------------------|
+| `asset/`                            | Project assets |
+| `asset/audio/`                      | Project audio |
 | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 
 
