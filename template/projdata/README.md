@@ -11,7 +11,7 @@ Project data is static data that is not created or modified by a project. Dynami
 The **projdata/** folder is built using the [projdata/ template](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
 (b200708)
 
-# PROJDATA/ FRAMEWORK
+# PROJDATA/
 The top-level of **projdata/** looks like this:
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
@@ -21,7 +21,7 @@ The top-level of **projdata/** looks like this:
 | [doc/](#project-documentation)      | Project documentation                                             |
 | [runtime/](#project-runtime)        | Project runtime data                                              |
 
-### PROJECT ASSETS
+### PROJECT/ASSET/
 All project assets are stored in **projdata/asset/**.
 
 Examples of project assets are:
@@ -29,16 +29,16 @@ Examples of project assets are:
 * A sound effect when a button is pushed
 * A non-standard font
 
-
+| projdata/asset                      | Asset type/sub-type                                               |
 |:------------------------------------|:------------------------------------------------------------------|
-| asset/audio/                        | Audio |
-| asset/font /                        | Fonts |
-| asset/image/control                 | Images used on controls |
-| asset/image/doc                     | Images used in documentation |
-| asset/image/icon                    | Icons |
-| asset/image/logo                    | Logos |
-| asset/video/screenshot              | Screenshots |
-| asset/video/                        | Video |
+| audio/                              | Audio                                                             |
+| font /                              | Fonts                                                             |
+| image/control                       | Images used on controls                                           |
+| image/doc                           | Images used in documentation                                      |
+| image/icon                          | Icons                                                             |
+| image/logo                          | Logos                                                             |
+| video/screenshot                    | Screenshots                                                       |
+| video/                              | Video                                                             |
 
 ### Project configurations
 All project assets are stored in **projdata/config/**.
