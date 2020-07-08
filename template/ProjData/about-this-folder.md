@@ -1,5 +1,7 @@
 ﻿# ProjData/
-This file is a placeholder to ensure that the ***ProjData/*** folders are included in the GitHub repository.
+This file is a placeholder that ensures that ***ProjData/*** folders:
+* Are included in the GitHub repository
+* Are available to a project application at runtime
 
 ### Purpose
 The `ProjData/` folders contains all project data.
@@ -28,6 +30,7 @@ Each of the following sub-folders may have its own structure.
 
 ### Copying `ProjData/` locally at runtime
 
+#### Visual Studio 2019
 To copy files to `ProjData/Asset/Audio/` at runtime, set the file properties as such:
 ```
 Build Action: None
@@ -39,4 +42,4 @@ To copy build files in `ProjData/Asset/Audio/Embedded/` as project resources, se
 Build Action: Resource
 ```
 
-> [b200708](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
+> [Dotfiles, Templates, and Gists, Etc. b200708](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
