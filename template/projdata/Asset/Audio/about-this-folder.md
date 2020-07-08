@@ -1,7 +1,5 @@
 ﻿# projdata/asset/audio/
-> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
-
-Project audio is stored in **projdata/asset/audio/**.
+Put project audio files here.
 
 ## Structure
 | Folder                           | Contents                                                          |
@@ -9,13 +7,14 @@ Project audio is stored in **projdata/asset/audio/**.
 | `projdata/asset/audio/`          | Audio files that are copied to `projdata/asset/audio/` at runtime |
 | `projdata/asset/audio/embedded/` | Audio files that are built as a project resource.                 |
 
-## Making projdata/asset/audio/ available at runtime
+## Runtime availability
 ### Visual Studio
+
 Any files that you want available locally at runtime need the following properties set:
-    ```
-    Build Action: None
-    Copy to Output Directory: Copy always
-    ```
+```
+Build Action: None
+Copy to Output Directory: Copy always
+```
 
 
 To ensure that the **projdata/asset/audio/** folder exists at runtime, set the properties for the `projdata/asset/audio/about-this-folder.md` file as such:
@@ -29,8 +28,15 @@ Build Action: None
 Copy to Output Directory: Copy always
 ```
 
-
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.<br>
+> <br>
 > Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
+
+
+
+
+
+
 
 ### ProjData/Asset/Audio/
 > This file is a placeholder to ensure that ***ProjData/Asset/Audio/*** is included in the GitHub repository, and is also
@@ -57,3 +63,5 @@ To copy build files in `ProjData/Asset/Audio/Embedded/` as project resources, se
 ```
 Build Action: Resource
 ```
+
+
