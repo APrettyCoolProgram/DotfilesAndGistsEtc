@@ -1,7 +1,13 @@
 ﻿# projdata/
-| asset/                              | Project assets                                                    |
+| /                                   |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| audio/                              | Project audio |
+| asset/                              | Assets |
+| asset/audio/                        | Audio |
+| asset/font /                        | Fonts |
+| asset/image/                        | Images |
+| asset/image/control/                | ...for controls |
+| asset/image/control/                | ...for documentation |
+| asset/video/                        | Video |
 | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
 
 
