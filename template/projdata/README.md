@@ -4,8 +4,8 @@ The **projdata/** folder contains all project data.
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
 # Structure
-This is the top level.
-| **projdata/**                       |                                                                   |
+The top-level structure of pr **projdata/** looks like this:
+| projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | [asset/](#project-assets)           | Project assets (ex: audio files, images, fonts) |
 | [config/](#project-configurations)  | Project configuration files |
@@ -21,7 +21,7 @@ Examples of project assets are:
 * A sound effect when a button is pushed
 * A non-standard font
 
-| **projdata/asset/**                 | Asset type/sub-type                                               |
+| projdata/asset/                     | Asset type/sub-type                                               |
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
 | asset/font /                        | Fonts |
@@ -43,7 +43,7 @@ Examples of development development data:
 * Data used during development
 * Information about third party components
 
-| **projdata/dev/**                   |                                                                   |
+| projdata/dev/                       |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | dev/archive/                        | Development data |
 | dev/doc/                            | Development data |
@@ -55,7 +55,7 @@ Examples of project documentation:
 * Project manuals
 * Project documents (ex: changelogs, roadmaps, etc)
 
-| **projdata/dev/**                   |                                                                   |
+| projdata/dev/                       |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | doc/help/                           | Documentation |
 | doc/howto/                          | Documentation |
