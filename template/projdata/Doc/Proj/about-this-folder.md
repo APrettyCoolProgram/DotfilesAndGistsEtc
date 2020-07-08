@@ -6,7 +6,7 @@ Project manuals are stored in **projdata/doc/proj/**.
 Images for how-to documents are stored in **projdata/asset/image/doc/proj/**
 
 ## Making projdata/doc/proj/ available at runtime
-### Visual Studio 2019
+### Visual Studio
 To ensure that the **projdata/doc/proj/** folder exists at runtime, set the properties for the `projdata/doc/proj/about-this-folder.md` file as such:
 ```
 Build Action: None

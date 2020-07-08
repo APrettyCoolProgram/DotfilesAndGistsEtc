@@ -4,7 +4,7 @@
 Project help data is stored in **projdata/help/**.
 
 ## Making projdata/help/ available at runtime
-### Visual Studio 2019
+### Visual Studio
 To ensure that the **projdata/help/** folder exists at runtime, set the properties for the `projdata/help/about-this-folder.md` file as such:
 ```
 Build Action: None

@@ -15,7 +15,7 @@ Examples of project documentation:
 | `projdata/doc/proj/`  | Project documentation    |
 
 ## Making projdata/doc/ available at runtime
-### Visual Studio 2019
+### Visual Studio
 To ensure that the **projdata/doc/** folder exists at runtime, set the properties for the `projdata/doc/about-this-folder.md` file as such:
 ```
 Build Action: None

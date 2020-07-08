@@ -13,16 +13,17 @@ Examples of project data:
 * Project documentation and help files
 
 ## Structure
-| Folder            | Contents                                     |
-|------------------:|:---------------------------------------------|
-| `projdata/asset/` | Project assets (i.e. images, sounds, fonts)  |
-| `projdata/data`   | Project data                                 |
-| `projdata/dev/`   | Project development data/documentation       |
-| `projdata/doc`    | Project documentation                        |
-| `projdata/help/`  | Project help data                            |
+| Folder              | Contents                                    |
+|--------------------:|:--------------------------------------------|
+| `projdata/asset/`   | Project assets (i.e. images, sounds, fonts) |
+| `projdata/data`     | Project data                                |
+| `projdata/dev/`     | Project development data/documentation      |
+| `projdata/doc`      | Project documentation                       |
+| `projdata/help/`    | Project help data                           |
+| `projdata/runtime/` | Project runtime                             |
 
 ## Making projdata/ available at runtime
-### Visual Studio 2019
+### Visual Studio
 To ensure that the **projdata/** folder exists at runtime, set the properties for the `projdata/about-this-folder.md` file as such:
 ```
 Build Action: None

@@ -6,7 +6,7 @@ Project how-to documentation is stored in **projdata/doc/howto/**.
 Images for how-to documents are stored in **projdata/asset/image/doc/howto/**
 
 ## Making projdata/doc/howto/ available at runtime
-### Visual Studio 2019
+### Visual Studio
 To ensure that the **projdata/doc/howto/** folder exists at runtime, set the properties for the `projdata/doc/howto/about-this-folder.md` file as such:
 ```
 Build Action: None

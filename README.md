@@ -39,7 +39,7 @@ the logo size by increasing/decreasing the "width" value.
 ## DOTFILES
 ### GitHub
 * [**generic.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore)
-#### Visual Studio 2019
+#### Visual Studio
 * [**License Header Manager license header**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
 * [**Visual Studio 2019 .editorconfig (C#)**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019-csharp.editorconfig)
 * [**Visual Studio 2019 .vssettings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019.vssettings)
@@ -47,7 +47,7 @@ the logo size by increasing/decreasing the "width" value.
 * [**Viasfora theme**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-theme.json)
 
 ## EXTENSIONS
-### Visual Studio 2019
+### Visual Studio
 * [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
   * Align Assignments
   * Copy As Html
@@ -104,7 +104,7 @@ the logo size by increasing/decreasing the "width" value.
 * [**Google Fonts**](https://github.com/google/fonts)
 
 ## NUGET PACKAGES
-### Visual Studio 2019
+### Visual Studio
 * [**Roslyn Analyzers**](https://github.com/dotnet/roslyn-analyzers)
 * [**Roslynator**](https://github.com/JosefPihrt/Roslynator)
 
@@ -112,7 +112,7 @@ the logo size by increasing/decreasing the "width" value.
 ### GitHub
 * [**Standard repository**](https://github.com/APrettyCoolProgram/DotfilesAndGistsEtc/tree/master/Templates/GitHubRepository)
 
-### Visual Studio 2019 Project Templates
+### Visual Studio Project Templates
 * [**C# .NET Core Class Library Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreClassLibrary)
 * [**C# .NET Core Console Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreClassLibrary)
 * [**C# .NET Core WPF Project**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/tree/development/template/visual-studio-2019/CSharpNETCoreWPF)
