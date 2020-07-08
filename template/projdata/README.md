@@ -15,6 +15,12 @@ This is the top level.
 
 ### Project assets
 All project assets are stored in **projdata/asset/**.
+
+Examples of project assets are:
+* An image for a button control
+* A sound effect when a button is pushed
+* A non-standard font
+
 | **projdata/asset/**                 | Asset type/sub-type                                               |
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
@@ -31,6 +37,12 @@ All project assets are stored in **projdata/config/**.
 
 ### Project development
 Development data is stored in **projdata/dev/**.
+
+Examples of development development data:
+* Development notes and code snippits
+* Data used during development
+* Information about third party components
+
 | **projdata/dev/**                   |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | dev/archive/                        | Development data |
@@ -38,6 +50,11 @@ Development data is stored in **projdata/dev/**.
 
 ### Project documentation
 Development data is stored in **projdata/doc/**.
+
+Examples of project documentation:
+* Project manuals
+* Project documents (ex: changelogs, roadmaps, etc)
+
 | **projdata/dev/**                   |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | doc/help/                           | Documentation |
