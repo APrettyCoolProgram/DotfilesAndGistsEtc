@@ -1,23 +1,27 @@
-﻿### ProjData/Asset/*
-> This file is a placeholder to ensure that the ***ProjData/Asset/**** folders are included in the GitHub repository, and are also
-created (if they don't exist already) at runtime.
+﻿# projdata/asset/
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
 
-#### Purpose
-All project assets belongs here.
-
-Project assets are compnents that an project needs to function.
+Project assets is stored in **projdata/asset/**.
 
 Examples of project assets are:
 * An image for a button control
 * A sound effect when a button is pushed
 * A non-standard font
 
-#### Structure
-Each of the following locations may have its own folder structure.
-
+## Structure
 | Folder                  | Contents        |
 |------------------------:|:----------------|
-| `ProjData/Asset/Audio/` | Project audio   |
-| `ProjData/Asset/Font/`  | Project fonts   |
-| `ProjData/Asset/Image/` | Project images  |
-| `ProjData/Asset/Video/` | Project video   |
+| `projdata/asset/audio/` | Project audio   |
+| `projdata/asset/font/`  | Project fonts   |
+| `projdata/asset/image/` | Project images  |
+| `projdata/asset/video/` | Project video   |
+
+## Making projdata/asset/ available at runtime
+### Visual Studio
+To ensure that the **projdata/asset/** folder exists at runtime, set the properties for the `projdata/asset/about-this-folder.md` file as such:
+```
+Build Action: None
+Copy to Output Directory: Copy always
+```
+
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
