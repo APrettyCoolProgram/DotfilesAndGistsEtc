@@ -1,5 +1,5 @@
 ﻿# projdata/
-Any required project data is stored in **projdata/**.
+Required project data is stored in **projdata/**.
 
 Project data is static data that a project needs to function, and is not created or modified by the project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
@@ -21,14 +21,14 @@ Each of the following sub-folders may have its own structure.
 | `projdata/doc`    | Project documentation                        |
 | `projdata/help/`  | Project help data                            |
 
-## Making ProjData/ available at runtime
+## Making projdata/ available at runtime
 The **projdata/** folder should be available to a project at runtime. The instructions below only affect **projdata/**, any sub-folders will need to be modified individually.
 
 ### Visual Studio 2019
-To ensure that the `projdata/` folder exists at runtime, set the properties for the `projdata/about-this-folder.md` file as such:
+To ensure that the **projdata/** folder exists at runtime, set the properties for the `projdata/about-this-folder.md` file as such:
 ```
 Build Action: None
 Copy to Output Directory: Copy always
 ```
 
-> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and optionally available to a project at runtime. [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime. [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
