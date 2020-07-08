@@ -31,5 +31,5 @@ Copy to Output Directory: Copy always
 ```
 > <br>
 > This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.<br>
-> For more information, please see [projdata](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) <br>
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) <br>
 > <br>
