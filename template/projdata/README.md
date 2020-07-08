@@ -1,18 +1,19 @@
 ﻿# projdata/
 
-[ABOUT THE PROJDATA/ FOLDER](#about-the-projdata-folder)<br>
-[PROJDATA/ STRUCTURE](#projdata-structure)<br>
+[ABOUT](#about-projdata)<br>
+[STRUCTURE](#projdata-structure)<br>
 
-# About the projdata/ folder
+# ABOUT PROJDATA/
 The **projdata/** folder contains all project data.
 
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
-> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
+The **projdata/** folder is built using [projdata](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
+(b200708)
 
 
 
-# projdata/ structure
+# PROJDATA/ STRUCTURE
 The top-level structure of pr **projdata/** looks like this:
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
