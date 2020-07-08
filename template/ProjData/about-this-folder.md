@@ -2,7 +2,7 @@
 This file is a placeholder to ensure that the ***ProjData/*** folders are included in the GitHub repository.
 
 ### Purpose
-All project data belongs here.
+The `ProjData/` folders contains all project data.
 
 Project data is static data that a project needs to function.
 
@@ -38,3 +38,5 @@ To copy build files in `ProjData/Asset/Audio/Embedded/` as project resources, se
 ```
 Build Action: Resource
 ```
+
+> [b200708](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
