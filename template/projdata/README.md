@@ -1,17 +1,25 @@
 ﻿# projdata/
+
+[ABOUT](#about-projdata)
+[STRUCTURE](#structure)
+
+# About projdata/
 The **projdata/** folder contains all project data.
 
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
+
+
+
 
 # Structure
 The top-level structure of pr **projdata/** looks like this:
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| [asset/](#project-assets)           | Project assets (ex: audio files, images, fonts) |
-| [config/](#project-configurations)  | Project configuration files |
-| [dev/](#project-development)        | Development data |
-| [doc/](#project-documentation)      | Documentation |
-| [runtime/](#project-runtime)        | Runtime data |
+| [asset/](#project-assets)           | Project assets                                                    |
+| [config/](#project-configurations)  | Project configuration files                                       |
+| [dev/](#project-development)        | Project development data                                          |
+| [doc/](#project-documentation)      | Project documentation                                             |
+| [runtime/](#project-runtime)        | Project runtime data                                              |
 
 ### Project assets
 All project assets are stored in **projdata/asset/**.
