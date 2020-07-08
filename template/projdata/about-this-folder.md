@@ -1,4 +1,39 @@
 ﻿# projdata/
+| Asset folder            | Contents                                    |
+|:------------------------|:--------------------------------------------|
+| `projdata/asset/`       | Project assets                         |
+| `projdata/asset/audio/` | Project audio |
+| aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa | aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa |
+
+
+
+
+
+
+| `projdata/data`     | Project data                                |
+| `projdata/dev/`     | Project development data/documentation      |
+| `projdata/doc`      | Project documentation                       |
+| `projdata/help/`    | Project help data                           |
+| `projdata/runtime/` | Project runtime                             |
+
+
+
+
+
+
+
+
+
+
+
+
+| Folder            | Contents                                                                    |
+|------------------:|:----------------------------------------------------------------------------|
+| `audio/`          | Audio files that are copied locally to **projdata/asset/audio/** at runtime |
+| `audio/embedded/` | Audio files that are built as a project resource.                           |
+
+
+
 > This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
 
 Required project data is stored in **projdata/**.
