@@ -1,12 +1,12 @@
-﻿# About ProjData/
-This file is a placeholder that ensures that the **ProjData/** folders:
-* Are included in a source code repositories
-* Are available to a project at runtime
+﻿# ProjData/
+> This file is a placeholder that ensures that the **ProjData/** folders:
+> * Are included in a source code repositories
+> * Are available to a project at runtime
 
 ## Purpose of ProjData/
-The **ProjData/** folders should contain required project data.
+Any required project data is stored in **ProjData/**.
 
-Project data is static data that a project needs to function, and is not created or modified by the project. Data that is created or modified by a project should be stored in the **AppData** folders.
+Project data is static data that a project needs to function, and is not created or modified by the project.
 
 Examples of project data:
 * Images for project controls
@@ -14,6 +14,8 @@ Examples of project data:
 * Static text and configuration files
 * Datafiles required for development
 * Project documentation and help files
+
+Data that is created or modified by a project should be stored in the **AppData** folders.
 
 ## Structure
 Each of the following sub-folders may have its own structure.
