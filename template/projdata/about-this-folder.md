@@ -1,4 +1,6 @@
 ﻿# projdata/
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
+
 Required project data is stored in **projdata/**.
 
 Project data is static data that is not created or modified by the project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
@@ -29,8 +31,5 @@ To ensure that the **projdata/** folder exists at runtime, set the properties fo
 Build Action: None
 Copy to Output Directory: Copy always
 ```
-> <br>
-> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.<br>
-> <br>
 
-Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) <br>
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) <br>
