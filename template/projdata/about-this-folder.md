@@ -13,8 +13,6 @@ Examples of project data:
 * Project documentation and help files
 
 ## Structure
-Each of the following sub-folders may have its own structure.
-
 | Folder            | Contents                                     |
 |------------------:|:---------------------------------------------|
 | `projdata/asset/` | Project assets (i.e. images, sounds, fonts)  |
@@ -24,7 +22,6 @@ Each of the following sub-folders may have its own structure.
 | `projdata/help/`  | Project help data                            |
 
 ## Making projdata/ available at runtime
-
 ### Visual Studio 2019
 To ensure that the **projdata/** folder exists at runtime, set the properties for the `projdata/about-this-folder.md` file as such:
 ```
@@ -32,4 +29,4 @@ Build Action: None
 Copy to Output Directory: Copy always
 ```
 
-> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) <br>
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)

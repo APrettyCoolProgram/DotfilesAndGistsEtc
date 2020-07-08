@@ -1,17 +1,16 @@
-﻿### ProjData/Dev/*
-> The `ProjData/Dev/*` folders *are not* copied locally at runtime, and are only available with the sourcecode.
+﻿# projdata/dev/
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories.
 
-#### Purpose
-All project development data and documentation should be stored here.
+Project development data and documentation are stored in **projdata/dev/**.
 
 Examples of development development data:
 * Development notes and code snippits
 * Information about third party components
 
 #### Structure
-Each of the following locations may have its own folder structure.
+| Folder                     | Contents                           |
+|---------------------------:|:-----------------------------------|
+| `projdata/dev/doc/`        | Development data and documentation |
+| `projdata/dev/archive/`    | Archived data                      |
 
-| Folder                        | Contents                                |
-|------------------------------:|:----------------------------------------|
-| `ProjData/Dev/Doc/`        | Development data and documentation.     |
-| `ProjData/Dev/ThirdParty/` | Third party components and information. |
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)

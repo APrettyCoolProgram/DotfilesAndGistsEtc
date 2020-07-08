@@ -1,19 +1,25 @@
-﻿### ProjData/Doc/*
-> This file is a placeholder to ensure that the ***ProjData/Doc/**** folders are included in the GitHub repository, and are also
-created (if they don't exist already) at runtime.
+﻿# projdata/doc/
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
 
-#### Purpose
-All project documentation belongs here.
+Project documentation is stored in **projdata/doc/**.
 
 Examples of project documentation:
-* Application manuals
+* Project manuals
 * Project documents (ex: changelogs, roadmaps, etc)
 
-#### Structure
-Each of the following locations may have its own folder structure.
+## Structure
+| Folder                | Contents                 |
+|----------------------:|:-------------------------|
+| `projdata/doc/howto/` | Project how-to documents |
+| `projdata/doc/man/`   | Project manual(s)        |
+| `projdata/doc/proj/`  | Project documentation    |
 
-| Folder                   | Contents               |
-|-------------------------:|:-----------------------|
-| `ProjData/Doc/HowTo/` | How-to documentation.  |
-| `ProjData/Doc/Man/`   | Manuals.               |
-| `ProjData/Doc/Proj/`  | Project documentation. |
+## Making projdata/doc/ available at runtime
+### Visual Studio 2019
+To ensure that the **projdata/doc/** folder exists at runtime, set the properties for the `projdata/doc/about-this-folder.md` file as such:
+```
+Build Action: None
+Copy to Output Directory: Copy always
+```
+
+> Built using [projdata b200708](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
