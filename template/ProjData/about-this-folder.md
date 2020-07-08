@@ -1,8 +1,8 @@
-﻿# ProjData/*
-This file is a placeholder to ensure that the ***ProjData/**** folders included are the GitHub repository, and are also
+﻿# ProjData/
+This file is a placeholder to ensure that the ***ProjData/*** folders included are the GitHub repository, and are also
 created (if they don't exist already) at runtime.
 
-#### Purpose
+### Purpose
 All project data belongs here.
 
 Project data is static data that an project needs to function.
@@ -16,7 +16,7 @@ Examples of project data:
 
 Dynamic data that a project creates and/or manipulates should not be stored in `ProjData/*`, and should instead be stored in `AppData/*`
 
-#### Structure
+### Structure
 Each of the following locations may have its own folder structure.
 
 | Folder            | Contents                                     |
