@@ -3,96 +3,50 @@ The **projdata/** folder contains all project data.
 
 Project data is static data that is not created or modified by a project. Dynamic data that is created or modified by a project should be stored in the **appdata** folders.
 
-## Structure
+# Structure
 This is the top level.
 | **projdata/**                       |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | [asset/](#project-assets)           | Project assets (ex: audio files, images, fonts) |
-| config/                             | Project configuration files |
-| dev/                                | Development data |
-| doc/                                | Documentation |
-| runtime/                            | Runtime data |
+| [config/](#project-configurations)  | Project configuration files |
+| [dev/](#project-development)        | Development data |
+| [doc/](#project-documentation)      | Documentation |
+| [runtime/](#project-runtime)        | Runtime data |
 
 ### Project assets
-This is description of the project assets
-| **projdata/asset/**                 |                                                                   |
+All project assets are stored in **projdata/asset/**.
+| **projdata/asset/**                 | Asset type/sub-type                                               |
 |:------------------------------------|:------------------------------------------------------------------|
 | asset/audio/                        | Audio |
 | asset/font /                        | Fonts |
-| asset/image/                        | Images used on controls|
+| asset/image/control                 | Images used on controls |
+| asset/image/doc                     | Images used in documentation |
+| asset/image/icon                    | Icons |
+| asset/image/logo                    | Logos |
+| asset/video/screenshot              | Screenshots |
 | asset/video/                        | Video |
 
-#### Project assets - images
-This is specific to images
-| **projdata/asset/image/**           |                                                                   |
+### Project configurations
+All project assets are stored in **projdata/config/**.
+
+### Project development
+Development data is stored in **projdata/dev/**.
+| **projdata/dev/**                   |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| asset/image/control                 | Images used on controls|
-| asset/image/doc                     | Images used in documentation |
-| asset/image/icon                    | Icons |
-| asset/image/logo                    | Logos |
-| asset/video/screenshot              | Screenshots |
-
-
-
-
-
-
-| /                                   |                                                                   |
-|:------------------------------------|:------------------------------------------------------------------|
-| **asset/**                          |
-| asset/audio/                        | Audio |
-| asset/font /                        | Fonts |
-| asset/image/                        | Images used on controls|
-| asset/image/control                 | Images used on controls|
-| asset/image/doc                     | Images used in documentation |
-| asset/image/icon                    | Icons |
-| asset/image/logo                    | Logos |
-| asset/video/screenshot              | Screenshots |
-|||
-| **config/**                         | Configuration files |
-|||
-| **dev/**                            |  |
 | dev/archive/                        | Development data |
 | dev/doc/                            | Development data |
-|||
-| **doc/**                            |  |
+
+### Project documentation
+Development data is stored in **projdata/doc/**.
+| **projdata/dev/**                   |                                                                   |
+|:------------------------------------|:------------------------------------------------------------------|
 | doc/help/                           | Documentation |
 | doc/howto/                          | Documentation |
 | doc/man/                            | Documentation |
 | doc/proj/                           | Documentation |
-|||
-| **runtime/**                        | Runtime data |
 
-| projdata/asset                      |                                                                   |
-|:------------------------------------|:------------------------------------------------------------------|
-| audio/                              | Audio |
-| font /                        | Fonts |
-| image/control                 | Images used on controls|
-| image/doc                     | Images used in documentation |
-| image/icon                    | Icons |
-| image/logo                    | Logos |
-| video/screenshot              | Screenshots |
-
-| projdata/config                     |                                                                   |
-|:------------------------------------|:------------------------------------------------------------------|
-| asset/audio/                        | Audio |
-| asset/font /                        | Fonts |
-| asset/image/control                 | Images used on controls|
-| asset/image/doc                     | Images used in documentation |
-| asset/image/icon                    | Icons |
-| asset/image/logo                    | Logos |
-| asset/video/screenshot              | Screenshots |
-
-
-
-
-
-| `projdata/data`     | Project data                                |
-| `projdata/dev/`     | Project development data/documentation      |
-| `projdata/doc`      | Project documentation                       |
-| `projdata/help/`    | Project help data                           |
-| `projdata/runtime/` | Project runtime                             |
-
+### Project runtime
+All runtime data is stored in **projdata/runtime/**.
 
 
 
