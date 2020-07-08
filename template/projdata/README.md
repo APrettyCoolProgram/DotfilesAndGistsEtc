@@ -1,4 +1,4 @@
-﻿# projdata/
+﻿# PROJDATA/
 
 [ABOUT](#about-projdata)<br>
 [STRUCTURE](#projdata-structure)<br>
@@ -11,8 +11,7 @@ Project data is static data that is not created or modified by a project. Dynami
 The **projdata/** folder is built using the [projdata/ template](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata)
 (b200708)
 
-# PROJDATA/
-The top-level of **projdata/** looks like this:
+# STRUCTURE
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
 | [asset/](#project-assets)           | Project assets                                                    |
@@ -40,10 +39,10 @@ Examples of project assets are:
 | video/screenshot                    | Screenshots                                                       |
 | video/                              | Video                                                             |
 
-### Project configurations
+### PROJECT/CONFIG/
 All project assets are stored in **projdata/config/**.
 
-### Project development
+### PROJECT/DEV/
 Development data is stored in **projdata/dev/**.
 
 Examples of development development data:
@@ -56,7 +55,7 @@ Examples of development development data:
 | dev/archive/                        | Development data |
 | dev/doc/                            | Development data |
 
-### Project documentation
+### PROJECT/DOC/
 Development data is stored in **projdata/doc/**.
 
 Examples of project documentation:
@@ -70,7 +69,7 @@ Examples of project documentation:
 | doc/man/                            | Documentation |
 | doc/proj/                           | Documentation |
 
-### Project runtime
+### PROJECT/RUNTIME/
 All runtime data is stored in **projdata/runtime/**.
 
 
