@@ -1,7 +1,4 @@
 ﻿# ProjData/
-> This file is a placeholder that ensures that the **ProjData/** folders are included in a source code repositories, and optionally available to a project at runtime.
-
-## Purpose of ProjData/
 Any required project data is stored in **ProjData/**.
 
 Project data is static data that a project needs to function, and is not created or modified by the project.
@@ -36,4 +33,4 @@ Build Action: None
 Copy to Output Directory: Copy always
 ```
 
-> [Dotfiles, Templates, and Gists, Etc. b200708](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and optionally available to a project at runtime. [Dotfiles, Templates, and Gists, Etc. b200708](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
