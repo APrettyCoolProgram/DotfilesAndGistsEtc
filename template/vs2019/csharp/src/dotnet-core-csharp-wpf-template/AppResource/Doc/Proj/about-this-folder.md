@@ -1,5 +1,5 @@
-﻿### AppResource/Doc/Proj/
-> This file is a placeholder to ensure that *** AppResource/Doc/Proj/*** is included in the GitHub repository, and is also
+﻿### ProjData/Doc/Proj/
+> This file is a placeholder to ensure that *** ProjData/Doc/Proj/*** is included in the GitHub repository, and is also
 created (if it doesn't exist already) at runtime.
 
 #### Purpose

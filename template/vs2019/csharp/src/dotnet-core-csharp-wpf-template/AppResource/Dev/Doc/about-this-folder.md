@@ -1,5 +1,5 @@
-﻿### AppResource/Dev/Doc/
-> The `AppResource/Dev/Doc/` folder *is not* copied locally at runtime, and is only available with the sourcecode.
+﻿### ProjData/Dev/Doc/
+> The `ProjData/Dev/Doc/` folder *is not* copied locally at runtime, and is only available with the sourcecode.
 
 #### Purpose
 Any development documentation should be stored here.

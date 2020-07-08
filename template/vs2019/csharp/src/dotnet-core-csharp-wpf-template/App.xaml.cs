@@ -3,7 +3,7 @@
 // Authors:
 //  author01@email-address.com
 //  author02@email-address.com
-// Additional documentation: /AppResource/Doc/Proj/
+// Additional documentation: /ProjData/Doc/Proj/
 
 // dotnet-core-csharp-wpf-template-200625
 

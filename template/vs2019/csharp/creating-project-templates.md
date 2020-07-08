@@ -74,7 +74,7 @@ extensions: .xaml
     Authors:
      author01@email-address.com
      author02@email-address.com
-    Additional documentation: /AppResource/Doc/Proj/
+    Additional documentation: /ProjData/Doc/Proj/
 -->
 
 extensions: .cs
@@ -83,12 +83,12 @@ extensions: .cs
 // Authors:
 //  author01@email-address.com
 //  author02@email-address.com
-// Additional documentation: /AppResource/Doc/Proj/
+// Additional documentation: /ProjData/Doc/Proj/
 
 extensions: .md
 > [project-name](https://github-account/project-name) v0.0<br>
 > <file-name>: <file-descriptions>
-> Additional documentation: /AppResource/Doc/Proj/
+> Additional documentation: /ProjData/Doc/Proj/
 ```
 3. Save the "sourcecode.licenseheader" file.
 

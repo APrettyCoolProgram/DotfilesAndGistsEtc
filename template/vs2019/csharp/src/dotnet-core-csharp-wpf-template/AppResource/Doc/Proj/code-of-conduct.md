@@ -1,6 +1,6 @@
 > [project-name](https://github-account/project-name) v0.0<br>
 > code-of-conduct.md: Code of conduct information.
-> Additional documentation: /AppResource/Doc/Proj/
+> Additional documentation: /ProjData/Doc/Proj/
 
 # CODE OF CONDUCT
 > **This project is released with a Contributor Code of Conduct, adapted from the [Contributor Covenant][homepage]. By participating in this project you agree to abide by its terms.**

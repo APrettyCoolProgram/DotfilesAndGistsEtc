@@ -1,5 +1,5 @@
-﻿### AppResource/Data/DevMode/
-> This file is a placeholder to ensure that ***AppResource/Data/DevMode/*** is included in the GitHub repository, and is also
+﻿### ProjData/Data/DevMode/
+> This file is a placeholder to ensure that ***ProjData/Data/DevMode/*** is included in the GitHub repository, and is also
 created (if it doesn't exist already) when this application is launched.
 
 #### Purpose

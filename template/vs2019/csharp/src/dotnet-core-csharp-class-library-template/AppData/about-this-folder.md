@@ -12,7 +12,7 @@ Examples of project data:
 * Temporary and cache data
 * Configuration files
 
-Static data that a project needs to function should not be stored in `AppData/`, and should instead be stored in `AppResource/`
+Static data that a project needs to function should not be stored in `AppData/`, and should instead be stored in `ProjData/`
 
 #### Structure
 Each of the following locations may have its own folder structure.

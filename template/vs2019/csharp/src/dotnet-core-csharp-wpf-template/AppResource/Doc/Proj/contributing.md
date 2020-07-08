@@ -1,6 +1,6 @@
 > [project-name](https://github-account/project-name) v0.0<br>
 > contrubuting.md: Contributing information.
-> Additional documentation: /AppResource/Doc/Proj/
+> Additional documentation: /ProjData/Doc/Proj/
 
 # CONTRIBUTING
 

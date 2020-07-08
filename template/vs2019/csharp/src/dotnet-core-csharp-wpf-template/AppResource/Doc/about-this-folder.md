@@ -1,5 +1,5 @@
-﻿### AppResource/Doc/*
-> This file is a placeholder to ensure that the ***AppResource/Doc/**** folders are included in the GitHub repository, and are also
+﻿### ProjData/Doc/*
+> This file is a placeholder to ensure that the ***ProjData/Doc/**** folders are included in the GitHub repository, and are also
 created (if they don't exist already) at runtime.
 
 #### Purpose
@@ -14,6 +14,6 @@ Each of the following locations may have its own folder structure.
 
 | Folder                   | Contents               |
 |-------------------------:|:-----------------------|
-| `AppResource/Doc/HowTo/` | How-to documentation.  |
-| `AppResource/Doc/Man/`   | Manuals.               |
-| `AppResource/Doc/Proj/`  | Project documentation. |
+| `ProjData/Doc/HowTo/` | How-to documentation.  |
+| `ProjData/Doc/Man/`   | Manuals.               |
+| `ProjData/Doc/Proj/`  | Project documentation. |

@@ -1,9 +1,9 @@
-﻿### AppResource/Asset/*
-> This file is a placeholder to ensure that the ***AppResource/Asset/**** folders are included in the GitHub repository, and are also
+﻿### ProjData/Asset/*
+> This file is a placeholder to ensure that the ***ProjData/Asset/**** folders are included in the GitHub repository, and are also
 created (if they don't exist already) at runtime.
 
 #### Purpose
-All project assets belong here.
+All project data belongs here.
 
 A project resource is static data that an application needs to function.
 
@@ -17,7 +17,7 @@ Each of the following locations may have its own folder structure.
 
 | Folder                     | Contents        |
 |---------------------------:|:----------------|
-| `AppResource/Asset/Audio/` | Project audio   |
-| `AppResource/Asset/Font/`  | Project fonts   |
-| `AppResource/Asset/Image/` | Project images  |
-| `AppResource/Asset/Video/` | Project video   |
+| `ProjData/Asset/Audio/` | Project audio   |
+| `ProjData/Asset/Font/`  | Project fonts   |
+| `ProjData/Asset/Image/` | Project images  |
+| `ProjData/Asset/Video/` | Project video   |
