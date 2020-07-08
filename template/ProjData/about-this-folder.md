@@ -1,7 +1,5 @@
 ﻿# ProjData/
-Any required project data is stored in **ProjData/**.
-
-Project data is static data that a project needs to function, and is not created or modified by the project.
+Any static data that a project needs to function, and is not created or modified by the project, is stored in **ProjData/**.
 
 Examples of project data:
 * Images for project controls
