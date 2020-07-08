@@ -4,7 +4,7 @@ Project data is static data that is not created or modified by a project. Dynami
 ### Structure
 | projdata/                           |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
-| asset/                              | Assets
+| **asset/**                          | Assets
 | asset/audio/                        | Audio |
 | asset/font /                        | Fonts |
 | asset/image/                        | Images used on controls|
@@ -14,17 +14,19 @@ Project data is static data that is not created or modified by a project. Dynami
 | asset/image/logo                    | Logos |
 | asset/video/screenshot              | Screenshots |
 |||
-| config/                             | Configuration files |
+| **config/**                         | Configuration files |
 |||
-| dev/                                | Development data |
+| **dev/**                            | Development data |
 | dev/archive/                        | Development data |
 | dev/doc/                            | Development data |
-| doc/                                | Documentation |
+|||
+| **doc/**                            | Documentation |
+| doc/help/                           | Documentation |
 | doc/howto/                          | Documentation |
 | doc/man/                            | Documentation |
 | doc/proj/                           | Documentation |
-| help/                               | Help data |
-| runtime/                            | Runtime data |
+|||
+| **runtime/**                        | Runtime data |
 
 | projdata/asset                      |                                                                   |
 |:------------------------------------|:------------------------------------------------------------------|
