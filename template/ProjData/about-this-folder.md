@@ -29,6 +29,7 @@ To ensure that the **projdata/** folder exists at runtime, set the properties fo
 Build Action: None
 Copy to Output Directory: Copy always
 ```
-
-> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.
-> For more information, please see [projdata](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) (b b200708)
+> <br>
+> This file is a placeholder that ensures that the containing folder is included in a source code repositories, and available to a project at runtime.<br>
+> For more information, please see [projdata](https://github.com/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/master/template/projdata) (b b200708) <br>
+> <br>
