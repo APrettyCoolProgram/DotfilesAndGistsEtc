@@ -1,8 +1,8 @@
 ﻿# projdata/asset/audio/
-| Folder                           | Contents                                                          |
-|---------------------------------:|:------------------------------------------------------------------|
-| `projdata/asset/audio/`          | Audio files that are copied to `projdata/asset/audio/` at runtime |
-| `projdata/asset/audio/embedded/` | Audio files that are built as a project resource.                 |
+| Folder            | Contents                                                          |
+|------------------:|:------------------------------------------------------------------|
+| `audio/`          | Audio files that are copied to `projdata/asset/audio/` at runtime |
+| `audio/embedded/` | Audio files that are built as a project resource.                 |
 
 
 ## Runtime availability
