@@ -1,0 +1,255 @@
+================================================================================
+Scratch Pad
+================================================================================
+
+# Repository structures
+
+### Repository
+```
+.
+├── .gitattributes
+├── .gitignore
+├── build/
+├── doc/
+│   ├── dev/
+│   │   ├── development-notes.txt
+│   │   ├── code-snippits.txt
+│   │   └── scratch-pad.txt
+│   ├── howto/
+│   │   ├── <how-to-files>
+│   │   └── img/
+│   ├── man/
+│   │   ├── manual.md
+│   │   └── img/
+│   └── repo/
+│       ├── acknowledgements.md
+│       ├── additional-reading.md
+│       ├── changelog.md
+│       ├── code-of-conduct.md
+│       ├── contributing.md
+│       ├── contributors.md
+│       ├── issue-template.md
+│       ├── known-issues.md
+│       ├── notices.md
+│       ├── pull-request-template.md
+│       ├── roadmap.md
+│       ├── support.md
+│       ├── testing.md
+│       └── img/
+├── resource/
+│   └── img/
+├── src/
+│   ├── project-01/
+│   │   └── <project-01-files>
+│   └── project-02/
+│       └── <project-01-files>
+├── test/
+│   └── unit/
+├── LICENSE.md
+└── README.md
+```
+
+### C# Projects
+```
+src/
+└── project-01/
+    ├── AppData/
+    │   ├── Asset/
+    │   │   ├── Audio/
+    │   │   ├── Font/
+    │   │   ├── Image/    
+    │   │   └── Video/
+    │   ├── Cache/
+    │   ├── Config/
+    │   ├── DevMode/
+    │   ├── Doc/
+    │   │   └── Dev/
+    │   │       ├── development-notes.txt
+    │   │       ├── code-snippits.txt
+    │   │       └── scratch-pad.txt
+    │   ├── Help/
+    │   ├── Runtime/
+    │   └── Tmp/
+    ├── bin/
+    ├── Configuration/
+    ├── DevMode
+    ├── Maintenance/
+    ├── obj/
+    ├── <sourcecode>
+    ├── LICENSE.md
+    └── README.md
+```
+
+
+
+
+
+
+
+
+### Future options
+```
+
+    ├── appdata/
+    │   ├── asset/
+    │   │   ├── audio/
+    │   │   ├── font/
+    │   │   ├── image/    
+    │   │   └── video/
+    │   ├── config/
+    │   ├── data/
+    │   │   ├── cache/
+    │   │   ├── devmode/        
+    │   │   ├── runtime/   
+    │   │   └── tmp/
+    │   ├── dev/         
+    │   ├── doc/
+    │   ├── help/
+    │   ├── template/  
+    │   └── tmp/
+
+
+
+├── release/
+│   ├── hotfix/
+│   ├── patch/
+│   ├── stable/
+│   └── update/
+
+├── test/
+│   ├── acceptance/
+│   ├── integration/
+│   └── regression/
+
+<repository-name>/
+├── .gitattributes
+├── .gitignore
+├── api/
+├── app/
+├── asset/
+├── bin/
+├── build/
+├── common/
+├── config/
+├── db/
+├── dep/
+├── deploy/
+├── dev/
+│   ├── doc/
+│   │   ├── code-snippits.md
+│   │   ├── development-notes.md
+│   │   ├── scratch-pad.md
+│   │   └── img/
+│   └── scratch/
+├── distribution
+├── doc/
+│   ├── api/
+│   │   └─ image/img/
+│   ├── howto/
+│   │   └─ image/img/
+│   ├── manual/
+│   │   └─ image/img/
+│   ├── repository/
+│   │   ├── acknowledgements.md
+│   │   ├── additional-reading.md
+│   │   ├── changelog.md
+│   │   ├── code-of-conduct.md
+│   │   ├── contributing.md
+│   │   ├── contributors.md
+│   │   ├── issue-template.md
+│   │   ├── known-issues.md
+│   │   ├── notices.md
+│   │   ├── pull-request-template.md
+│   │   ├── roadmap.md
+│   │   ├── support.md
+│   │   └── testing.md
+│   └── img/
+├── etc/
+├── example
+├── export/
+├── extention/
+├── ext/
+├── extra/
+├── global/
+├── help/
+├── ide/
+├── import/
+├── inc/
+├── init/
+├── input/
+├── int/
+├── lib/
+├── local/
+├── misc/
+├── module/
+├── output/
+├── plugin/
+├── release/
+│   ├── hotfix
+│   ├── patch
+│   ├── stable
+│   └── update
+├── resource/
+├── sample/
+├── script/
+├── src/
+│   ├── project-01/
+│   │   ├── data/
+│   │   │   ├── archive/
+│   │   │   ├── export/
+│   │   │   ├── external/
+│   │   │   ├── import/
+│   │   │   ├── internal/
+
+
+│   │   ├── appdata/
+│   │   │   ├── cache/
+│   │   │   ├── config/
+│   │   │   ├── data/
+│   │   │   │   ├── export/
+│   │   │   │   ├── external/
+│   │   │   │   ├── import/
+│   │   │   │   ├── internal/
+│   │   │   │   ├── raw/
+│   │   │   ├── db/
+│   │   │   ├── dev/
+│   │   │   ├── doc/
+│   │   │   ├── export/
+│   │   │   ├── extension/
+│   │   │   ├── external/
+│   │   │   ├── font/
+│   │   │   ├── help/
+│   │   │   ├── image/
+│   │   │   ├── import/
+│   │   │   ├── runtime/
+│   │   │   ├── temp/
+│   │   │   └── template/
+│   │   ├── configuration/
+│   │   ├── devmode
+│   │   ├── maintenance/
+
+
+
+│   ├── appdata/
+│   │   ├── cache/
+│   │   ├── conf/
+│   │   ├── dev/
+│   │   ├── doc/
+│   │   ├── export/
+│   │   ├── font/
+│   │   ├── help/
+│   │   ├── image/
+│   │   ├── import/
+│   │   ├── runtime/
+│   │   ├── temp/
+│   │   └── template/
+├── support/
+├── test/
+├── third-party/
+├── tool/
+├── vendor/
+├── web/
+├── website/
+├── LICENSE.md
+└── README.md
+```
