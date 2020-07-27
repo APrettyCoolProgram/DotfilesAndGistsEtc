@@ -5,7 +5,7 @@
 //  author02@email-address.com
 // Additional documentation: /ProjData/Doc/Proj/
 
-// dotnet-core-csharp-class-library-template-200625
+// dotnet-core-csharp-class-library-template-200727
 
 namespace dotnet_core_csharp_class_library_template
 {

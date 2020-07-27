@@ -10,22 +10,29 @@
 1. Add the file to the project root.
 2. The contents of the file should be:
 ```
-extensions: designer.cs generated.cs
-extensions: .xaml
+﻿extensions: .html .xaml
 <!--
-	<project-name>: https://github-account/repository-name
-	<project-name>.<class-name>.<file-name>.xaml
-	b0000.0000
-	(c) <YYYY> <name-of-copyright-owner>. Licensed under the Apache License 2.0
-	This project uses the dotnet-core-csharp-wpf-template (v2.2): https://github.com/aprettycoolprogram/some-templates
+	Game Asset Studio (https://github.com/CalistadalaneGames/game-asset-studio)
+	<file-name> (bMMDD.HHMM): <file-description>
+	Authors:
+	 calistadalane@aprettycoolprogram.com
+	 development@aprettycoolprogram.com
+	Additional documentation: /AppResource/Doc/Proj/
 -->
 
+extensions: designer.cs generated.cs
 extensions: .cs
-// <project-name>: https://github-account/repository-name
-// <project-name>.<class-name>.<file-name>.cs
-// b0000.0000
-// (c) <YYYY> <name-of-copyright-owner>. Licensed under the Apache License 2.0
-// This project uses the dotnet-core-csharp-wpf-template-v2.2: https://github.com/aprettycoolprogram/some-templates
+// Game Asset Studio (https://github.com/CalistadalaneGames/game-asset-studio)
+// <file-name> (bMMDD.HHMM): <file-description>
+// Authors:
+//	calistadalane@aprettycoolprogram.com
+//	development@aprettycoolprogram.com
+// Additional documentation: /AppResource/Doc/Proj/
+
+extensions: .md
+> [Game Asset Studio](https://github.com/CalistadalaneGames/game-asset-studio)<br>
+> <file-name>: <file-description>
+> Additional documentation: /AppResource/Doc/Proj/
 
 ```
 3. Save the "sourcecode.licenseheader" file.

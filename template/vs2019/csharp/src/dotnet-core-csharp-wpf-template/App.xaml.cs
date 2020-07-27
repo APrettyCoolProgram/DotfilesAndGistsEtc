@@ -5,7 +5,7 @@
 //  author02@email-address.com
 // Additional documentation: /ProjData/Doc/Proj/
 
-// dotnet-core-csharp-wpf-template-200625
+// dotnet-core-csharp-wpf-template-200727
 
 
 using System.Windows;

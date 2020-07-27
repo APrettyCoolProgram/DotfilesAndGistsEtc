@@ -1,28 +1,16 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>dotnet_core_csharp_wpf_template</RootNamespace>
-    <UseWPF>true</UseWPF>
+    <RootNamespace>dotnet_core_csharp_console_template</RootNamespace>
     <AssemblyVersion>0.0.0.0</AssemblyVersion>
     <FileVersion>0.0.0.0</FileVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <OutputPath>../../build</OutputPath>
+    <OutputPath>../build</OutputPath>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="AppData\**" />
-    <Compile Remove="ProjData\**" />
-    <EmbeddedResource Remove="AppData\**" />
-    <EmbeddedResource Remove="ProjData\**" />
-    <None Remove="AppData\**" />
-    <None Remove="ProjData\**" />
-    <Page Remove="AppData\**" />
-    <Page Remove="ProjData\**" />
-  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0">

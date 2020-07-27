@@ -6,7 +6,7 @@
      author02@email-address.com
     Additional documentation: /ProjData/Doc/Proj/-->
 
-<!--  dotnet-core-csharp-wpf-template-200625  -->
+<!--  dotnet-core-csharp-wpf-template-200727  -->
 
 <Application
     x:Class="dotnet_core_csharp_wpf_template.App"
