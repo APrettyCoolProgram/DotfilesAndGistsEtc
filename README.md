@@ -13,7 +13,7 @@ Development has been moved to [*new-repository*](https://github.com/github-accou
 ***
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
   GitHub Repository Template
   <br>
@@ -86,6 +86,7 @@ This is a template for GitHub repositories.
 * Feature #1
 * Feature #2
 * Feature #3
+
 # GETTING STARTED
 ### Before you begin
 Things you should do before you begin.
@@ -193,10 +194,9 @@ If you are interested in contributing to this project, please see our:
 
 ***
 
-
 ![Developed by](https://img.shields.io/badge/developed%20by-black.svg)&nbsp;[![Developed by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;
 <br>
-![Built using](https://img.shields.io/badge/&nbsp;&nbsp;&nbsp;built%20using-black.svg)&nbsp;[![Built using](https://img.shields.io/badge/github--repository--template-blue.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)&nbsp;
+![Built using](https://img.shields.io/badge/built%20using-black.svg)&nbsp;[![Built using](https://img.shields.io/badge/github--repository--template-blue.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)&nbsp;
 
 
 
