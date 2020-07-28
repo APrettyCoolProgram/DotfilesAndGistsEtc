@@ -43,10 +43,17 @@ $ example-command-2
 
 </div>
 
+<h5 align="center">
+
+  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
+  <br>
+
+</h5>
+
 <h1 align="center">
   <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/screenshot.png" alt="Repository Screenshot" width="500">
   <br>
-</h2>
+</h1>
 
 <!--
 <h5 align="center">
