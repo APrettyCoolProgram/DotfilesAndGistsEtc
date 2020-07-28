@@ -38,9 +38,7 @@
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
-  [**Templates**](#templates)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[GitHub repository](#github-repository)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio .NET Core WPF application](#visual-studio-.net-core-wpf-application)<br>
+  [**TEMPLATES**](#templates)<br>
   [**INSTALLATION**](#installation)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
@@ -82,7 +80,7 @@
 
 # TEMPLATES
 * [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
-* [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
+* [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 * Prerequisite #3
 ### Additional notes
 Additional notes can go here.
