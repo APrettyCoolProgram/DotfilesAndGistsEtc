@@ -101,51 +101,41 @@ $ example-command-2
 
 # ABOUT
 Dotfiles, Templates & Gists (Etc.) is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
-
 ### Features
 * Feature #1
 * Feature #2
 * Feature #3
-
 # GETTING STARTED
 ### Before you begin
-Please review the following documentation:
-* 
+Things you should do before you begin.
 ### Prerequisites
 * Prerequisite #1
 * Prerequisite #2
 * Prerequisite #3
-
 ### Additional notes
 Additional notes can go here.
 
 # INSTALLING
-The installation process is as follows:
-1. **Prepare the foundation**<br>
-This is where you do it
-
-2. **Build CrispyDeven**<br>
-Another thing
-
-## PREPARING THE FOUNDATION
-
-### Windows Subsystem for Linux
-To install CrispyDeven on WSL:
-1. Install the Windows Subsystem for Linux (WSL2 recommended). Microsoft has excellent instructions for [installing WSL2)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-2. Install the [Ubuntu 20.04 WSL image](url)
-3. Start Ubuntu 20.04
-3. When prompted for a username/password, enter "crispy/crispy".
-
-### VirtualBox virtual machine
-To install CrispyDeven in a VirutalBox virtual machine:
-1. Install VirtualBox ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.2/) recommended)
-2. Install the VirtualBox Oracle VM Extension Pack ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.8/Oracle_VM_VirtualBox_Extension_Pack-6.1.2.vbox-extpack))
-3. Download the [CrispyDeven Bedrock](URL) image
-
-## Building CrispyDeven
-Type `./crispydeven`
-
-
+### WINDOWS
+1. The steps to install the project in Windows
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+4. Remove this section if the project doesn't support Windows (and mention that in the "Other operating systems" section below).
+### MACOS
+1. The steps to install the project in MacOS
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+4. Remove this section if the project doesn't support MacOS (and mention that in the "Other operating systems" section below).
+### LINUX
+1. The steps to install the project in Linux
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+4. Remove this section if the project doesn't support Linux (and mention that in the "Other operating systems" section below).
+### OTHER OPERATING SYSTEMS
+1. The steps to install the project in other operating systems
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+4. If other operating systems are not supported, mention that here.
 
 <!-- SETUP (Recommended)
 How to setup this project.
@@ -435,29 +425,7 @@ How to install this project.
 # INSTALLING
 Optional/important notes about installation goes here.
 
-### WINDOWS
-1. The steps to install the project in Windows
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Windows (and mention that in the "Other operating systems" section below).
 
-### MACOS
-1. The steps to install the project in MacOS
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support MacOS (and mention that in the "Other operating systems" section below).
-
-### LINUX
-1. The steps to install the project in Linux
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Linux (and mention that in the "Other operating systems" section below).
-
-### OTHER OPERATING SYSTEMS
-1. The steps to install the project in other operating systems
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. If other operating systems are not supported, mention that here.
 
 <!-- SETUP (Recommended)
 How to setup this project.
