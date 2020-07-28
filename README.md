@@ -12,18 +12,6 @@
 Development has been moved to [*new-repository*](https://github.com/github-account/new-repository).
 ***
 
-***
-### THIS IS THE DEVELOPMENT BRANCH
-You are probably looking for the [master branch](https://github.com/github-account/repository-name).
-
-Here are some commands you can use with the development branch:
-
-```
-$ example-command-1
-$ example-command-2
-```
-***
-
 <h2 align="center">
   <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
@@ -93,7 +81,7 @@ $ example-command-2
 </table>
 
 # ABOUT
-**Dotfiles, Templates & Gists (Etc.)** is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
+This is a template for GitHub repositories.
 ### Features
 * Feature #1
 * Feature #2
@@ -127,37 +115,14 @@ Additional notes can go here.
 3. Include screenshots when possible.
 4. If other operating systems are not supported, mention that here.
 
-<!-- SETUP (Recommended)
-How to setup this project.
--->
 # SETUP
 If your project has a setup procedure, document it here. For example, you may need to make changes to a configuration file before using the project.
-
-<!-- CONFIGURATION (Recommended)
-How to configure this project.
--->
-# CONFIGURING
+### Configuring
 Optional/important notes about configuration go here.
-
-<!-- REQUIRED (Recommended)
-Required configuration settings.
--->
-### REQUIRED
-
-<!-- RECOMMENDED (Recommended)
-Recommended configuration settings.
--->
-### RECOMMENDED
-
-<!-- CONFIGURATION (Recommended)
-Required configuration settings.
--->
-### OPTIONAL
-
-<!-- OPTIONAL (Recommended)
-Opotional configuration settings.
--->
-### IMPORTANT NOTES ABOUT OPTIONS
+### Required
+### Recommended
+### Optional
+### Important notes about options
 Optional/important notes about options go here.
 
 <!-- USING (Recommended)
