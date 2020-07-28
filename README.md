@@ -29,7 +29,7 @@ $ example-command-2
 -->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
   Dotfiles, Templates & Gists (Etc.)
   <br>
@@ -751,3 +751,6 @@ Notepad++
   [![Built using](https://img.shields.io/badge/built%20using-a--repository--template-17806D.svg)](https://github.com/aprettycoolprogram/a-repository-template/)&nbsp;
 
 </div>
+
+
+Dotfiles, Templates & Gists (Etc.) is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
