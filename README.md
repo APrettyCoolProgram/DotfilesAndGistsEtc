@@ -63,25 +63,12 @@ $ example-command-2
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)&nbsp;&bull;&nbsp;[Before you begin](#before-you-begin)&nbsp;&bull;&nbsp;[Prerequisites](#prerequisites)<br>
   [**INSTALLATION**](#installation)&nbsp;&bull;&nbsp;[Before installing](#before-installing)&nbsp;&bull;&nbsp;[Windows](#windows)&nbsp;&bull;&nbsp;[MacOS](#macos)&nbsp;&bull;&nbsp;[Linux](#linux)&nbsp;&bull;&nbsp;[Other operating systems](#other-operating-systems)<br>
-  [**SETUP**](#setup)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
-  [**USAGE**](#usage)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Uninstalling](#uninstalling)<br>
-  [**COMPILING**](#compiling)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Making](#making)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Building](#building)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Deploying](#deploying)<br>
+  [**SETUP**](#setup)&nbsp;&bull;&nbsp;[Configuring](#configuring)<br>
+  [**USAGE**](#usage)&nbsp;&bull;&nbsp;[Updating](#updating)&nbsp;&bull;&nbsp;[Uninstalling](#uninstalling)<br>
+  [**COMPILING**](#compiling)&nbsp;&bull;&nbsp;[Making](#making)&nbsp;&bull;&nbsp;[Building](#building)&nbsp;&bull;&nbsp;[Deploying](#deploying)<br>
   [**TESTING**](#testing)<br>
   [**API**](#api)<br>
-  [**ADDITIONAL INFORMATION**](#additional-information)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Philosophy](#philosphy)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[How it works](#how-it-works)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[FAQ](#faq)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Built with](#built-with)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Used by](#used-by)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Acknowledgements](#acknowledgements)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Support](#support)<br>
+  [**ADDITIONAL INFORMATION**](#additional-information)&nbsp;&bull;&nbsp;[Philosophy](#philosphy)&nbsp;&bull;&nbsp;[How it works](#how-it-works)&nbsp;&bull;&nbsp;[FAQ](#faq)&nbsp;&bull;&nbsp;[Built with](#built-with)&nbsp;&bull;&nbsp;[Used by](#used-by)&nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)&nbsp;&bull;&nbsp;[Support](#support)<br>
   [**PROJECT**](#project)<br>
   [**DEVELOPMENT**](#development)<br>
 
