@@ -36,7 +36,6 @@ $ example-command-2
 </h2>
 
 <div align="center">
-  <br>
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/github-repository-template)](https://www.apache.org/licenses/LICENSE-2.0)
@@ -44,7 +43,7 @@ $ example-command-2
 
 </div>
 
-<h1></h2>
+<h1></h1>
 
 <div align="center">
   <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/screenshot.png" alt="Repository Screenshot" width="500">
