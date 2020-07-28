@@ -61,6 +61,9 @@ $ example-command-2
   <h6>
     <a href="#about">ABOUT</a><br>
      &nbsp;&nbsp;&bull;&nbsp;<a href="#features">Features</a>
+    <a href="#about">GETTING STARTED</a><br>
+     &nbsp;&nbsp;&bull;&nbsp;<a href="#before-you-begin">Before you begin</a>&nbsp;&bull;&nbsp;<a href="#prerequisites">Preresqusites</a>
+
 
   </h6>
 
