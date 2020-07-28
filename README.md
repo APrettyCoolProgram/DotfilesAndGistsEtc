@@ -131,8 +131,6 @@ Optional/important notes about options go here.
 # USING
 Usage instructions go here.
 
-
-
 # UPDATING
 Updating instructions go here
 
@@ -151,52 +149,24 @@ Deployment instructions go here.
 # TESTING
 Here.
 
-<!-- HOW IT WORKS (Optional)
-Sometimes it's fun to let users know how the magic happens.
--->
 # HOW IT WORKS
 Sometimes it's fun to let users know how the magic happens.
 
-<!-- API (Optional)
-API information and documentation.
--->
 # API
 If your project contains an API, it should be documented here (or link to the documentation).
 
-<!-- F.A.Q. (Optional)
-Frequently Asked Questions.
--->
 # FAQ
-### Are you nice?
+#### Are you nice?
 I think so.
 
-<!-- DEVELOPMENT (Required)
-Development information
--->
 # DEVELOPMENT
-
-<!-- CONTRIUBUTORS (Required)
-Development information
--->
 ### CONTRIBUTORS
 * [A Pretty Cool Program](https://github.com/aprettycoolprogram)
-
-<!-- PROJECT FILES (Required)
-Development information
--->
 ### PROJECT FILES
 * [Development notes](repodata/doc/development-notes.md)
-
-<!-- ACKNOWLEDGEMENTS (Required)
-Development information
--->
 ### ACKNOWLEDGEMENTS
 * [Acknowledgements](repodata/doc/acknowledgements.md)
 * [Third-party notices](repodata/doc/roadmap.md)
-
-<!-- CONTRIBUTING (Required)
-Development information
--->
 ### CONTRIBUTING
 If you are interested in contributing to this project, please see our:
 * [Code of conduct](doc/repository/code-of-conduct.md)
@@ -205,27 +175,16 @@ If you are interested in contributing to this project, please see our:
 * [Issue template](doc/repository/issue-template.md)
 * [Pull request template](doc/repository/pull-request-template.md)
 
-<!-- ADDITIONAL INFORMATION (Optional)
-Additional information.
--->
 # ADDITIONAL INFORMATION
 ### RELATED PROJECTS
 * [**Related project #1**](URL)
-
 ### BUILT WITH
 * [Windows Subsystem for Linux](URL)
 * [Oracle VirtualBox](URL)
 * [Ubuntu](URL)
 * [bash](URL)
-
-
-
 ### ADDITIONAL READING
 For more Markdown resources, please see the [additional reading](doc/repository/additional-reading.md) document.
-
-<!-- DEVELOPER INFORMATION (Required)
-Developer information
--->
 
 ***
 
