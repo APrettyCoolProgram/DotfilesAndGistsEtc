@@ -5,13 +5,6 @@
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
-***
-### THIS REPOSITORY HAS BEEN ARCHIVED
-*this-repository* is no longer being developed, and this repository has been archived.
-
-Development has been moved to [*new-repository*](https://github.com/github-account/new-repository).
-***
-
 <h2 align="center">
   <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
@@ -41,7 +34,7 @@ Development has been moved to [*new-repository*](https://github.com/github-accou
 
 <table>
 <tr>
-<td img src="repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
+<td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
