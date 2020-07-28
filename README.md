@@ -70,7 +70,7 @@ $ example-command-2
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#choosing-a-build-method)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
   [**INSTALLATION**](#installation)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
@@ -79,7 +79,6 @@ $ example-command-2
   &nbsp;&nbsp;&nbsp;&nbsp;[Linux](#linux)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Other operating systems](#other-operating-systems)<br>
   [**SETUP**](#setup)<br>
-
   &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
   [**USAGE**](#usage)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
