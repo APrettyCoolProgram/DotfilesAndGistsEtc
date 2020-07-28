@@ -5,8 +5,6 @@
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
-<!-- Development/Archived repository banners
-
 ***
 ### THIS REPOSITORY HAS BEEN ARCHIVED
 *this-repository* is no longer being developed, and this repository has been archived.
@@ -25,8 +23,6 @@ $ example-command-1
 $ example-command-2
 ```
 ***
-
--->
 
 <h2 align="center">
   <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
