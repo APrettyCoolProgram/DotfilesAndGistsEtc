@@ -72,10 +72,16 @@ $ example-command-2
   [**ADDITIONAL INFORMATION**](#additional-information)
 
   <h4>
-  [Philosophy](#philosphy)&nbsp;&bull;&nbsp;[How it works](#how-it-works)&nbsp;&bull;&nbsp;[FAQ](#faq)&nbsp;&bull;&nbsp;[Built with](#built-with)&nbsp;&bull;&nbsp;[Used by](#used-by)&nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)&nbsp;&bull;&nbsp;[Support](#support)
+  &nbsp;&bull;&nbsp;[Philosophy](#philosphy)
+  &nbsp;&bull;&nbsp;[How it works](#how-it-works)
+  &nbsp;&bull;&nbsp;[FAQ](#faq)
+  &nbsp;&bull;&nbsp;[Built with](#built-with)
+  &nbsp;&bull;&nbsp;[Used by](#used-by)
+  &nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)
+  &nbsp;&bull;&nbsp;[Support](#support)
   </h4>
   <br>
-  
+
   [**PROJECT**](#project)<br>
   [**DEVELOPMENT**](#development)<br>
 
