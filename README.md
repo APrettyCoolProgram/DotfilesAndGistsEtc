@@ -35,18 +35,13 @@ $ example-command-2
   <br>
 </h2>
 
-<div align="center">
+<h5 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/github-repository-template)](https://www.apache.org/licenses/LICENSE-2.0)
   ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/github-repository-template?label=latest%20release)
 
-</div>
-
-<h5 align="center">
-
   [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
-  <br>
 
 </h5>
 
