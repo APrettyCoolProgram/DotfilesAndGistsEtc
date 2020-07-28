@@ -44,7 +44,7 @@ $ example-command-2
 </div>
 
 <div align="center">
-  <img src="https://github.com/APrettyCoolProgram/github-repository-template/blob/master/repodata/asset/image/screenshot/repository-screenshot.png" alt="Repository Screenshot" width="400">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/screenshot.png" alt="Repository Screenshot" width="400">
   <br>
 </div>
 
