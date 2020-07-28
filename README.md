@@ -119,9 +119,9 @@ Additional notes can go here.
 If your project has a setup procedure, document it here. For example, you may need to make changes to a configuration file before using the project.
 ### Configuring
 Optional/important notes about configuration go here.
-### Required
-### Recommended
-### Optional
+#### Required configuration settings
+#### Recommended configuration settings
+#### Optional configuration settings
 ### Important notes about options
 Optional/important notes about options go here.
 
