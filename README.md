@@ -35,13 +35,6 @@ $ example-command-2
   <br>
 </h2>
 
-<h5 align="center">
-
-  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
-  <br>
-
-</h5>
-
 <div align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
