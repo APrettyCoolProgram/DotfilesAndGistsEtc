@@ -37,6 +37,7 @@ $ example-command-2
 
 <div align="center">
 
+  <br>
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
   [![License](https://img.shields.io/github/license/aprettycoolprogram/github-repository-template)](https://www.apache.org/licenses/LICENSE-2.0)
   ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/github-repository-template?label=latest%20release)
