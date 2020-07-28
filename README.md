@@ -5,18 +5,12 @@
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
-<!-- Archived branch banner
-
 ***
 ### THIS REPOSITORY HAS BEEN ARCHIVED
 <this-repository> is no longer being developed, and this repository has been archived.
 
 Development has been moved to [<new-repository>](https://github.com/github-account/new-repository).
 ***
-
--->
-
-<!-- Development branch banner
 
 ***
 ### THIS IS THE DEVELOPMENT BRANCH
@@ -29,9 +23,6 @@ $ example-command-1
 $ example-command-2
 ```
 ***
-
--->
-
 
 <!-- LOGO AND SHORT BLURB (Required)
 Display a logo and give a very short description of the repository.
