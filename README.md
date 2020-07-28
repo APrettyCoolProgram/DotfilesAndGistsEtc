@@ -29,7 +29,7 @@ $ example-command-2
 -->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/logo/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
   Dotfiles, Templates & Gists (Etc.)
   <br>
@@ -56,11 +56,15 @@ $ example-command-2
 
 -->
 
+<!-- Horizontal menu
+
 <h5 align="center">
 
   [WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
 
 </h5>
+
+-->
 
 <table>
 <tr>
@@ -79,7 +83,7 @@ $ example-command-2
   &nbsp;&nbsp;&nbsp;&nbsp;[Uninstalling](#uninstalling)<br>
   [**COMPILING**](#compiling)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Making](#making)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Bbuilding](#building)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Building](#building)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Deploying](#deploying)<br>
   [**TESTING**](#testing)<br>
   [**API**](#api)<br>
