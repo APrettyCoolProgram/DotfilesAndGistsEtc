@@ -45,7 +45,7 @@ Repository/
 ├── resource
 │   └── img/
 ├── src/
-│   ├── AppResource/
+│   ├── ProjData/
 │   │   ├── assets/
 │   │   │   ├── font/
 │   │   │   ├── image/
