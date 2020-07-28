@@ -161,7 +161,10 @@ I think so.
 
 # DEVELOPMENT
 ### CONTRIBUTORS
-* [A Pretty Cool Program](https://github.com/aprettycoolprogram)
+* [Contributor #1](URL/Email)
+* [Contributor #2](URL/Email)
+* [Contributor #3](URL/Email)
+
 ### PROJECT FILES
 * [Development notes](repodata/doc/development-notes.md)
 ### ACKNOWLEDGEMENTS
@@ -177,12 +180,13 @@ If you are interested in contributing to this project, please see our:
 
 # ADDITIONAL INFORMATION
 ### RELATED PROJECTS
-* [**Related project #1**](URL)
+* [Related project #1](URL)
+* [Related project #2](URL)
+* [Related project #3](URL)
 ### BUILT WITH
-* [Windows Subsystem for Linux](URL)
-* [Oracle VirtualBox](URL)
-* [Ubuntu](URL)
-* [bash](URL)
+* [Built with #1](URL)
+* [Built with #2](URL)
+* [Built with #3](URL)
 ### ADDITIONAL READING
 For more Markdown resources, please see the [additional reading](doc/repository/additional-reading.md) document.
 
