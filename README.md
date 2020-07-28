@@ -7,14 +7,14 @@
 
 ***
 ### THIS REPOSITORY HAS BEEN ARCHIVED
-<this-repository> is no longer being developed, and this repository has been archived.
+*this-repository* is no longer being developed, and this repository has been archived.
 
-Development has been moved to [<new-repository>](https://github.com/github-account/new-repository).
+Development has been moved to [*new-repository*](https://github.com/github-account/new-repository).
 ***
 
 ***
 ### THIS IS THE DEVELOPMENT BRANCH
-You are probably looking for the [master branch](https://github.com/github-account/new-repository).
+You are probably looking for the [master branch](https://github.com/github-account/repository-name).
 
 Here are some commands you can use with the development branch:
 
@@ -24,23 +24,14 @@ $ example-command-2
 ```
 ***
 
-<!-- LOGO AND SHORT BLURB (Required)
-Display a logo and give a very short description of the repository.
-* The repository name is optional - sometimes it looks good, sometimes
-  it doesn't.
-* The repository logo should be located here:
-  https://github.com/github-account/repository-name/blob/master/repodata/asset/image/logo/repository-logo.png
-* You can change the logo size by increasing/decreasing the "width" value.
-* Keep the description short, and save the details for the introduction.
--->
 <h2 align="center">
   GitHub Repository Template
   <br>
   <br>
-  <img src="https://github.com/APrettyCoolProgram/github-repository-template/blob/master/repodata/asset/image/logo/repository-logo.png" alt="Repository Logo" width="200">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/logo/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates, and Gists (Etc.) Logo" width="200">
   <br>
   <br>
-  A template for GitHub repositories
+  Dotfiles, Templates, and Gists (Etc.)
   <br>
   <br>
 </h2>
