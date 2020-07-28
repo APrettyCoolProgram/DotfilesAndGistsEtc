@@ -60,7 +60,7 @@ $ example-command-2
 <td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
   <h6>
     <a href="#about">ABOUT</a><br>
-     &nbsp;&nbsp;&bull;&nbsp;<a href="#features">Features</a>
+     &nbsp;&nbsp;&bull;&nbsp;<a href="#features">Features</a><br>
     <a href="#about">GETTING STARTED</a><br>
      &nbsp;&nbsp;&bull;&nbsp;<a href="#before-you-begin">Before you begin</a>&nbsp;&bull;&nbsp;<a href="#prerequisites">Preresqusites</a>
 
