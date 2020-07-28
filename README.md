@@ -156,7 +156,7 @@ Sometimes it's fun to let users know how the magic happens.
 If your project contains an API, it should be documented here (or link to the documentation).
 
 # FAQ
-#### Are you nice?
+### Are you nice?
 I think so.
 
 # DEVELOPMENT
