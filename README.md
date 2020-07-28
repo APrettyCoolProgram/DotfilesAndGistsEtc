@@ -68,7 +68,7 @@ $ example-command-2
 
 <table>
 <tr>
-<td img src="https://github.com/APrettyCoolProgram/crispydeven/blob/development/repodata/asset/image/doc/readme/blank-spacer-2x2.png" alt="missing-blank-spacer" width="800" height="1">
+<td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
