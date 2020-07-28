@@ -38,9 +38,9 @@
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
-  [**GETTING STARTED**](#getting-started)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
+  [**Templates**](#templates)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[GitHub repository](#github-repository)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Visual Studio .NET Core WPF application](#visual-studio-.net-core-wpf-application)<br>
   [**INSTALLATION**](#installation)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
@@ -74,18 +74,15 @@
 </table>
 
 # ABOUT
-**Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions that I've created and collected over the years.
+**Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions.
 ### Features
 * Feature #1
 * Feature #2
 * Feature #3
 
-# GETTING STARTED
-### Before you begin
-Things you should do before you begin.
-### Prerequisites
-* Prerequisite #1
-* Prerequisite #2
+# TEMPLATES
+* [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
+* [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 * Prerequisite #3
 ### Additional notes
 Additional notes can go here.
