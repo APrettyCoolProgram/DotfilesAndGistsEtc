@@ -73,7 +73,13 @@ $ example-command-2
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#choosing-a-build-method)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
   [**INSTALLATION**](#installation)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Setup](#setup)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[MacOS](#macos)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Linux](#linux)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Other operating systems](#other-operating-systems)<br>
+  [**SETUP**](#setup)<br>
+
   &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
   [**USAGE**](#usage)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
@@ -100,7 +106,7 @@ $ example-command-2
 </table>
 
 # ABOUT
-Dotfiles, Templates & Gists (Etc.) is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
+**Dotfiles, Templates & Gists (Etc.)** is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
 ### Features
 * Feature #1
 * Feature #2
@@ -116,22 +122,19 @@ Things you should do before you begin.
 Additional notes can go here.
 
 # INSTALLING
-### WINDOWS
+### Windows
 1. The steps to install the project in Windows
 2. Use both Markdown and/or HTML
 3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Windows (and mention that in the "Other operating systems" section below).
-### MACOS
+### MacOS
 1. The steps to install the project in MacOS
 2. Use both Markdown and/or HTML
 3. Include screenshots when possible.
-4. Remove this section if the project doesn't support MacOS (and mention that in the "Other operating systems" section below).
-### LINUX
+### Linux
 1. The steps to install the project in Linux
 2. Use both Markdown and/or HTML
 3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Linux (and mention that in the "Other operating systems" section below).
-### OTHER OPERATING SYSTEMS
+### Other operating systems
 1. The steps to install the project in other operating systems
 2. Use both Markdown and/or HTML
 3. Include screenshots when possible.
