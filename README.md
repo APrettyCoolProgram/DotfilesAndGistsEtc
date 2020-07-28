@@ -195,7 +195,7 @@ If you are interested in contributing to this project, please see our:
 
 <div align="center">
 
-  [![Developed by](https://img.shields.io/badge/developed%20by-black.svg)]&nbsp;[![Developed by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;
+  [!(https://img.shields.io/badge/developed%20by-black.svg)]&nbsp;[![Developed by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;
   [![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;
   [![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;
   [![Feedback](https://img.shields.io/badge/contact-feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;
