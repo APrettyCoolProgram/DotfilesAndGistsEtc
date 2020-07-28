@@ -58,27 +58,7 @@ $ example-command-2
 <table>
 <tr>
 <td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
-
-  ### CONTENTS
-  [**ABOUT**](#about-crispydeven)<br>
-  [**GETTING STARTED**](#getting-started)&nbsp;&bull;&nbsp;[Before you begin](#before-you-begin)&nbsp;&bull;&nbsp;[Prerequisites](#prerequisites)<br>
-  [**INSTALLATION**](#installation)&nbsp;&bull;&nbsp;[Before installing](#before-installing)&nbsp;&bull;&nbsp;[Windows](#windows)&nbsp;&bull;&nbsp;[MacOS](#macos)&nbsp;&bull;&nbsp;[Linux](#linux)&nbsp;&bull;&nbsp;[Other operating systems](#other-operating-systems)<br>
-  [**SETUP**](#setup)&nbsp;&bull;&nbsp;[Configuring](#configuring)<br>
-  [**USAGE**](#usage)&nbsp;&bull;&nbsp;[Updating](#updating)&nbsp;&bull;&nbsp;[Uninstalling](#uninstalling)<br>
-  [**COMPILING**](#compiling)&nbsp;&bull;&nbsp;[Making](#making)&nbsp;&bull;&nbsp;[Building](#building)&nbsp;&bull;&nbsp;[Deploying](#deploying)<br>
-  [**TESTING**](#testing)<br>
-  [**API**](#api)<br>
-  [**ADDITIONAL INFORMATION**](#additional-information)&nbsp;&bull;&nbsp;[Philosophy](#philosphy)&nbsp;&bull;&nbsp;[How it works](#how-it-works)&nbsp;&bull;&nbsp;[FAQ](#faq)&nbsp;&bull;&nbsp;[Built with](#built-with)&nbsp;&bull;&nbsp;[Used by](#used-by)&nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)&nbsp;&bull;&nbsp;[Support](#support)<br>
-  [**ADDITIONAL INFORMATION**](#additional-information)
-  <h6>
-
-  [Philosophy](#philosphy)&nbsp;&bull;&nbsp;[How it works](#how-it-works)&nbsp;&bull;&nbsp;[FAQ](#faq)&nbsp;&bull;&nbsp;[Built with](#built-with)&nbsp;&bull;&nbsp;[Used by](#used-by)&nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)&nbsp;&bull;&nbsp;[Support](#support)
-  </h6>
-  <br>
-  
-  [**PROJECT**](#project)<br>
-  [**DEVELOPMENT**](#development)<br>
-
+ <a href="#about-crispydeven">ABOUT</a> 
 </td>
 </tr>
 </table>
