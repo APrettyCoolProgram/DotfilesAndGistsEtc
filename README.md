@@ -29,7 +29,7 @@ $ example-command-2
 -->
 
 <h2 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
   <br>
   Dotfiles, Templates & Gists (Etc.)
   <br>
@@ -56,27 +56,29 @@ $ example-command-2
 
 -->
 
-<!-- Horizontal menu
-
 <h5 align="center">
 
-  [WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
+  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
+  <br>
 
 </h5>
 
--->
-
 <table>
 <tr>
-<td img src="https://github.com/APrettyCoolProgram/crispydeven/blob/development/repodata/asset/image/doc/readme/blank-spacer-2x2.png" alt="missing-blank-spacer" width="800" height="1">
+<td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Choosing a foundation](#choosing-a-build-method)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
   [**INSTALLATION**](#installation)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Setup](#setup)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[MacOS](#macos)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Linux](#linux)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Other operating systems](#other-operating-systems)<br>
+  [**SETUP**](#setup)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
   [**USAGE**](#usage)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
@@ -103,100 +105,39 @@ $ example-command-2
 </table>
 
 # ABOUT
-CrispyDeven is a bash script that builds a fully-functional, robust software development environment in Ubuntu Linux.
-
-With a single command (and a few minutes), you'll have a number of frameworks, languages, utilities, and applications installed and ready to use.
-
+**Dotfiles, Templates & Gists (Etc.)** is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
 ### Features
-* Dead simple to use
-* Uses standard linux syntax, so it's easily customizable
-* Portable (when using WSL or VirtualBox)
-* Cross-platform (when using VirtualBox)
-
+* Feature #1
+* Feature #2
+* Feature #3
 # GETTING STARTED
-
 ### Before you begin
-Please review the following documentation:
-* [Changelog](repodata/doc/changelog.md)
-* [Roadmap](repodata/doc/roadmap.md)
-* [Known issues](doc/development/known-issues.md)
-
-## Choosing a foundation
-There are three different options when choosing how to build CrispyDeven:
-1. The Windows Subsytem for Linux
-2. A VirtualBox virtual machine
-3. Bare-metal install
-
-### The recommended method: Windows Subsytem for Linux...
-I recommend using the Windows Subsytem for Linux (specifically WSL2) because:
-* It takes up less space
-* It's an official Microsoft product, so it plays well with Windows
-* You can use your Windows resources (ex: VSCode, Photoshop, fonts) to develop, while CrispyDeven takes care of the backend (Python, Apache, etc)
-* It's probably faster than using VirtualBox?
-
-### ...unless you want/need GUI applications
-Currently Windows Subsytem for Linux does not have a GUI (it's all CLI), nor does it allow the installation of GUI applications. So if you are looking for everything packed up into one environment, you might be better off building CrispyDeven in a VirtualBox virtual machine or a bare-metal install.
-
-### Advantages/disadvantages for each method
-
-|                                     | WSL      | VirtualBox | Bare-metal |
-|-------------------------------------|:--------:|:----------:|:----------:|
-| Third-party software not required   | &#10004; | &#10006; | &#10004; |
-| Small footprint                     | &#10004; | &#10006; | &#10006; |
-| Ability to import/export images     | &#10004;&#10033;| &#10004; | &#10006; |
-| Cross platform                      | &#10006; | &#10004; | &#10006; |
-| True Linux environment              | &#10006; | &#10004; | &#10004; |
-| GUI                                 | &#10006; | &#10004; | &#10004; |
-| Ability to install GUI applications | &#10006; | &#10004; | &#10004; |
-
-&#10033;*Windows only*
-
-## Prerequisites
-At a minumum you will need the following to build CrispyDeven:
-* Bash
-* An internet connection
-
-To build CrispyDeven using the **Windows Subsystem for Linux**, you will also need:
-* The [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10) (WSL2 recommended)
-* The [Ubuntu image for WSL](URL)
-
-To build CrispyDeven using a **VirtualBox virtual machine**, you will also need:
-* VirtualBox virtualization software ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.2/) recommended)
-* VirtualBox Oracle VM Extension Pack ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.8/Oracle_VM_VirtualBox_Extension_Pack-6.1.2.vbox-extpack))
-* An Ubuntu virtual machine
-
-### A note about prerequisites
-Technically you should be able to use CrispyDeven in *any* Debian-based Linux distribution and using *any* virtualization software, but you will most likely need to make changes to the code.
-
-CrispyDeven has only been tested using Ubuntu 20.04 and WSL2/VirtualBox 6.1.2.
+Things you should do before you begin.
+### Prerequisites
+* Prerequisite #1
+* Prerequisite #2
+* Prerequisite #3
+### Additional notes
+Additional notes can go here.
 
 # INSTALLING
-The installation process is as follows:
-1. **Prepare the foundation**<br>
-This is where you do it
-
-2. **Build CrispyDeven**<br>
-Another thing
-
-## PREPARING THE FOUNDATION
-
-### Windows Subsystem for Linux
-To install CrispyDeven on WSL:
-1. Install the Windows Subsystem for Linux (WSL2 recommended). Microsoft has excellent instructions for [installing WSL2)](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-2. Install the [Ubuntu 20.04 WSL image](url)
-3. Start Ubuntu 20.04
-3. When prompted for a username/password, enter "crispy/crispy".
-
-### VirtualBox virtual machine
-To install CrispyDeven in a VirutalBox virtual machine:
-1. Install VirtualBox ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.2/) recommended)
-2. Install the VirtualBox Oracle VM Extension Pack ([v6.1.2](https://download.virtualbox.org/virtualbox/6.1.8/Oracle_VM_VirtualBox_Extension_Pack-6.1.2.vbox-extpack))
-3. Download the [CrispyDeven Bedrock](URL) image
-
-## Building CrispyDeven
-Type `./crispydeven`
-
-
+### Windows
+1. The steps to install the project in Windows
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+### MacOS
+1. The steps to install the project in MacOS
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+### Linux
+1. The steps to install the project in Linux
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+### Other operating systems
+1. The steps to install the project in other operating systems
+2. Use both Markdown and/or HTML
+3. Include screenshots when possible.
+4. If other operating systems are not supported, mention that here.
 
 <!-- SETUP (Recommended)
 How to setup this project.
@@ -431,7 +372,6 @@ Developer information
 </h5>
 
 # ABOUT THIS REPOSITORY
-Dotfiles, Templates & Gists (Etc.) is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
 
 <!-- FEATURES (Recommended)
 Important features of your repository here. This shouldn't be an exhaustive
@@ -487,29 +427,7 @@ How to install this project.
 # INSTALLING
 Optional/important notes about installation goes here.
 
-### WINDOWS
-1. The steps to install the project in Windows
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Windows (and mention that in the "Other operating systems" section below).
 
-### MACOS
-1. The steps to install the project in MacOS
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support MacOS (and mention that in the "Other operating systems" section below).
-
-### LINUX
-1. The steps to install the project in Linux
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. Remove this section if the project doesn't support Linux (and mention that in the "Other operating systems" section below).
-
-### OTHER OPERATING SYSTEMS
-1. The steps to install the project in other operating systems
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. If other operating systems are not supported, mention that here.
 
 <!-- SETUP (Recommended)
 How to setup this project.
@@ -833,3 +751,6 @@ Notepad++
   [![Built using](https://img.shields.io/badge/built%20using-a--repository--template-17806D.svg)](https://github.com/aprettycoolprogram/a-repository-template/)&nbsp;
 
 </div>
+
+
+Dotfiles, Templates & Gists (Etc.) is a collection of various configuration files, code snippits, project templates, useful extensions, etc that I've created and collected over the years.
