@@ -118,16 +118,16 @@ Additional notes can go here.
 # SETUP
 If your project has a setup procedure, document it here. For example, you may need to make changes to a configuration file before using the project.
 ### Configuring
-Optional/important notes about configuration go here.
+Configuration introduction.
 #### Required configuration settings
+Required configuration settings go here.
 #### Recommended configuration settings
+Recommended configuration settings go here.
 #### Optional configuration settings
+Optional configuration settings go here.
 ### Important notes about options
 Optional/important notes about options go here.
 
-<!-- USING (Recommended)
-How to use this project.
--->
 # USING
 Usage instructions go here.
 
