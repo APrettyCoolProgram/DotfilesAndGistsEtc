@@ -62,7 +62,7 @@ $ example-command-2
     <a href="#about">ABOUT</a><br>
      &nbsp;&nbsp;&bull;&nbsp;<a href="#features">Features</a><br>
     <a href="#about">GETTING STARTED</a><br>
-     &nbsp;&nbsp;&bull;&nbsp;<a href="#before-you-begin">Before you begin</a>&nbsp;&bull;&nbsp;<a href="#prerequisites">Preresqusites</a>
+     &nbsp;&nbsp;&bull;&nbsp;<a href="#before-you-begin">Before you begin</a>&nbsp;&bull;&nbsp;<a href="#prerequisites">Preresqusites</a><br>
     <a href="#about">INSTALLATION</a><br>
      &nbsp;&nbsp;&bull;&nbsp;<a href="#before-installing">Before installing</a>&nbsp;&bull;&nbsp;<a href="#windows">Windows</a>&nbsp;&bull;&nbsp;<a href="#macos">MacOS</a>&nbsp;&bull;&nbsp;<a href="#linux">Linux</a>&nbsp;&bull;&nbsp;<a href="#other-operating-systems">Other operating systems</a><br>
   </h6>
