@@ -58,10 +58,10 @@ $ example-command-2
 <table>
 <tr>
 <td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
-  <h3>
-    <a href="#about">ABOUT</a>
+  <h4>
+    <a href="#about">ABOUT</a><br>
     <a href="#features">Features</a>
-  </h3>
+  </h4>
 
 
 </td>
