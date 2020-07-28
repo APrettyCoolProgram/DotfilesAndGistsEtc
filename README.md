@@ -131,33 +131,23 @@ Optional/important notes about options go here.
 # USING
 Usage instructions go here.
 
-<!-- UPDATING (Optional)
-How to update this project.
--->
-# UPDATING
-Optional/important notes about usage go here.
 
-<!-- UNINSTALLING (Optional)
-How to uninstall this project.
--->
+
+# UPDATING
+Updating instructions go here
+
 # UNINSTALLING
 Optional/important notes about usage go here.
 
-<!-- BUILDING (Optional)
-How to build this project.
--->
-# BUILDING
+# COMPILING
 Optional/important notes about usage go here.
-
-<!-- DEPLOYING (Optional)
-How to deploy.
--->
-# DEPLOYING
+### Making
+Making instructions go here.
+### Building
+Building instructions go here.
+### Deploying
 Deployment instructions go here.
 
-<!-- TESTING (Optional)
-Testing information and documentation.
--->
 # TESTING
 Here.
 
