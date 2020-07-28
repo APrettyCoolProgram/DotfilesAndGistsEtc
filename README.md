@@ -5,6 +5,8 @@
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
+<!--
+
 ***
 ### THIS REPOSITORY HAS BEEN ARCHIVED
 *this-repository* is no longer being developed, and this repository has been archived.
@@ -24,33 +26,14 @@ $ example-command-2
 ```
 ***
 
+-->
+
 <h2 align="center">
-  GitHub Repository Template
-  <br>
-  <br>
   <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/logo/dotfiles-templates-and-gists-etc-logo-1024x1024.png" alt="Dotfiles, Templates, and Gists (Etc.) Logo" width="200">
   <br>
-  <br>
   Dotfiles, Templates, and Gists (Etc.)
-  <br>
-  <br>
 </h2>
 
-<!-- REPOSITORY BADGES (Optional)
-Badges convey important information about the repository.
-
-For the "Status" badge, choose one of the following:
-* ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-* ![Status](https://img.shields.io/badge/status-maintained-green.svg)
-* ![Status](https://img.shields.io/badge/status-depreciated-yellowgreen.svg)
-* ![Status](https://img.shields.io/badge/status-archived-yellow.svg)
-
-The "License" and "GitHub release" badges are dynamically created.
-
-For more information about customizing badges, see https://shields.io.
-
-TODO: Build status(es) will go here.
--->
 <div align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
