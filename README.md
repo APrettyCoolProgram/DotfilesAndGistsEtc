@@ -58,7 +58,12 @@ $ example-command-2
 <table>
 <tr>
 <td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
- <a href="#about-crispydeven">ABOUT</a> 
+  <h3>
+    <a href="#about">ABOUT</a>
+    <a href="#features">Features</a>
+  </h3>
+
+
 </td>
 </tr>
 </table>
