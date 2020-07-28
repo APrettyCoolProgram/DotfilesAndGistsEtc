@@ -70,8 +70,7 @@ $ example-command-2
   [**API**](#api)<br>
   [**ADDITIONAL INFORMATION**](#additional-information)&nbsp;&bull;&nbsp;[Philosophy](#philosphy)&nbsp;&bull;&nbsp;[How it works](#how-it-works)&nbsp;&bull;&nbsp;[FAQ](#faq)&nbsp;&bull;&nbsp;[Built with](#built-with)&nbsp;&bull;&nbsp;[Used by](#used-by)&nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)&nbsp;&bull;&nbsp;[Support](#support)<br>
   [**ADDITIONAL INFORMATION**](#additional-information)
-
-  <h4>
+  <h6>
 
   &nbsp;&bull;&nbsp;[Philosophy](#philosphy)
   &nbsp;&bull;&nbsp;[How it works](#how-it-works)
@@ -80,8 +79,8 @@ $ example-command-2
   &nbsp;&bull;&nbsp;[Used by](#used-by)
   &nbsp;&bull;&nbsp;[Acknowledgements](#acknowledgements)
   &nbsp;&bull;&nbsp;[Support](#support)
-  
-  </h4>
+
+  </h6>
   <br>
 
   [**PROJECT**](#project)<br>
