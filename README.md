@@ -58,7 +58,8 @@ $ example-command-2
 
 <h5 align="center">
 
-  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[Known issues](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
+  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
+  <br>
 
 </h5>
 
