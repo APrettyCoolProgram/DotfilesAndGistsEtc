@@ -28,7 +28,7 @@ Development has been moved to [*new-repository*](https://github.com/github-accou
 </h2>
 
 <h1 align="center">
-  <img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/screenshot.png" alt="Repository Screenshot" width="500">
+  <img src="repodata/img/screenshot.png" alt="Repository Screenshot" width="500">
   <br>
 </h1>
 
@@ -41,7 +41,7 @@ Development has been moved to [*new-repository*](https://github.com/github-accou
 
 <table>
 <tr>
-<td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
+<td img src="repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
