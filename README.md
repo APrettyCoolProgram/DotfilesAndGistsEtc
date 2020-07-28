@@ -164,9 +164,6 @@ I think so.
 * [Contributor #1](URL/Email)
 * [Contributor #2](URL/Email)
 * [Contributor #3](URL/Email)
-
-### PROJECT FILES
-* [Development notes](repodata/doc/development-notes.md)
 ### ACKNOWLEDGEMENTS
 * [Acknowledgements](repodata/doc/acknowledgements.md)
 * [Third-party notices](repodata/doc/roadmap.md)
@@ -177,6 +174,8 @@ If you are interested in contributing to this project, please see our:
 * [Testing procedures](doc/repository/testing.md)
 * [Issue template](doc/repository/issue-template.md)
 * [Pull request template](doc/repository/pull-request-template.md)
+### PROJECT FILES
+* [Development notes](repodata/doc/development-notes.md)
 
 # ADDITIONAL INFORMATION
 ### RELATED PROJECTS
@@ -188,11 +187,15 @@ If you are interested in contributing to this project, please see our:
 * [Built with #2](URL)
 * [Built with #3](URL)
 ### ADDITIONAL READING
-For more Markdown resources, please see the [additional reading](doc/repository/additional-reading.md) document.
+* [Additional reading #1](URL)
+* [Additional reading #2](URL)
+* [Additional reading #3](URL)
 
 ***
 
 <div align="center">
+
+  [![Developed by](https://img.shields.io/badge/developed%20by-black.svg)](https://aprettycoolprogram.com)&nbsp;
 
   [![Developed by](https://img.shields.io/badge/developed%20by-A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;
   [![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;
