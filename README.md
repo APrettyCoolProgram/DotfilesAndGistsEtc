@@ -61,6 +61,46 @@ $ example-command-2
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
+  [**GETTING STARTED**](#getting-started)&nbsp;&bull;&nbsp;[Before you begin](#before-you-begin)&nbsp;&bull;&nbsp;[Prerequisites](#prerequisites)<br>
+  [**INSTALLATION**](#installation)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[MacOS](#macos)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Linux](#linux)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Other operating systems](#other-operating-systems)<br>
+  [**SETUP**](#setup)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
+  [**USAGE**](#usage)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Uninstalling](#uninstalling)<br>
+  [**COMPILING**](#compiling)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Making](#making)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Building](#building)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Deploying](#deploying)<br>
+  [**TESTING**](#testing)<br>
+  [**API**](#api)<br>
+  [**ADDITIONAL INFORMATION**](#additional-information)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Philosophy](#philosphy)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[How it works](#how-it-works)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[FAQ](#faq)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Built with](#built-with)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Used by](#used-by)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Acknowledgements](#acknowledgements)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Support](#support)<br>
+  [**PROJECT**](#project)<br>
+  [**DEVELOPMENT**](#development)<br>
+
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td img src="https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/blob/master/repodata/img/blank-spacer-2x2.png" alt="blank-spacer" width="800" height="1">
+
+  ### CONTENTS
+  [**ABOUT**](#about-crispydeven)<br>
   [**GETTING STARTED**](#getting-started)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
