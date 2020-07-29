@@ -1,5 +1,9 @@
-# Visual Studio .NET Core WPF C# application
-This is a C# .NET Core WPF project template for Visual Studio 2019.
+<h2 align="center">
+  <img src="repodata/img/dotnet-core-csharp-wpf-template.png" alt="C# .NET Core WPF project template logo" width="200">
+  <br>
+  A C# .NET Core WPF project template for Visual Studio 2019
+  <br>
+</h2>
 
 # USAGE
 To use this project template in Visual Studio 2019:
