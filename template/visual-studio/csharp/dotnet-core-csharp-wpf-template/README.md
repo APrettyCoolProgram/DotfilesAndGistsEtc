@@ -1,5 +1,5 @@
 # Visual Studio .NET Core WPF C# application
-This is a C# .NET Core WPF project template for Visual Studio 2019
+This is a C# .NET Core WPF project template for Visual Studio 2019.
 
 # USAGE
 To use this project template in Visual Studio 2019:
@@ -47,80 +47,26 @@ extensions: .md
 3. Save the "sourcecode.licenseheader" file.
 
 ### Make modifications to the MainWindow.xaml file
-1. Add the license header.
-2. Run FormatXML on the code.
+1. Add a license header. If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, **right click on the file name** and choose **License Headers > Add License Header**.
+2. If you are using the [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) extension, right click the XAML code and choose "Format XAML".
 
 ### Make modifications to the MainWindow.xaml.cs file
-1. Add the license header.
-2. If you are using the [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) extension, 
+1. Add a license header. If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, **right click on the file name** and choose **License Headers > Add License Header**.
+2. Run Code Cleanup.
 
 ### Change the Output path
-1. Right-click on the "dotnet_core_csharp_wpf_template" project
-2. Click "Properties"
-3. Under Build > Output, change the "Output path" to "../../build"
-4. Save
+1. Right-click on the **dotnet_core_csharp_wpf_template** project
+2. Click **Properties**
+3. Under **Build > Output**, change the "Output path" to "../build"
+4. Click **Save**
 
 ### Add the following NuGet packages:
 1. Microsoft.CodeAnalysis.FxCopAnalysers
 2. Roslynator.Analysers
 
 ### Export the .editorconfig file
-1. Tools > Options > Code Style
+Go to **Tools > Options > Code Style**
 
 ### Change the version number
-1. Open the .csproj file and change the version to "0.0.0.0"
-2. Save
-
-## Creating dotnet-core-csharp-class-library-template
-***v2.2***
-
-### Create a new project
-1. Create a new Class Library(.NET Core) project.
-2. Name it "dotnet-core-csharp-class-library-template".
-
-### Add a "sourcecode.licenseheader" file
-1. Add the file to the project root.
-2. The contents of the file should be:
-```
-extensions: designer.cs generated.cs
-extensions: .xaml
-<!--
-    <project-name>: https://github-account/repository-name
-    <file-name> [<version/build>]: <file-description>
-    Authors:
-     author01@email-address.com
-     author02@email-address.com
-    Additional documentation: /ProjData/Doc/Proj/
--->
-
-extensions: .cs
-// <project-name>: https://github-account/repository-name
-// <file-name> [<version/build>]: <file-description>
-// Authors:
-//  author01@email-address.com
-//  author02@email-address.com
-// Additional documentation: /ProjData/Doc/Proj/
-
-extensions: .md
-> [project-name](https://github-account/project-name) v0.0<br>
-> <file-name>: <file-descriptions>
-> Additional documentation: /ProjData/Doc/Proj/
-```
-3. Save the "sourcecode.licenseheader" file.
-
-### Change the Output path
-1. Right-click on the "dotnet_core_csharp_class-library_template" project
-2. Click "Properties"
-3. Under Build > Output, change the "Output path" to "../../build"
-4. Save
-
-### Add the following NuGet packages:
-1. Microsoft.CodeAnalysis.FxCopAnalysers
-2. Roslynator.Analysers
-
-### Export the .editorconfig file
-1. Tools > Options > Code Style
-
-### Change the version number
-1. Open the .csproj file and change the version to "0.0.0.0"
+1. Open the .csproj file and change the version to **0.0.0.0**
 2. Save
