@@ -3,18 +3,19 @@ This is a C# .NET Core WPF project template for Visual Studio 2019
 
 # USAGE
 To use this project template in Visual Studio 2019:
-1. Download the [dotnet-core-csharp-wpf-template]()
+1. Download the [dotnet-core-csharp-wpf-template](template/visual-studio/csharp/dotnet-core-csharp-wpf-template/export/dotnet-core-csharp-wpf-template.zip)
+2. Copy that file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\`
 
+The next time you start Visual Studio 2019, the project template will be available to use.
 
-%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#
-
-## Creating dotnet-core-csharp-wpf-template
+# Creating dotnet-core-csharp-wpf-template
+These are the steps to that I used to create the [project template](template/visual-studio/csharp/dotnet-core-csharp-wpf-template/src)
 
 ### Create a new project
 1. Create a new WPF App (.NET Core) project.
 2. Name it "dotnet-core-csharp-wpf-template".
 
-### Add a "sourcecode.licenseheader" file
+### If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, add a "sourcecode.licenseheader" file
 1. Add the file to the project root.
 2. The contents of the file should be:
 ```
@@ -51,7 +52,7 @@ extensions: .md
 
 ### Make modifications to the MainWindow.xaml.cs file
 1. Add the license header.
-2. Run Code Cleanup on the code.
+2. If you are using the [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) extension, 
 
 ### Change the Output path
 1. Right-click on the "dotnet_core_csharp_wpf_template" project

@@ -121,7 +121,7 @@ the logo size by increasing/decreasing the "width" value.
 
 ## EXTENSIONS
 ### Visual Studio
-* [**Productivity Power Tools**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+* [**Productivity Power Tools 2017/2019**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
   * Align Assignments
   * Copy As Html
   * Double-Click Maximize
@@ -139,10 +139,11 @@ the logo size by increasing/decreasing the "width" value.
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
-  * CSS Tools 2019
+  * CSS Tools
   * Editor Enhancements
   * File Icons
   * File Nesting
+  * Glyphfriend
   * Image Sprites
   * Image Optimizer
   * Markdown Editor
@@ -155,17 +156,10 @@ the logo size by increasing/decreasing the "width" value.
   * ZenCoding
 * [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 * [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-* [**Code Alignment**](https://marketplace.visualstudio.com/items?itemName=cpmcgrath.Codealignment)
-* [**Color Theme Designer**](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner)
-* [**Color Themes for Visual Studio**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ColorThemesforVisualStudio)
-* [**Comment Remover**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover)
-* [**Dummy Text Generator**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.DummyTextGenerator)
 * [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
 * [**License Header Manager**](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
 * [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
 * [**Open in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [**Pretty Paste**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.PrettyPaste)
-* [**SlowCheetah**](https://marketplace.visualstudio.com/items?itemName=vscps.SlowCheetah-XMLTransforms)
 * [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
 * [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
 * [**Visual Studio Spell Checker**](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
