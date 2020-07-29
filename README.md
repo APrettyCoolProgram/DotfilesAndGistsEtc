@@ -37,8 +37,12 @@
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions.
 
 # TEMPLATES
+Various templates
 * [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
 * [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
+
+
+
 
 # EXTENSIONS
 
