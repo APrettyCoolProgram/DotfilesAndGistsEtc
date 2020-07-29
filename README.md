@@ -1,12 +1,12 @@
 <!--
   Github Repository Template (https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
-  Version: Version 20.7.200728.1200
+  Version: Version 20.7.200729.1200
   Authors: development@aprettycoolprogram.com
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
 <h2 align="center">
-  <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
   <br>
   A collection of various stuff
   <br>
@@ -15,22 +15,8 @@
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  [![License](https://img.shields.io/github/license/aprettycoolprogram/github-repository-template)](https://www.apache.org/licenses/LICENSE-2.0)
-  ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/github-repository-template?label=latest%20release)
 
 </h2>
-
-<h1 align="center">
-  <img src="repodata/img/screenshot.png" alt="Repository Screenshot" width="500">
-  <br>
-</h1>
-
-<h6 align="center">
-
-  [CHANGELOG](repodata/doc/changelog.md)&nbsp;&bull;&nbsp;[ROADMAP](repodata/doc/roadmap.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](doc/development/known-issues.md)&nbsp;&bull;&nbsp;[WEBSITE](URL)&nbsp;&bull;&nbsp;[BLOG](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](URL)
-  <br>
-
-</h6>
 
 <table>
 <tr>
@@ -39,33 +25,9 @@
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
   [**TEMPLATES**](#templates)<br>
-  [**INSTALLATION**](#installation)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Before installing](#before-installing)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Windows](#windows)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[MacOS](#macos)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Linux](#linux)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Other operating systems](#other-operating-systems)<br>
-  [**SETUP**](#setup)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Configuring](#configuring)<br>
-  [**USAGE**](#usage)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Updating](#updating)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Uninstalling](#uninstalling)<br>
-  [**COMPILING**](#compiling)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Making](#making)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Building](#building)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Deploying](#deploying)<br>
-  [**TESTING**](#testing)<br>
-  [**API**](#api)<br>
-  [**ADDITIONAL INFORMATION**](#additional-information)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Philosophy](#philosphy)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[How it works](#how-it-works)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[FAQ](#faq)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Built with](#built-with)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Used by](#used-by)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Acknowledgements](#acknowledgements)<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;[Support](#support)<br>
-  [**PROJECT**](#project)<br>
-  [**DEVELOPMENT**](#development)<br>
+  [**EXTENSIONS**](#extensions)<br>
+  [**FONTS**](#fonts)<br>
+  [**THEMES**](#themes)<br>
 
 </td>
 </tr>
@@ -73,112 +35,16 @@
 
 # ABOUT
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions.
-### Features
-* Feature #1
-* Feature #2
-* Feature #3
 
 # TEMPLATES
 * [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
 * [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
-* Prerequisite #3
-### Additional notes
-Additional notes can go here.
 
-# INSTALLING
-### Windows
-1. The steps to install the project in Windows
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-### MacOS
-1. The steps to install the project in MacOS
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-### Linux
-1. The steps to install the project in Linux
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-### Other operating systems
-1. The steps to install the project in other operating systems
-2. Use both Markdown and/or HTML
-3. Include screenshots when possible.
-4. If other operating systems are not supported, mention that here.
+# EXTENSIONS
 
-# SETUP
-If your project has a setup procedure, document it here. For example, you may need to make changes to a configuration file before using the project.
-### Configuring
-Configuration introduction.
-#### Required configuration settings
-Required configuration settings go here.
-#### Recommended configuration settings
-Recommended configuration settings go here.
-#### Optional configuration settings
-Optional configuration settings go here.
-### Important notes about options
-Optional/important notes about options go here.
+# FONTS
 
-# USING
-Usage instructions go here.
-
-# UPDATING
-Updating instructions go here
-
-# UNINSTALLING
-Optional/important notes about usage go here.
-
-# COMPILING
-Optional/important notes about usage go here.
-### Making
-Making instructions go here.
-### Building
-Building instructions go here.
-### Deploying
-Deployment instructions go here.
-
-# TESTING
-Here.
-
-# HOW IT WORKS
-Sometimes it's fun to let users know how the magic happens.
-
-# API
-If your project contains an API, it should be documented here (or link to the documentation).
-
-# FAQ
-### Are you nice?
-I think so.
-
-# DEVELOPMENT
-### CONTRIBUTORS
-* [Contributor #1](URL/Email)
-* [Contributor #2](URL/Email)
-* [Contributor #3](URL/Email)
-### ACKNOWLEDGEMENTS
-* [Acknowledgements](repodata/doc/acknowledgements.md)
-* [Third-party notices](repodata/doc/roadmap.md)
-### CONTRIBUTING
-If you are interested in contributing to this project, please see our:
-* [Code of conduct](doc/repository/code-of-conduct.md)
-* [Contributing guidelines](doc/repository/contributing.md)
-* [Testing procedures](doc/repository/testing.md)
-* [Issue template](doc/repository/issue-template.md)
-* [Pull request template](doc/repository/pull-request-template.md)
-### PROJECT FILES
-* [Development notes](repodata/doc/development-notes.md)
-
-# ADDITIONAL INFORMATION
-### RELATED PROJECTS
-* [Related project #1](URL)
-* [Related project #2](URL)
-* [Related project #3](URL)
-### BUILT WITH
-* [Built with #1](URL)
-* [Built with #2](URL)
-* [Built with #3](URL)
-### ADDITIONAL READING
-* [Additional reading #1](URL)
-* [Additional reading #2](URL)
-* [Additional reading #3](URL)
+# THEMES
 
 ***
 
