@@ -15,7 +15,7 @@
 
 # USAGE
 To use this project template in Visual Studio 2019:
-1. Download the [dotnet-core-csharp-wpf-template](../export/dotnet-core-csharp-wpf-template.zip)
+1. Download the [dotnet-core-csharp-wpf-template](export/dotnet-core-csharp-wpf-template.zip)
 2. Copy that file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\`
 
 The next time you start Visual Studio 2019, the project template will be available to use.
