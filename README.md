@@ -74,7 +74,7 @@
 * [**Fira Code**](https://github.com/tonsky/FiraCode)
 * [**Google Fonts**](https://github.com/google/fonts)
 
-## NUGET
+# NUGET
 ### Visual Studio 2019
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
