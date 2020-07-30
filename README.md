@@ -45,14 +45,14 @@
 * [**Visual Studio 2019 .vssettings**](dotfile/vs2019/visual-studio-2019.vssettings)
 * [**License Header Manager license header**](dotfile/vs2019/license-header-manager.licenseheader)
 * [**Viasfora settings**](dotfile/vs2019/viasfora-settings.xml)
-* [**Viasfora theme**](dotfiles/vs2019/viasfora-theme.json)
+* [**Viasfora theme**](dotfile/vs2019/viasfora-theme.json)
 ### Visual Studio Code
 * [**extensions.json**](dotfile/vscode/extensions.json)
 * [**keybindings.json**](dotfile/vscode/keybindings.json)
 * [**keybindingsMac.json**](dotfile/vscode/keybindingsMac.json)
 * [**settings.json**](dotfile/vscode/settings.json)
 ### .editorconfig
-* [**.editorconfig**](dotfile/visual-studio-2019/generic.editorconfig)
+* [**.editorconfig**](dotfile/editorconfig/generic.editorconfig)
 
 # EXTENSIONS
 ### Visual Studio 2019
@@ -87,9 +87,8 @@ Various templates
 * [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
 
 # THEMES
+* [Dracula](https://draculatheme.com/)
 
 ***
 
-![Developed by](https://img.shields.io/badge/developed%20by-black.svg)&nbsp;[![Developed by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;
-<br>
-![Built using](https://img.shields.io/badge/built%20using-black.svg)&nbsp;[![Built using](https://img.shields.io/badge/github--repository--template-blue.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)&nbsp;
+![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)
