@@ -63,11 +63,11 @@ extensions: .md
 3. Save the "sourcecode.licenseheader" file.
 
 ### Make modifications to the MainWindow.xaml file
-1. Add a license header by right click on the file name and choose **License Headers > Add License Header**.
+1. Add a license header by right clicking on the file name and choose **License Headers > Add License Header**.
 2. Right click the XAML code and choose **Format XAML**.
 
 ### Make modifications to the MainWindow.xaml.cs file
-1. Add a license header by right click on the file name and choose **License Headers > Add License Header**.
+1. Add a license header by right clicking on the file name and choose **License Headers > Add License Header**.
 2. Run Code Cleanup.
 
 ### Change the Output path
