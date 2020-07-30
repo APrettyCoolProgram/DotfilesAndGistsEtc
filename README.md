@@ -23,7 +23,7 @@
 <td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
 
   ### CONTENTS
-  [**ABOUT**](#about-crispydeven)<br>
+  [**ABOUT**](#about)<br>
   [**TEMPLATES**](#templates)<br>
   [**EXTENSIONS**](#extensions)<br>
   [**FONTS**](#fonts)<br>
@@ -38,11 +38,8 @@
 
 # TEMPLATES
 Various templates
-* [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
-* [Visual Studio .NET Core C# WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
-
-
-
+* [GitHub repository](template/github/repository)
+* [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 
 # EXTENSIONS
 
