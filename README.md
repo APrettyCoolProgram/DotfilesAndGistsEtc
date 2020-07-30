@@ -24,9 +24,10 @@
 
   ### CONTENTS
   [**ABOUT**](#about)<br>
-  [**TEMPLATES**](#templates)<br>
+  [**DOTFILES**](#dotfiles)<br>
   [**EXTENSIONS**](#extensions)<br>
   [**FONTS**](#fonts)<br>
+  [**TEMPLATES**](#templates)<br>
   [**THEMES**](#themes)<br>
 
 </td>
@@ -36,16 +37,32 @@
 # ABOUT
 **Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions.
 
+# DOTFILES
+### GitHub
+* [**generic.gitignore**](dotfile/github/generic.gitignore)
+#### Visual Studio 2019
+* [**Visual Studio 2019 .vssettings**](dotfile/vs-2019/visual-studio-2019.vssettings)
+* [**License Header Manager license header**](dotfile/vs2019/license-header-manager.licenseheader)
+* [**Viasfora settings**](dotfile/vs2019/viasfora-settings.xml)
+* [**Viasfora theme**](dotfiles/vs2019/viasfora-theme.json)
+#### Visual Studio Code
+* [**extensions.json**](dotfile/vscode/extensions.json)
+* [**keybindings.json**](dotfile/vscode/keybindings.json)
+* [**keybindingsMac.json**](dotfile/vscode/keybindingsMac.json)
+* [**settings.json**](dotfile/vscode/settings.json)
+#### .editorconfig
+* [**.editorconfig**](dotfile/visual-studio-2019/generic.editorconfig)
+
+# EXTENSIONS
+
+# FONTS
+
 # TEMPLATES
 Various templates
 * [GitHub repository](template/github/repository)
 * [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 * [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
 * [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
-
-# EXTENSIONS
-
-# FONTS
 
 # THEMES
 
@@ -108,15 +125,6 @@ the logo size by increasing/decreasing the "width" value.
 # ABOUT THIS REPOSITORY
 
 
-## DOTFILES
-### GitHub
-* [**generic.gitignore**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/github/generic.gitignore)
-#### Visual Studio
-* [**License Header Manager license header**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/license-header-manager.licenseheader)
-* [**Visual Studio 2019 .editorconfig (C#)**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019-csharp.editorconfig)
-* [**Visual Studio 2019 .vssettings**](https://github.com/aprettycoolprogram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/visual-studio-2019.vssettings)
-* [**Viasfora settings**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-settings.xml)
-* [**Viasfora theme**](https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc/blob/development/dotfiles/visual-studio-2019/viasfora-theme.json)
 
 ## EXTENSIONS
 ### Visual Studio
