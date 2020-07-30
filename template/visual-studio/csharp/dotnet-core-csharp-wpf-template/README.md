@@ -5,6 +5,14 @@
   <br>
 </h2>
 
+<h2 align="center">
+
+  ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+  [![License](https://img.shields.io/github/license/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)](https://www.apache.org/licenses/LICENSE-2.0)
+  ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/github-repository-template?label=latest%20release)
+
+</h2>
+
 # USAGE
 To use this project template in Visual Studio 2019:
 1. Download the [dotnet-core-csharp-wpf-template](template/visual-studio/csharp/dotnet-core-csharp-wpf-template/export/dotnet-core-csharp-wpf-template.zip)
