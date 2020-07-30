@@ -15,7 +15,7 @@
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  
+
 </h2>
 
 <table>
@@ -39,7 +39,7 @@
 # TEMPLATES
 Various templates
 * [GitHub repository](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/master/template/github/repository)
-* [Visual Studio .NET Core WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
+* [Visual Studio .NET Core C# WPF application](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 
 
 
