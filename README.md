@@ -90,4 +90,4 @@
 
 ***
 
-![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub)](https://github.com/aprettycoolprogram)
+![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/aprettycoolprogram.svg?label=GitHub)](https://github.com/aprettycoolprogram)
