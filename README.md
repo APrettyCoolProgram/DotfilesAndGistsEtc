@@ -40,35 +40,35 @@
 
 # DOTFILES
 ### GitHub
-* [**generic.gitignore**](dotfile/github/generic.gitignore)
+* [generic.gitignore](dotfile/github/generic.gitignore)
 ### Visual Studio 2019
-* [**Visual Studio 2019 .vssettings**](dotfile/vs2019/visual-studio-2019.vssettings)
-* [**License Header Manager license header**](dotfile/vs2019/license-header-manager.licenseheader)
-* [**Viasfora settings**](dotfile/vs2019/viasfora-settings.xml)
-* [**Viasfora theme**](dotfile/vs2019/viasfora-theme.json)
+* [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
+* [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
+* [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
+* [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
 ### Visual Studio Code
-* [**extensions.json**](dotfile/vscode/extensions.json)
-* [**keybindings.json**](dotfile/vscode/keybindings.json)
-* [**keybindingsMac.json**](dotfile/vscode/keybindingsMac.json)
-* [**settings.json**](dotfile/vscode/settings.json)
+* [extensions.json](dotfile/vscode/extensions.json)
+* [keybindings.json](dotfile/vscode/keybindings.json)
+* [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
+* [settings.json](dotfile/vscode/settings.json)
 ### .editorconfig
-* [**.editorconfig**](dotfile/editorconfig/generic.editorconfig)
+* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
 
 # EXTENSIONS
 ### Visual Studio 2019
-* [**Productivity Power Tools 2017/2019**](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-* [**Web Essentials 2019**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
-* [**.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
-* [**Automatic Versions 2**](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-* [**Editor Guidelines**](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
-* [**License Header Manager**](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
-* [**Open in Notepad++**](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
-* [**Open in Visual Studio Code**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [**Trailing Whitespace Visualizer**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
-* [**Viasfora**](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
-* [**Visual Studio Spell Checker**](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
-* [**VSColorOutput**](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
-* [**XAMLStyler**](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+* [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+* [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
+* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
+* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
+* [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
+* [Open in Notepad++](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
+* [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
+* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+* [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+* [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 
 # FONTS
 * [**Fira Code**](https://github.com/tonsky/FiraCode)
@@ -76,8 +76,8 @@
 
 ## NUGET
 ### Visual Studio 2019
-* [**Roslyn Analyzers**](https://github.com/dotnet/roslyn-analyzers)
-* [**Roslynator**](https://github.com/JosefPihrt/Roslynator)
+* [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
+* [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
 # TEMPLATES
 Various templates
