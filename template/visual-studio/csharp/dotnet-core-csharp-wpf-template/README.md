@@ -21,7 +21,7 @@ To use this project template in Visual Studio 2019:
 The next time you start Visual Studio 2019, the project template will be available to use.
 
 # Creating dotnet-core-csharp-wpf-template
-These are the steps to that I used to create this template. You can also view the template [source code](template/visual-studio/csharp/dotnet-core-csharp-wpf-template/src)
+These are the steps to that I used to create this template. You can also view the template [source code](src).
 
 ### Create a new project
 1. Create a new WPF App (.NET Core) project.
