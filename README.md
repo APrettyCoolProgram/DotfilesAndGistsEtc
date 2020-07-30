@@ -80,7 +80,6 @@
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
 # TEMPLATES
-Various templates
 * [GitHub repository](template/github/repository)
 * [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
 * [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
@@ -91,4 +90,4 @@ Various templates
 
 ***
 
-![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)
+![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub)](https://github.com/aprettycoolprogram)
