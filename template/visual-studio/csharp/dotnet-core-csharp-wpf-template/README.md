@@ -8,8 +8,8 @@
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  [![License](https://img.shields.io/github/license/aprettycoolprogram/dotfiles-templates-and-gists-etc/tree/development/template/visual-studio/csharp/dotnet-core-csharp-wpf-template)](https://www.apache.org/licenses/LICENSE-2.0)
-  ![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/github-repository-template?label=latest%20release)
+  ![License](https://img.shields.io/badge/license-Apache%202.0-darkgreen.svg)(https://www.apache.org/licenses/LICENSE-2.0)
+  ![Latest release](https://img.shields.io/badge/latest%20release-b200727.svg)
 
 </h2>
 

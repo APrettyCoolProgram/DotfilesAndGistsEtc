@@ -15,7 +15,7 @@
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  ![Status](https://img.shields.io/badge/latest%20release-b200727.svg)
+  
 </h2>
 
 <table>
