@@ -63,26 +63,26 @@ extensions: .md
 3. Save the "sourcecode.licenseheader" file.
 
 ### Make modifications to the MainWindow.xaml file
-1. Add a license header **right click on the file name** and choose **License Headers > Add License Header**.
-2. If you are using the, right click the XAML code and choose "Format XAML".
+1. Add a license header by right click on the file name and choose **License Headers > Add License Header**.
+2. Right click the XAML code and choose **Format XAML**.
 
 ### Make modifications to the MainWindow.xaml.cs file
-1. Add a license header. If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, **right click on the file name** and choose **License Headers > Add License Header**.
+1. Add a license header by right click on the file name and choose **License Headers > Add License Header**.
 2. Run Code Cleanup.
 
 ### Change the Output path
-1. Right-click on the **dotnet_core_csharp_wpf_template** project
+1. Right-click on the dotnet_core_csharp_wpf_template project
 2. Click **Properties**
 3. Under **Build > Output**, change the "Output path" to "../build"
 4. Click **Save**
 
 ### Add the following NuGet packages:
-1. Microsoft.CodeAnalysis.FxCopAnalysers
-2. Roslynator.Analysers
+1. [Microsoft.CodeAnalysis.FxCopAnalysers](https://github.com/dotnet/roslyn-analyzers)
+2. [Roslynator.Analysers](https://github.com/JosefPihrt/Roslynator)
 
 ### Export the .editorconfig file
 Go to **Tools > Options > Code Style**
 
 ### Change the version number
 1. Open the .csproj file and change the version to **0.0.0.0**
-2. Save
+2. **Save**
