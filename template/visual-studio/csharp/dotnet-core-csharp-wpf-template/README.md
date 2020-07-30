@@ -18,6 +18,10 @@ To use this project template in Visual Studio 2019:
 1. Download the [dotnet-core-csharp-wpf-template](export/dotnet-core-csharp-wpf-template.zip)
 2. Copy that file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\`
 
+### Prerequisites
+* You'll need the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension
+* You'll need the [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) extension
+
 The next time you start Visual Studio 2019, the project template will be available to use.
 
 # Creating dotnet-core-csharp-wpf-template
@@ -27,7 +31,7 @@ These are the steps to that I used to create this template. You can also view th
 1. Create a new WPF App (.NET Core) project.
 2. Name it "dotnet-core-csharp-wpf-template".
 
-### If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, add a "sourcecode.licenseheader" file
+### Add a "sourcecode.licenseheader" file
 1. Add the file to the project root.
 2. The contents of the file should be:
 ```
@@ -59,8 +63,8 @@ extensions: .md
 3. Save the "sourcecode.licenseheader" file.
 
 ### Make modifications to the MainWindow.xaml file
-1. Add a license header. If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, **right click on the file name** and choose **License Headers > Add License Header**.
-2. If you are using the [XAML Styler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler) extension, right click the XAML code and choose "Format XAML".
+1. Add a license header **right click on the file name** and choose **License Headers > Add License Header**.
+2. If you are using the, right click the XAML code and choose "Format XAML".
 
 ### Make modifications to the MainWindow.xaml.cs file
 1. Add a license header. If you are using the [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager) extension, **right click on the file name** and choose **License Headers > Add License Header**.
