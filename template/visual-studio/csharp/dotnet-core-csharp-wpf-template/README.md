@@ -8,7 +8,7 @@
 <h2 align="center">
 
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-  ![License](https://img.shields.io/badge/license-Apache%202.0-darkgreen.svg)(https://www.apache.org/licenses/LICENSE-2.0)
+  [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
   ![Latest release](https://img.shields.io/badge/latest%20release-b200727.svg)
 
 </h2>
