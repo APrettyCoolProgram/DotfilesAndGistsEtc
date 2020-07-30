@@ -5,6 +5,8 @@
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
+<!--
+
 ***
 ### THIS REPOSITORY HAS BEEN ARCHIVED
 *this-repository* is no longer being developed, and this repository has been archived.
@@ -12,8 +14,10 @@
 Development has been moved to [*new-repository*](https://github.com/github-account/new-repository).
 ***
 
+-->
+
 <h2 align="center">
-  <img src="repodata/img/logo.png" alt="Dotfiles, Templates & Gists (Etc.)  Logo" width="200">
+  <img src="repodata/img/logo.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
   <br>
   GitHub Repository Template
   <br>
