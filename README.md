@@ -18,11 +18,11 @@
 
 </h2>
 
-<h6 align="center">
+<h5 align="center">
 
-  [**About**](#about)&nbsp;&bull;&nbsp;[**Dotfiles**](#dotfiles)&nbsp;&bull;&nbsp;[**Extentions**](#extensions)&nbsp;&bull;&nbsp;[**Fonts**](#fonts)&nbsp;&bull;&nbsp;[**NuGet**](#nuget)&nbsp;&bull;&nbsp;[**Templates**](#templates)&nbsp;&bull;&nbsp;[**Themes**](#themes)&nbsp;&bull;&nbsp;
+  [**About**](#about)&nbsp;&bull;&nbsp;[**Dotfiles**](#dotfiles)&nbsp;&bull;&nbsp;[**Extentions**](#extensions)&nbsp;&bull;&nbsp;[**Fonts**](#fonts)&nbsp;&bull;&nbsp;[**NuGet**](#nuget)&nbsp;&bull;&nbsp;[**Templates**](#templates)&nbsp;&bull;&nbsp;[**Themes**](#themes)
 
-</h6>
+</h5>
 
 <table>
 <tr>
