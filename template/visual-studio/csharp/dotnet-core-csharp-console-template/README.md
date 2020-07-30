@@ -24,12 +24,12 @@ To use this project template in Visual Studio 2019:
 
 The next time you start Visual Studio 2019, the project template will be available to use.
 
-# Creating dotnet-core-csharp-wpf-template
+# Creating dotnet-core-csharp-console-template
 These are the steps to that I used to create this template. You can also view the template [source code](src).
 
 ### Create a new project
 1. Create a new Console App (.NET Core) project.
-2. Name it "dotnet-core-csharp-wpf-template".
+2. Name it "dotnet-core-csharp-console-template".
 
 ### Add a "sourcecode.licenseheader" file
 1. Add the file to the project root.
@@ -67,7 +67,7 @@ extensions: .md
 2. Run Code Cleanup.
 
 ### Change the Output path
-1. Right-click on the dotnet_core_csharp_wpf_template project
+1. Right-click on the dotnet_core_csharp_console_template project
 2. Click **Properties**
 3. Under **Build > Output**, change the "Output path" to "../build"
 4. Click **Save**
