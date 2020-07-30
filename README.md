@@ -8,7 +8,7 @@
 <h2 align="center">
   <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
   <br>
-  A collection of various stuff
+  A collection of various things and stuff
   <br>
 </h2>
 
@@ -17,12 +17,6 @@
   ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 </h2>
-
-<h5 align="center">
-
-  [**About**](#about)&nbsp;&bull;&nbsp;[**Dotfiles**](#dotfiles)&nbsp;&bull;&nbsp;[**Extentions**](#extensions)&nbsp;&bull;&nbsp;[**Fonts**](#fonts)&nbsp;&bull;&nbsp;[**NuGet**](#nuget)&nbsp;&bull;&nbsp;[**Templates**](#templates)&nbsp;&bull;&nbsp;[**Themes**](#themes)
-
-</h5>
 
 <table>
 <tr>
@@ -48,7 +42,7 @@
 ### GitHub
 * [**generic.gitignore**](dotfile/github/generic.gitignore)
 ### Visual Studio 2019
-* [**Visual Studio 2019 .vssettings**](dotfile/vs-2019/visual-studio-2019.vssettings)
+* [**Visual Studio 2019 .vssettings**](dotfile/vs2019/visual-studio-2019.vssettings)
 * [**License Header Manager license header**](dotfile/vs2019/license-header-manager.licenseheader)
 * [**Viasfora settings**](dotfile/vs2019/viasfora-settings.xml)
 * [**Viasfora theme**](dotfiles/vs2019/viasfora-theme.json)
