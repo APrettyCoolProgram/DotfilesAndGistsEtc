@@ -92,6 +92,6 @@
 
 ![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)
 
-![Built using](https://img.shields.io/badge/built%20using-black.svg)&nbsp;[![Repository template](https://img.shields.io/badge/repository%20template-a%20rretty%20cool%20repository%20template-17806D.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/github/repository)&nbsp;[![Logo](https://img.shields.io/badge/logo-rexard.svg)](https://assetstore.unity.com/publishers/13229)
+![Built using](https://img.shields.io/badge/built%20using-black.svg)&nbsp;[![Repository template](https://img.shields.io/badge/repository%20template-a%20rretty%20cool%20repository%20template-17806D.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/github/repository)&nbsp;[![Logo](https://img.shields.io/badge/logo-rexard-17806D.svg)](https://assetstore.unity.com/publishers/13229)
 
 https://assetstore.unity.com/publishers/13229
