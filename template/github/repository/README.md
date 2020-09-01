@@ -1,17 +1,15 @@
 <!--
   Github Repository Template (https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
-  Version: Version 20.9.200901.1200
+  Version: Version 20.9.200901.0956
   Authors: development@aprettycoolprogram.com
   Additional documentation: /AppResource/Doc/Proj/
 -->
 
-<!--
-
 ***
 
 <h3 align="center">
-  THIS REPOSITORY HAS BEEN ARCHIVED
-  THIS REPOSITORY HAS BEEN DEPRECIATED
+  THIS REPOSITORY HAS BEEN ARCHIVED<br>
+  or..THIS REPOSITORY HAS BEEN DEPRECIATED
 </h3>
 
 <h4 align="center">
@@ -20,7 +18,6 @@
 
 ***
 
--->
 
 <h2 align="center">
   GitHub Repository Template
@@ -61,6 +58,7 @@
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;[Features](#features)<br>  
   [**GETTING STARTED**](#getting-started)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Before you begin](#before-you-begin)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Prerequisites](#prerequisites)<br>
@@ -90,7 +88,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;[Acknowledgements](#acknowledgements)<br>
   &nbsp;&nbsp;&nbsp;&nbsp;[Support](#support)<br>
   [**PROJECT**](#project)<br>
-  [**DEVELOPMENT**](#development)<br>
+  [**DEVELOPMENT**](#development)
 
 </td>
 </tr>
@@ -110,8 +108,6 @@ Things you should do before you begin.
 * Prerequisite #1
 * Prerequisite #2
 * Prerequisite #3
-### Additional notes
-Additional notes can go here.
 
 # INSTALLING
 ### Windows
@@ -133,7 +129,9 @@ Additional notes can go here.
 4. If other operating systems are not supported, mention that here.
 
 # SETUP
-If your project has a setup procedure, document it here. For example, you may need to make changes to a configuration file before using the project.
+If your project has a setup procedure, document it here.
+
+For example, you may need to make changes to a configuration file before using the project.
 ### Configuring
 Configuration introduction.
 #### Required configuration settings
