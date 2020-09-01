@@ -18,7 +18,6 @@
 
 ***
 
-
 <h2 align="center">
   GitHub Repository Template
   <br>
@@ -26,7 +25,7 @@
   <img src="repodata/img/logo.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
   <br>
   <br>
-  A generic template for GitHub repositories.
+  A generic template for GitHub repositories
   <br>
   <br>
 </h2>
