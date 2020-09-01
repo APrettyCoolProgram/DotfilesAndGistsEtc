@@ -1,6 +1,6 @@
 <!--
   Github Repository Template (https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
-  Version: Version 20.7.200728.1200
+  Version: Version 20.9.200901.1200
   Authors: development@aprettycoolprogram.com
   Additional documentation: /AppResource/Doc/Proj/
 -->
@@ -8,18 +8,29 @@
 <!--
 
 ***
-### THIS REPOSITORY HAS BEEN ARCHIVED
-*this-repository* is no longer being developed, and this repository has been archived.
 
-Development has been moved to [*new-repository*](https://github.com/github-account/new-repository).
+<h3 align="center">
+  THIS REPOSITORY HAS BEEN ARCHIVED
+  THIS REPOSITORY HAS BEEN DEPRECIATED
+</h3>
+
+<h4 align="center">
+  Development is continuing at [repository-name](repository-url).
+</h4>
+
 ***
 
 -->
 
 <h2 align="center">
+  GitHub Repository Template
+  <br>
+  <br>
   <img src="repodata/img/logo.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
   <br>
-  GitHub Repository Template
+  <br>
+  A generic template for GitHub repositories.
+  <br>
   <br>
 </h2>
 
@@ -46,7 +57,7 @@ Development has been moved to [*new-repository*](https://github.com/github-accou
 <!-- The HTML indentations have to stay this way to work. -->
 <table>
 <tr>
-<td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
+<td img src="repodata/img/spacer.png" alt="blank-spacer" width="1000" height="1">
 
   ### CONTENTS
   [**ABOUT**](#about-crispydeven)<br>
