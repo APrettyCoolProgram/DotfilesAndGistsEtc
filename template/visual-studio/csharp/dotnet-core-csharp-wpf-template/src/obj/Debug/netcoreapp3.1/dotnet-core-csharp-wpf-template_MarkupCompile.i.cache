@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\chris.banwarth\GitHub\A Pretty Cool Program\dotfiles-templates-and-gists-etc\template\vs2019\csharp\src\dotnet-core-csharp-wpf-template\obj\Debug\netcoreapp3.1\
+G:\GitHub\aprettycoolprogram\dotfiles-templates-and-gists-etc\template\visual-studio\csharp\dotnet-core-csharp-wpf-template\src\obj\Debug\netcoreapp3.1\
 dotnet_core_csharp_wpf_template
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-C:\Users\chris.banwarth\GitHub\A Pretty Cool Program\dotfiles-templates-and-gists-etc\template\vs2019\csharp\src\dotnet-core-csharp-wpf-template\App.xaml
+G:\GitHub\aprettycoolprogram\dotfiles-templates-and-gists-etc\template\visual-studio\csharp\dotnet-core-csharp-wpf-template\src\App.xaml
 1-254086228
 
 5-1234171653
 1921654412462
 MainWindow\MainWindow.xaml;
 
-True
+False
 

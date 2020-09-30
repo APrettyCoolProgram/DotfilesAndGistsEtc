@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "2yDxOh0xNksW+ZUhe/0WPsl1nJP5H1Jty1E/OSPbwHHaYMqLkbTlfAVF7l8dT/i5YTFMKjFSxYKf7WnjhZORXg==",
+  "dgSpecHash": "0M8HXs05rPkho2JPm9v/ab4Kxq4JgYAkYlhZ1WEQZcLWytqBQQcqauQuh43NwlcMefwO5jjTZkTY+MORKm9ZHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\dotnet-core-csharp-wpf-template.csproj",
+  "projectFilePath": "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\dotnet-core-csharp-wpf-template.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
-    "C:\\Users\\chris.banwarth\\.nuget\\packages\\roslynator.analyzers\\2.3.0\\roslynator.analyzers.2.3.0.nupkg.sha512"
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\cbanw\\.nuget\\packages\\roslynator.analyzers\\2.3.0\\roslynator.analyzers.2.3.0.nupkg.sha512"
   ],
   "logs": []
 }

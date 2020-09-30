@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\dotnet-core-csharp-wpf-template.csproj": {}
+    "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\dotnet-core-csharp-wpf-template.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\dotnet-core-csharp-wpf-template.csproj": {
+    "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\dotnet-core-csharp-wpf-template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\dotnet-core-csharp-wpf-template.csproj",
+        "projectUniqueName": "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\dotnet-core-csharp-wpf-template.csproj",
         "projectName": "dotnet-core-csharp-wpf-template",
-        "projectPath": "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\dotnet-core-csharp-wpf-template.csproj",
-        "packagesPath": "C:\\Users\\chris.banwarth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris.banwarth\\GitHub\\A Pretty Cool Program\\dotfiles-templates-and-gists-etc\\template\\vs2019\\csharp\\src\\dotnet-core-csharp-wpf-template\\obj\\",
+        "projectPath": "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\dotnet-core-csharp-wpf-template.csproj",
+        "packagesPath": "C:\\Users\\cbanw\\.nuget\\packages\\",
+        "outputPath": "G:\\GitHub\\aprettycoolprogram\\dotfiles-templates-and-gists-etc\\template\\visual-studio\\csharp\\dotnet-core-csharp-wpf-template\\src\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\chris.banwarth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cbanw\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
