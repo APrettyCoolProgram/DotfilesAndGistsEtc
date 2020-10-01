@@ -1,15 +1,7 @@
-# 𝐀 𝐏𝐑𝐄𝐓𝐓𝐘 𝐂𝐎𝐎𝐋 𝐏𝐑𝐎𝐆𝐑𝐀𝐌
-
-
-################################################################################
-#                                                                              #
-# A Pretty Cool GitIgnore: A generic .gitignore file for GitHub repositories
+# .gitignore: A generic .gitignore file for GitHub repositories
 # v1.0.0.1001
 # https://github.com/APrettyCoolProgram/dotfiles-and-gists-etc)
-# (C)2020 A Pretty Cool Program All rights reserved.
-# Licensed under the Apache License v2
-#
-################################################################################
+# ⠉⠕⠏⠽⠗⠊⠛⠓⠞⠼⠃⠼⠚⠼⠃⠼⠚⠁⠏⠗⠑⠞⠞⠽⠉⠕⠕⠇⠏⠗⠕⠛⠗⠁⠍
 
 https://github.com/github/gitignore
 
@@ -51,3 +43,6 @@ _[Ss]cratch/
 [Ww][Ii][Nn]32/
 x64/
 x86/
+
+
+# ⠉⠕⠏⠽⠗⠊⠛⠓⠞⠼⠃⠼⠚⠼⠃⠼⠚⠁⠏⠗⠑⠞⠞⠽⠉⠕⠕⠇⠏⠗⠕⠛⠗⠁⠍
