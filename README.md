@@ -46,7 +46,6 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 <details>
 <summary>Visual Studio extensions</summary>
 
-These are Visual Studio 2019 extensions. I'm not sure which of these are available for Visual Studio for Mac.
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
@@ -108,34 +107,55 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 </details>
 
 ## Notepad++
-Notepad++ is a free source code editor and Notepad replacement that supports several languages.
-* [Notepad++](https://notepad-plus-plus.org/)
+[Notepad++](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
 
-### Notepad++ extensions
+<details>
+<summary>Notepad++ extensions</summary>
+
 * Soon
 
-### Notepad++ dotfiles
+</details>
+
+<details>
+<summary>Notepad++ dotfiles</summary>
+
 * Soon
+
+</details>
 
 ## Atom
-Atom is GitHub's cross-platform, open-source source-code editor.
-* [Atom](https://atom.io/)
+[Atom](https://atom.io/) is GitHub's cross-platform, open-source source-code editor.
 
-### Atom extensions
+<details>
+<summary>Atom extensions</summary>
+
 * Soon
 
-### Atom dotfiles
+</details>
+
+<details>
+<summary>Atom dotfiles</summary>
+
 * Soon
+
+</details>
 
 ## Sublime Text
-Sublime is a cross-platform source-code editor.
-* [Sublime Text](https://www.sublimetext.com/)
+[Sublime Text](https://www.sublimetext.com/) is a cross-platform source-code editor.
 
-### Sublime Text extensions
+<details>
+<summary>Sublime Text extensions</summary>
+
 * Soon
 
-### Sublime Text dotfiles
+</details>
+
+<details>
+<summary>Sublime Text dotfiles</summary>
+
 * Soon
+
+</details>
 
 # TOOLS & UTILITIES
 Soon.
