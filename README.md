@@ -22,11 +22,13 @@
 
   ### CONTENTS
   [ABOUT](#about)<br>
-  [VISUAL STUDIO](#visual-studio)<br>
-  [VISUAL STUDIO CODE](#visual-studio-code)<br>
-  [NOTEPAD++](#notepad++)<br>
-  [ATOM](#atom)<br>
-  [SUBLIME TEXT](#sublime-text)<br>
+  [EDITORS](#editors)<br>
+  [TOOLS & UTILITIES](#tools-&-utilities)<br>
+  [PROJECT TEMPLATES](#project-templates)<br>
+  [VERSION CONTROL](#version-control)<br>
+  [EDITORCONFIG](#editorconfig)<br>
+  [FONTS](#fonts)<br>
+  [THEMES](#themes)
 
 </td>
 </tr>
@@ -36,14 +38,14 @@
 # ABOUT
 This repository details a bunch of stuff about the development environment I use to develop software and stuff.
 
-# VISUAL STUDIO
-Visual Studio is Microsoft's flagship IDE, available for MacOS and Microsoft Windows
-* [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/)
-* [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/)
-https://visualstudio.microsoft.com/vs/mac/
+# EDITORS
 
-### Visual Studio extensions
-These are Visual Studio 2019 extensions. I'm not sure which of these are available for Visual Studio for Mac.
+## Visual Studio
+Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/)
+
+<details>
+<summary>Visual Studio extensions</summary>
+
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
@@ -63,55 +65,124 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
 * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
 
-### Visual Studio dotfiles
+</details>
+
+<details>
+<summary>Visual Studio NuGet packages</summary>
+
+* [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
+* [Roslynator](https://github.com/JosefPihrt/Roslynator)
+
+</details>
+
+<details>
+<summary>Visual Studio dotfiles</summary>
+
 * [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
 * [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
 * [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
 * [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
 
-# VISUAL STUDIO CODE
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+</details>
 
-### Visual Studio Code extensions
+## Visual Studio Code
+[Visual Studio CODE](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
+
+<details>
+<summary>Visual Studio Code extensions</summary>
+
 * Soon
 
-### Visual Studio Code dotfiles
+</details>
+
+<details>
+<summary>Visual Studio Code dotfiles</summary>
+
 * [extensions.json](dotfile/vscode/extensions.json)
 * [keybindings.json](dotfile/vscode/keybindings.json)
 * [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
 * [settings.json](dotfile/vscode/settings.json)
 
-# NOTEPAD++
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+</details>
 
-### Notepad++ extensions
+## Notepad++
+[Notepad++](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
+
+<details>
+<summary>Notepad++ extensions</summary>
+
 * Soon
 
-### Notepad++ dotfiles
+</details>
+
+<details>
+<summary>Notepad++ dotfiles</summary>
+
 * Soon
 
-# ATOM
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+</details>
 
-### Atom extensions
+## Atom
+[Atom](https://atom.io/) is GitHub's cross-platform, open-source source-code editor.
+
+<details>
+<summary>Atom extensions</summary>
+
 * Soon
 
-### Atom dotfiles
+</details>
+
+<details>
+<summary>Atom dotfiles</summary>
+
 * Soon
 
-# SUBLIME TEXT
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+</details>
 
-### Sublime Text extensions
+## Sublime Text
+[Sublime Text](https://www.sublimetext.com/) is a cross-platform source-code editor.
+
+<details>
+<summary>Sublime Text extensions</summary>
+
 * Soon
 
-### Sublime Text dotfiles
+</details>
+
+<details>
+<summary>Sublime Text dotfiles</summary>
+
 * Soon
 
+</details>
+
+# TOOLS & UTILITIES
+Soon.
+
+# PROJECT TEMPLATES
+* [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
+* [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
+* [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
+
+# VERSION CONTROL
+* [generic.gitignore](dotfile/github/generic.gitignore)
+* [GitHub repository](template/github/repository)
+
+# EDITORCONFIG
+[EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
+
+The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
+
+EditorConfig files are easily readable and they work nicely with version control systems.
+
+* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
+
+# FONTS
+* [Fira Code](https://github.com/tonsky/FiraCode)
+* [Google Fonts](https://github.com/google/fonts)
+
+# THEMES
+* [Dracula](https://draculatheme.com/)
 
 ***
 
