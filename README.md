@@ -47,6 +47,8 @@ Visual Studio is Microsoft's flagship IDE, available for MacOS and Microsoft Win
 https://visualstudio.microsoft.com/vs/mac/
 
 <details>
+<summary>Visual Studio extensions</summary>
+
 ### Visual Studio extensions
 These are Visual Studio 2019 extensions. I'm not sure which of these are available for Visual Studio for Mac.
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
@@ -67,6 +69,7 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
 * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+
 </details>
 
 ### Visual Studio NuGet packages
