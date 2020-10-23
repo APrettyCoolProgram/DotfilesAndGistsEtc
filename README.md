@@ -41,10 +41,7 @@ This repository details a bunch of stuff about the development environment I use
 # EDITORS
 
 ## Visual Studio
-Visual Studio is Microsoft's flagship IDE, available for MacOS and Microsoft Windows
-* [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/)
-* [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/)
-https://visualstudio.microsoft.com/vs/mac/
+Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/)
 
 <details>
 <summary>Visual Studio extensions</summary>
