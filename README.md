@@ -81,8 +81,8 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [settings.json](dotfile/vscode/settings.json)
 
 ## Notepad++
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+Notepad++ is a free source code editor and Notepad replacement that supports several languages.
+* [Notepad++](https://notepad-plus-plus.org/)
 
 ### Notepad++ extensions
 * Soon
@@ -90,9 +90,9 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 ### Notepad++ dotfiles
 * Soon
 
-# Atom
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+## Atom
+Atom is GitHub's cross-platform, open-source source-code editor.
+* [Atom](https://atom.io/)
 
 ### Atom extensions
 * Soon
@@ -100,9 +100,9 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 ### Atom dotfiles
 * Soon
 
-# Sublime Text
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+## Sublime Text
+Sublime is a cross-platform source-code editor.
+* [Sublime Text](https://www.sublimetext.com/)
 
 ### Sublime Text extensions
 * Soon
