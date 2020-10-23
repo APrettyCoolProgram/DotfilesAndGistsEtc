@@ -49,7 +49,6 @@ https://visualstudio.microsoft.com/vs/mac/
 <details>
 <summary>Visual Studio extensions</summary>
 
-### Visual Studio extensions
 These are Visual Studio 2019 extensions. I'm not sure which of these are available for Visual Studio for Mac.
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
@@ -72,11 +71,15 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 
 </details>
 
-### Visual Studio NuGet packages
+<details>
+<summary>Visual Studio NuGet packages</summary>
+
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
-### Visual Studio dotfiles
+<details>
+<summary>Visual Studio dotfiles</summary>
+
 * [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
 * [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
 * [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
