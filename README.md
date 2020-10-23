@@ -22,11 +22,7 @@
 
   ### CONTENTS
   [ABOUT](#about)<br>
-  [VISUAL STUDIO](#visual-studio)<br>
-  [VISUAL STUDIO CODE](#visual-studio-code)<br>
-  [NOTEPAD++](#notepad++)<br>
-  [ATOM](#atom)<br>
-  [SUBLIME TEXT](#sublime-text)<br>
+  [EDITORS](#editors)<br>
 
 </td>
 </tr>
@@ -36,7 +32,9 @@
 # ABOUT
 This repository details a bunch of stuff about the development environment I use to develop software and stuff.
 
-# VISUAL STUDIO
+# EDITORS
+
+## Visual Studio
 Visual Studio is Microsoft's flagship IDE, available for MacOS and Microsoft Windows
 * [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/)
 * [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/)
@@ -69,7 +67,7 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
 * [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
 
-# VISUAL STUDIO CODE
+## Visual Studio Code
 Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [Visual Studio CODE](https://code.visualstudio.com/)
 
@@ -82,7 +80,7 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
 * [settings.json](dotfile/vscode/settings.json)
 
-# NOTEPAD++
+## Notepad++
 Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [Visual Studio CODE](https://code.visualstudio.com/)
 
@@ -92,7 +90,7 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 ### Notepad++ dotfiles
 * Soon
 
-# ATOM
+# Atom
 Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [Visual Studio CODE](https://code.visualstudio.com/)
 
@@ -102,7 +100,7 @@ Visual Studio Code is Microsoft's cross-platform source-code editor.
 ### Atom dotfiles
 * Soon
 
-# SUBLIME TEXT
+# Sublime Text
 Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [Visual Studio CODE](https://code.visualstudio.com/)
 
