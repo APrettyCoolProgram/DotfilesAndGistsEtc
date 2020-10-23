@@ -86,8 +86,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 </details>
 
 ## Visual Studio Code
-Visual Studio Code is Microsoft's cross-platform source-code editor.
-* [Visual Studio CODE](https://code.visualstudio.com/)
+[Visual Studio CODE](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
 
 <details>
 <summary>Visual Studio Code extensions</summary>
@@ -170,7 +169,11 @@ Soon.
 * [GitHub repository](template/github/repository)
 
 # EDITORCONFIG
-[EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
+[EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
+
+The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
+
+EditorConfig files are easily readable and they work nicely with version control systems.
 
 * [.editorconfig](dotfile/editorconfig/generic.editorconfig)
 
