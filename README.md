@@ -23,6 +23,12 @@
   ### CONTENTS
   [ABOUT](#about)<br>
   [EDITORS](#editors)<br>
+  [TOOLS & UTILITIES](#tools-&-utilities)<br>
+  [PROJECT TEMPLATES](#project-templates)<br>
+  [VERSION CONTROL](#version-control)<br>
+  [EDITORCONFIG](#editorconfig)<br>
+  [FONTS](#fonts)<br>
+  [THEMES](#themes)
 
 </td>
 </tr>
@@ -60,6 +66,10 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
 * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+
+### Visual Studio NuGet packages
+* [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
+* [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
 ### Visual Studio dotfiles
 * [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
@@ -110,6 +120,29 @@ Sublime is a cross-platform source-code editor.
 ### Sublime Text dotfiles
 * Soon
 
+# TOOLS & UTILITIES
+Soon.
+
+# PROJECT TEMPLATES
+* [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
+* [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
+* [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
+
+# VERSION CONTROL
+* [generic.gitignore](dotfile/github/generic.gitignore)
+* [GitHub repository](template/github/repository)
+
+# EDITORCONFIG
+[EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
+
+* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
+
+# FONTS
+* [Fira Code](https://github.com/tonsky/FiraCode)
+* [Google Fonts](https://github.com/google/fonts)
+
+# THEMES
+* [Dracula](https://draculatheme.com/)
 
 ***
 
