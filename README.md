@@ -93,14 +93,22 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 Visual Studio Code is Microsoft's cross-platform source-code editor.
 * [Visual Studio CODE](https://code.visualstudio.com/)
 
-### Visual Studio Code extensions
+<details>
+<summary>Visual Studio Code extensions</summary>
+
 * Soon
 
-### Visual Studio Code dotfiles
+</details>
+
+<details>
+<summary>Visual Studio Code dotfiles</summary>
+
 * [extensions.json](dotfile/vscode/extensions.json)
 * [keybindings.json](dotfile/vscode/keybindings.json)
 * [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
 * [settings.json](dotfile/vscode/settings.json)
+
+</details>
 
 ## Notepad++
 Notepad++ is a free source code editor and Notepad replacement that supports several languages.
