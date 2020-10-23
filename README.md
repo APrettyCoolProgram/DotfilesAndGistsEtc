@@ -1,95 +1,120 @@
 <!--
-  Github Repository Template (https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc)
-  Version: Version 20.7.200729.1200
+  GitHub Repository Template (https://github.com/aprettycoolprogram/repository-template)
+  Build 20.10.1035
   Authors: development@aprettycoolprogram.com
-  Additional documentation: /AppResource/Doc/Proj/
 -->
 
-<h2 align="center">
-  <img src="repodata/img/dotfiles-templates-and-gists-etc-logo-1422x2000.png" alt="Dotfiles, Templates & Gists (Etc.) Logo" width="200">
+<!-- Repository name, icon, and short description -->
+<h1 align="center">
+
+  <img src="repository-data/image/logo/my-development-environment-logo-768x768.png" alt="My Development Environment (logo)" width="200">
   <br>
-  A collection of various things and stuff
+  My Development Environment
   <br>
-</h2>
 
-<h2 align="center">
+</h1>
 
-  ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-
-</h2>
-
+<!-- Vertical menu -->
+<!-- NOTE: The HTML indentations have to stay this way to work. -->
 <table>
 <tr>
-<td img src="repodata/img/spacer.png" alt="blank-spacer" width="800" height="1">
+<td img src="RepositoryData/Asset/Image/Document/README/spacer.png" alt="blank-spacer" width="1000" height="1">
 
   ### CONTENTS
-  [**About**](#about)<br>
-  [**Dotfiles**](#dotfiles)<br>
-  [**Extentions**](#extensions)<br>
-  [**Fonts**](#fonts)<br>
-  [**NuGet**](#nuget)<br>
-  [**Templates**](#templates)<br>
-  [**Themes**](#themes)<br>
+  [ABOUT](#about)<br>
+  [VISUAL STUDIO](#visual-studio)<br>
+  [VISUAL STUDIO CODE](#visual-studio-code)<br>
+  [NOTEPAD++](#notepad++)<br>
+  [ATOM](#atom)<br>
+  [SUBLIME TEXT](#sublime-text)<br>
 
 </td>
 </tr>
 </table>
 
+<!-- About this repository -->
 # ABOUT
-**Dotfiles & Gists, Etc.** is a collection of various configuration files, code snippits, and useful extensions.
+This repository details a bunch of stuff about the development environment I use to develop software and stuff.
 
-# DOTFILES
-### GitHub
-* [generic.gitignore](dotfile/github/generic.gitignore)
-### Visual Studio 2019
+# VISUAL STUDIO
+Visual Studio is Microsoft's flagship IDE, available for MacOS and Microsoft Windows
+* [Visual Studio 2019 Community Edition](https://visualstudio.microsoft.com/vs/)
+* [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/)
+https://visualstudio.microsoft.com/vs/mac/
+
+### Visual Studio extensions
+These are Visual Studio 2019 extensions. I'm not sure which of these are available for Visual Studio for Mac.
+* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
+* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
+* [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
+* [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
+* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
+* [Live Share](https://visualstudio.microsoft.com/services/live-share/)
+* [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom)
+* [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
+* [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText)
+* [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
+* [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
+* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
+* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+* [Visual Studio 2019 Tools for Unity](https://visualstudio.microsoft.com/vs/features/game-development/#tab-4b0d0be8de5f65564ad)
+* [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
+* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+* [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
+* [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+
+### Visual Studio dotfiles
 * [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
 * [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
 * [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
 * [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
-### Visual Studio Code
+
+# VISUAL STUDIO CODE
+Visual Studio Code is Microsoft's cross-platform source-code editor.
+* [Visual Studio CODE](https://code.visualstudio.com/)
+
+### Visual Studio Code extensions
+* Soon
+
+### Visual Studio Code dotfiles
 * [extensions.json](dotfile/vscode/extensions.json)
 * [keybindings.json](dotfile/vscode/keybindings.json)
 * [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
 * [settings.json](dotfile/vscode/settings.json)
-### .editorconfig
-* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
 
-# EXTENSIONS
-### Visual Studio 2019
-* [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-* [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
-* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
-* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
-* [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
-* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
-* [Open in Notepad++](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad)
-* [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
-* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
-* [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
-* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
-* [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler)
+# NOTEPAD++
+Visual Studio Code is Microsoft's cross-platform source-code editor.
+* [Visual Studio CODE](https://code.visualstudio.com/)
 
-# FONTS
-* [Fira Code](https://github.com/tonsky/FiraCode)
-* [Google Fonts](https://github.com/google/fonts)
+### Notepad++ extensions
+* Soon
 
-# NUGET
-### Visual Studio 2019
-* [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
-* [Roslynator](https://github.com/JosefPihrt/Roslynator)
+### Notepad++ dotfiles
+* Soon
 
-# TEMPLATES
-* [GitHub repository](template/github/repository)
-* [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
-* [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
-* [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
+# ATOM
+Visual Studio Code is Microsoft's cross-platform source-code editor.
+* [Visual Studio CODE](https://code.visualstudio.com/)
 
-# THEMES
-* [Dracula](https://draculatheme.com/)
+### Atom extensions
+* Soon
+
+### Atom dotfiles
+* Soon
+
+# SUBLIME TEXT
+Visual Studio Code is Microsoft's cross-platform source-code editor.
+* [Visual Studio CODE](https://code.visualstudio.com/)
+
+### Sublime Text extensions
+* Soon
+
+### Sublime Text dotfiles
+* Soon
+
 
 ***
 
-![Maintained by](https://img.shields.io/badge/maintained%20by-black.svg)&nbsp;[![Maintained by](https://img.shields.io/badge/A%20Pretty%20Cool%20Program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)
-
-![Built using](https://img.shields.io/badge/built%20using-black.svg)&nbsp;[![Repository template](https://img.shields.io/badge/repository%20template-a%20rretty%20cool%20repository%20template-17806D.svg)](https://github.com/APrettyCoolProgram/dotfiles-templates-and-gists-etc/tree/development/template/github/repository)&nbsp;[![Logo](https://img.shields.io/badge/logo-rexard-17806D.svg)](https://assetstore.unity.com/publishers/13229)
+<!-- DEVELOPMENT FOOTER -->
+[![Developed by](https://img.shields.io/badge/developed%20by-a%20pretty%20cool%20program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;<br>
+[![Repository built using](https://img.shields.io/badge/repository%20built%20using-a%20pretty%20cool%20repository%20template-17806D.svg)](https://github.com/APrettyCoolProgram/repository-template/tree/master)
