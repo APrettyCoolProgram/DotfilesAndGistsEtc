@@ -77,6 +77,8 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
 * [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
+</details>
+
 <details>
 <summary>Visual Studio dotfiles</summary>
 
@@ -84,6 +86,8 @@ These are Visual Studio 2019 extensions. I'm not sure which of these are availab
 * [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
 * [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
 * [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
+
+</details>
 
 ## Visual Studio Code
 Visual Studio Code is Microsoft's cross-platform source-code editor.
