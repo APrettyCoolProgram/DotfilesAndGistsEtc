@@ -25,7 +25,6 @@
   [EDITORS](#editors)<br>
   [TOOLS & UTILITIES](#tools-&-utilities)<br>
   [PROJECT TEMPLATES](#project-templates)<br>
-  [VERSION CONTROL](#version-control)<br>
   [EDITORCONFIG](#editorconfig)<br>
   [FONTS](#fonts)<br>
   [THEMES](#themes)
@@ -159,14 +158,9 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 # TOOLS & UTILITIES
 Soon.
 
-# PROJECT TEMPLATES
-* [Visual Studio .NET Core C# WPF application](template/visual-studio/csharp/dotnet-core-csharp-wpf-template)
-* [Visual Studio .NET Core C# Console application](template/visual-studio/csharp/dotnet-core-csharp-console-template)
-* [Visual Studio .NET Core C# Class Library](template/visual-studio/csharp/dotnet-core-csharp-class-library-template)
-
-# VERSION CONTROL
-* [generic.gitignore](dotfile/github/generic.gitignore)
-* [GitHub repository](template/github/repository)
+# TEMPLATES
+* [.NET Core C# projects](https://github.com/APrettyCoolProgram/project-templates/tree/main/csharp)
+* [GitHub repositories](https://github.com/APrettyCoolProgram/project-templates/tree/main/github)
 
 # EDITORCONFIG
 [EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
