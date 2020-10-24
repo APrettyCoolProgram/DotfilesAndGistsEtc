@@ -86,7 +86,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 </details>
 
 ## Visual Studio Code
-[Visual Studio CODE](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
+[Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
 
 <details>
 <summary>Visual Studio Code extensions</summary>
