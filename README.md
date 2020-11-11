@@ -45,7 +45,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 <details>
 <summary>Visual Studio extensions</summary>
 
-* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)<br>A language service that makes it painless to handle all types of .ignore files.
+* [`.ignore**`](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)<br>A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)<br>Automatically increments or updates version numbers in a project.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
