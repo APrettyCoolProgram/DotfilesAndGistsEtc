@@ -56,8 +56,20 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode): Open any solution, project, folder and file in Visual Studio Code.
 * [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText): Open any solution, project, folder and file in Sublime Text.
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
-* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Iidentify and remove any trailing whitespace.
+* [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017): Includes the following extensions:
+  * Align Assignments
+  * Copy As Html
+  * Double-Click Maximize
+  * Fix Mixed Tabs
+  * Match Margin
+  * Middle-Click Scroll
+  * Peek Help
+  * Power Commands for Visual Studio
+  * Quick Launch Tasks
+  * Shrink Empty Lines
+  * Solution Error Visualizer
+  * Time Stamp Margin
+* [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Identify and remove any trailing whitespace.
 * [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
 * [Visual Studio 2019 Tools for Unity](https://visualstudio.microsoft.com/vs/features/game-development/#tab-4b0d0be8de5f65564ad)
 * [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
