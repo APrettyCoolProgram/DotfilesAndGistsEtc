@@ -45,8 +45,10 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 <details>
 <summary>Visual Studio extensions</summary>
 
-* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)
-Test 
+* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)<br>
+This is text.
+And more txt.<br>
+And more text.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
