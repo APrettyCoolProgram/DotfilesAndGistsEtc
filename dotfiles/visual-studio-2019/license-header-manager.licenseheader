@@ -1,23 +1,26 @@
-﻿extensions: designer.cs generated.cs
+﻿﻿extensions: designer.cs generated.cs
 extensions: .xaml
 <!--
-    <project-name>: https://github-account/repository-name
-    <file-name> [<version/build>]: <file-description>
-    Authors:
-     author01@email-address.com
-     author02@email-address.com
-    Additional documentation: /ProjData/Doc/Proj/
+    PROJECT: %Project% (https://github.com/GitHubAccount/%Project%)
+    FILE: %FileName%
+    UPDATED: %CurrentMonth%-%CurrentDay%-%CurrentYear%-%CurrentTime%
+    LICENSE: Apache v2 (https://apache.org/licenses/LICENSE-2.0)
+    Copyright 2020 Your Name Here
+    All rights reserved
 -->
 
 extensions: .cs
-// <project-name>: https://github-account/repository-name
-// <file-name> [<version/build>]: <file-description>
-// Authors:
-//  author01@email-address.com
-//  author02@email-address.com
-// Additional documentation: /ProjData/Doc/Proj/
+/* PROJECT: %Project% (https://github.com/GitHubAccount/%Project%)
+ *    FILE: %Namespace%.%FileName%
+ * UPDATED: %CurrentMonth%-%CurrentDay%-%CurrentYear%-%CurrentTime%
+ * LICENSE: Apache v2 (https://apache.org/licenses/LICENSE-2.0)
+ *          Copyright 2020 Your Name Here
+ *          All rights reserved
+ */
 
 extensions: .md
-> [project-name](https://github-account/project-name) v0.0<br>
-> <file-name>: <file-descriptions>
-> Additional documentation: /ProjData/Doc/Proj/
+> PROJECT: %Project%<br>
+> FILE: %FileName%
+
+extensions: .comment.xml
+<!-- This file contains external XML comments. -->
