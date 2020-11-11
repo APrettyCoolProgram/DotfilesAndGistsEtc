@@ -63,26 +63,23 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false): Includes the following extensions:
-    * [Add New File](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile): Add new file(s) to a project
-    * [Browser Reload on Save](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserReloadonSave): Reload all connected browsers when files are saved.
-    * [Browser Sync](): Reload all connected browsers when files are saved.
-    * [Bundler & Minifier](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.BrowserSync): Synchronize form field entry, page navigation and scroll position.
-    * [CSS Tools]():
-    * [Editor Enhancements]():
-    * [File Icons]():
-    * [File Nesting]():
-    * [Glyphfriend]():
-    * [Image Sprites]():
-    * [Image Optimizer]():
-    * [Markdown Editor]():
-    * [Open Command Line]():
-    * [Package Installer]():
-    * [Package Security Alerts]():
-    * [SVG Viewer]():
-    * [Web Accessibility Checker]():
-    * [Web Compiler]():
-    * [ZenCoding]():
-  * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
+  * Add New File
+  * Browser Reload on Save
+  * Browser Sync
+  * Bundler & Minifier
+  * Editor Enhancements
+  * File Icons
+  * File Nesting
+  * Image Sprites
+  * Image Optimizer
+  * Markdown Editor
+  * Open Command Line
+  * Package Installer
+  * Package Security Alerts
+  * Web Accessibility Checker
+  * Web Compiler
+  * ZenCoding
+* [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
 
 </details>
 
