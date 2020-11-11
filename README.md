@@ -187,9 +187,9 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 Soon.
 
 # TEMPLATES
-* [Data folders](https://github.com/APrettyCoolProgram/project-templates/tree/main/github)
+* [Data folders](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/data-folders/)
 * [.NET Core C# projects](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/csharp)
-* [GitHub repositories](https://github.com/APrettyCoolProgram/project-templates/tree/main/github)
+* [GitHub repositories](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github)
 
 # EDITORCONFIG
 [EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
