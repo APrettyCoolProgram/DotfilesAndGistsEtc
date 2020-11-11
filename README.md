@@ -45,18 +45,15 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 <details>
 <summary>Visual Studio extensions</summary>
 
-* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)<br>
-This is text.
-And more txt.<br>
-And more text.
-* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
+* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files such as .gitignore, .tfignore, etc.
+* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project, based on configurable settings.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines)
 * [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
 * [Live Share](https://visualstudio.microsoft.com/services/live-share/)
 * [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom)
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
-* [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText)
+* [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText): Adds a menu command that lets you open any solution, project, folder and file in Sublime Text.
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode)
 * [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017)
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer)
