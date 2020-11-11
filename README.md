@@ -45,8 +45,8 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 <details>
 <summary>Visual Studio extensions</summary>
 
-* [`.ignore**`](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore)<br>A language service that makes it painless to handle all types of .ignore files.
-* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)<br>Automatically increments or updates version numbers in a project.
+* [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
+* [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
 * [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
@@ -62,27 +62,32 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Visual Studio 2019 Tools for Unity](https://visualstudio.microsoft.com/vs/features/game-development/#tab-4b0d0be8de5f65564ad)
 * [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
-* [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)<br>
-  * Add New File
-  * Browser Reload on Save
-  * Browser Sync
-  * Bundler & Minifier
-  * CSS Tools
-  * Editor Enhancements
-  * File Icons
-  * File Nesting
-  * Glyphfriend
-  * Image Sprites
-  * Image Optimizer
-  * Markdown Editor
-  * Open Command Line
-  * Package Installer
-  * Package Security Alerts
-  * SVG Viewer
-  * Web Accessibility Checker
-  * Web Compiler
-  * ZenCoding
-* [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
+* [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
+
+<details>
+  <summary>Visual Studio extensions</summary>
+
+    * Add New File
+    * Browser Reload on Save
+    * Browser Sync
+    * Bundler & Minifier
+    * CSS Tools
+    * Editor Enhancements
+    * File Icons
+    * File Nesting
+    * Glyphfriend
+    * Image Sprites
+    * Image Optimizer
+    * Markdown Editor
+    * Open Command Line
+    * Package Installer
+    * Package Security Alerts
+    * SVG Viewer
+    * Web Accessibility Checker
+    * Web Compiler
+    * ZenCoding
+  * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
+  </details>
 
 </details>
 
