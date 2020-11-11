@@ -47,8 +47,10 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
-* [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
+* [CSS Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig)
+* [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig): Language service for .editorconfig files.
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
+* [Glyphfriend 2019](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019):  enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries
 * [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
 * [Live Share](https://visualstudio.microsoft.com/services/live-share/)
 * [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom): Open any solution, project, folder and file in Atom
@@ -70,15 +72,16 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Solution Error Visualizer
   * Time Stamp Margin
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Identify and remove any trailing whitespace.
-* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora)
+* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features.
 * [Visual Studio 2019 Tools for Unity](https://visualstudio.microsoft.com/vs/features/game-development/#tab-4b0d0be8de5f65564ad)
 * [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
-* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
+* [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput): Color output for build and debug windows.
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false): Includes the following extensions:
   * Add New File
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
+  * CSS Tools
   * Editor Enhancements
   * File Icons
   * File Nesting
@@ -88,6 +91,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Open Command Line
   * Package Installer
   * Package Security Alerts
+  * SVG Viewer
   * Web Accessibility Checker
   * Web Compiler
   * ZenCoding
