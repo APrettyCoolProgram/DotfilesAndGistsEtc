@@ -187,7 +187,8 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 Soon.
 
 # TEMPLATES
-* [.NET Core C# projects](https://github.com/APrettyCoolProgram/project-templates/tree/main/csharp)
+* [Data folders](https://github.com/APrettyCoolProgram/project-templates/tree/main/github)
+* [.NET Core C# projects](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/csharp)
 * [GitHub repositories](https://github.com/APrettyCoolProgram/project-templates/tree/main/github)
 
 # EDITORCONFIG
