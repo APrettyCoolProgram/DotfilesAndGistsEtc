@@ -63,10 +63,6 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Visual Studio Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false)
-
-<details>
-  <summary>Visual Studio extensions</summary>
-
     * Add New File
     * Browser Reload on Save
     * Browser Sync
@@ -87,7 +83,6 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
     * Web Compiler
     * ZenCoding
   * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
-  </details>
 
 </details>
 
