@@ -20,6 +20,8 @@ There are three .NET Core C# templates:
 * [Console Application]()
 * [WPF Application]()
 
+These templates are for .NET Core 3.1, and are not updated very often. For instructions on creating your own .NET Core 5.0 C# templates, see below.
+
 # Usage
 To use these project template in Visual Studio 2019:
 1. Download the the project template you would like to use:
@@ -31,19 +33,20 @@ To use these project template in Visual Studio 2019:
 
 The next time you start Visual Studio, the project template will be available to use.
 
-# Steps to create a .NET Core C# project template
-The above templates are not very complex, and are therefore rarely updated.
+# Steps to create a .NET Core C# project
+The above templates are not very complex, are for .NET Core 3.1, and are therefore rarely updated.
 
-You can create your own .NET Core C# project templates following these steps:
+You can create your own .NET Core 5.0 C# project templates following these steps:
 
-### Create a new project
-1. Create a new Class Library (.NET Core), Console Application (.NET Core), or WPF Application (.NET Core) project.
-2. Name it "dotnet-core-csharp-[class-library/console-application/wpf-application]-template".
+## Create a new project
+1. Create one of the following Visual Studio 2019 Projects:
+  * Class Library (.NET Core)
+  * Console Application (.NET Core)
+  * WPF Application (.NET Core) project.
+2. Name it something you like
 
-### Add the following NuGet packages:
-1. [Microsoft.CodeAnalysis.FxCopAnalysers](https://github.com/dotnet/roslyn-analyzers)
-2. [Roslynator.Analysers](https://github.com/JosefPihrt/Roslynator)
-
-### Change the version number
-1. Open the .csproj file and change the version to **0.0.0.0**
-2. **Save**
+## Change the project properties
+1. Once the project solution has loaded, right click on the project and choose "Properties"
+2. Under "Application > Target framework", choose ".NET 5.0"
+3. Under "Applicaiton > Package" change the "Assembly version" and "Assembly file verison" to "0.0.0.0"
+4. Save the project
