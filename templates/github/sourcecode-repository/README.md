@@ -1,6 +1,6 @@
 <!--
-  project-templates 201024
-  project-templates-github-general-project-repository-template 201024
+  GitHub Sourcode Repository template (b201224)
+  https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github/sourcecode-repository
 -->
 
 ***
@@ -24,7 +24,7 @@
 
 <h3 align="center">
 
-  <img src="repository-data/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
+  <img src="resources/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
   <br>
   A GitHub template for a general project repository.
   <br>
@@ -40,7 +40,7 @@
 
 <h1 align="center">
 
-  <img src="repository-data/image/screenshot/screenshot.png" alt="Repository Screenshot" width="500">
+  <img src="resources/image/screenshot/screenshot.png" alt="Repository Screenshot" width="500">
   <br>
 
 </h1>
@@ -173,25 +173,25 @@ I think so.
 A blurb about development can go here.
 
 * [Project homepage](https://github.com/github-account/repository-name)
-* [Changelog](repository-data/doc/changelog.md)
-* [Roadmap](repository-data/doc/roadmap.md)
-* [Known issues](repository-data/doc/known-issues.md)
-* [Support](repository-data/doc/support.md)
-* [Testing](repository-data/doc/testing.md)
-* [Built with](repository-data/doc/built-with.md)
-* [Contributors](repository-data/doc/contributors.md)
-* [Acknowledgements](repository-data/doc/acknowledgements.md)
-* [Notices](repository-data/doc/third-party-notices.md)
-* [Related projects](repository-data/doc/related-projects.md)
-* [Additional reading](repository-data/doc/additional-reading.md)
+* [Changelog](resources/doc/changelog.md)
+* [Roadmap](resources/doc/roadmap.md)
+* [Known issues](resources/doc/known-issues.md)
+* [Support](resources/doc/support.md)
+* [Testing](resources/doc/testing.md)
+* [Built with](resources/doc/built-with.md)
+* [Contributors](resources/doc/contributors.md)
+* [Acknowledgements](resources/doc/acknowledgements.md)
+* [Notices](resources/doc/third-party-notices.md)
+* [Related projects](resources/doc/related-projects.md)
+* [Additional reading](resources/doc/additional-reading.md)
 
 ### Contributing
 If you are interested in contributing to this project, please see our:
-* [Code of conduct](repository-data/doc/code-of-conduct.md)
-* [Contributing guidelines](repository-data/doc/contributing.md)
-* [Testing procedures](repository-data/doc/testing.md)
-* [Issue template](repository-data/doc/issue-template.md)
-* [Pull request template](repository-data/doc/pull-request-template.md)
+* [Code of conduct](resources/doc/code-of-conduct.md)
+* [Contributing guidelines](resources/doc/contributing.md)
+* [Testing procedures](resources/doc/testing.md)
+* [Issue template](resources/doc/issue-template.md)
+* [Pull request template](resources/doc/pull-request-template.md)
 
 ### Repository
 * [Issues](https://github.com/github-account/repository-name/issues)
