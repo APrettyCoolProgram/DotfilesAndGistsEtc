@@ -1,26 +1,7 @@
 <!--
-  GitHub Sourcode Repository template (b201224)
-  https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github/sourcecode-repository
+  GitHub repository template (b210103)
+  https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github/
 -->
-
-***
-
-<h3 align="center">
-
-  THIS REPOSITORY HAS BEEN ARCHIVED<br>
-  THIS REPOSITORY HAS BEEN DEPRECIATED<br>
-  THIS IS ALPHA/BETA SOFTWARE
-
-</h3>
-
-<h4 align="center">
-
-  Development is continuing at [repository-name](URL).<br>
-  Use at your own risk
-
-</h4>
-
-***
 
 <h3 align="center">
 
