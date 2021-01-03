@@ -3,6 +3,31 @@
   https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github/
 -->
 
+<!-- Alpha/Beta warning -->
+<h6 align="center">
+
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20ALPHA%20SOFTWARE-%23990000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20BETA%20SOFTWARE-%23990000?style=for-the-badge">
+
+</h6>
+
+<!-- Archived/Depreciated warning -->
+<h3 align="center">
+
+  THIS REPOSITORY HAS BEEN ARCHIVED<br>
+  THIS REPOSITORY HAS BEEN DEPRECIATED<br>
+  USE AT YOUR OWN RISK!
+
+</h3>
+
+<h4 align="center">
+
+  Development is continuing at [repository-name](URL).<br>
+
+</h4>
+
+***
+
 <h3 align="center">
 
   <img src="resources/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
