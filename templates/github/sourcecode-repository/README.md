@@ -6,10 +6,10 @@
 <!-- Alpha/Beta warning -->
 <h6 align="center">
 
-  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20ALPHA%20SOFTWARE-%23990000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20BETA%20SOFTWARE-%23990000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WARNING:-THIS%20REPOSITORY%20HAS%20BEEN-%20ARCHIVED-%23990000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/WARNING:-THIS%20REPOSITORY%20HAS%20BEEN-%20DEPRECIATED-%23990000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20ALPHA%20SOFTWARE-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20BETA%20SOFTWARE-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/THIS%20REPOSITORY%20HAS%20BEEN-%20ARCHIVED-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/THIS%20REPOSITORY%20HAS%20BEEN-%20DEPRECIATED-%23990000?style=for-the-badge"><br>
 
 </h6>
 
