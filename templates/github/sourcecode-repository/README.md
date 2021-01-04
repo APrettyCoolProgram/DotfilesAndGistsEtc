@@ -8,17 +8,10 @@
 
   <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20ALPHA%20SOFTWARE-%23990000?style=for-the-badge">
   <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20BETA%20SOFTWARE-%23990000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20REPOSITORY%20HAS%20BEEN-%20ARCHIVED-%23990000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20REPOSITORY%20HAS%20BEEN-%20DEPRECIATED-%23990000?style=for-the-badge">
 
 </h6>
-
-<!-- Archived/Depreciated warning -->
-<h3 align="center">
-
-  THIS REPOSITORY HAS BEEN ARCHIVED<br>
-  THIS REPOSITORY HAS BEEN DEPRECIATED<br>
-  USE AT YOUR OWN RISK!
-
-</h3>
 
 <h4 align="center">
 
