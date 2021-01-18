@@ -51,6 +51,8 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
 * [Glyphfriend 2019](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019):  enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries
 * [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
+* [Live Share](https://visualstudio.microsoft.com/services/live-share/): Real-time collaborative development
+* [Microsoft Library Manager](https://github.com/aspnet/LibraryManager): Install and consume 3rd-party client-side libraries with ease.
 * [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom): Open any solution, project, folder and file in Atom
 * [Open in Notepad++](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad): Open any solution, project, folder and file in Notepad++.
 * [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText): Open any solution, project, folder and file in Sublime Text.
@@ -76,7 +78,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
-  * CSS Tools
+  * CSS Tools 2019
   * Editor Enhancements
   * File Icons
   * File Nesting
