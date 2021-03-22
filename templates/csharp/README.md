@@ -15,18 +15,11 @@
 </table>
 
 # About these templates
-There are three .NET Core C# templates:
-* [Class Library]()
-* [Console Application]()
-* [WPF Application]()
-
-These templates are for .NET Core 3.1, and are not updated very often. For instructions on creating your own .NET Core 5.0 C# templates, see below.
+These templates are for .NET Core 5, and are not updated very often. For instructions on creating your own .NET Core 5.0 C# templates, see below.
 
 # Usage
 To use these project template in Visual Studio 2019:
 1. Download the the project template you would like to use:
-* [Class Library]()
-* [Console Application]()
 * [WPF Application]()
 
 2. Copy that .zip file to `%USERPROFILE%\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\`
@@ -34,8 +27,6 @@ To use these project template in Visual Studio 2019:
 The next time you start Visual Studio, the project template will be available to use.
 
 # Steps to create a .NET Core C# project
-The above templates are not very complex, are for .NET Core 3.1, and are therefore rarely updated.
-
 You can create your own .NET Core 5.0 C# project templates following these steps:
 
 ## Create a new project
@@ -48,5 +39,5 @@ You can create your own .NET Core 5.0 C# project templates following these steps
 ## Change the project properties
 1. Once the project solution has loaded, right click on the project and choose "Properties"
 2. Under "Application > Target framework", choose ".NET 5.0"
-3. Under "Applicaiton > Package" change the "Assembly version" and "Assembly file verison" to "0.0.0.0"
+3. Under "Application > Package" change the "Assembly version" and "Assembly file verison" to "0.0.0.0"
 4. Save the project

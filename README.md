@@ -24,7 +24,8 @@
   [ABOUT](#about)<br>
   [EDITORS](#editors)<br>
   [TOOLS & UTILITIES](#tools-&-utilities)<br>
-  [PROJECT TEMPLATES](#project-templates)<br>
+  [GITHUB](#github)<br>
+  [TEMPLATES](#templates)<br>
   [EDITORCONFIG](#editorconfig)<br>
   [FONTS](#fonts)<br>
   [THEMES](#themes)
@@ -40,20 +41,21 @@ This repository details a bunch of stuff about the development environment I use
 # EDITORS
 
 ## Visual Studio
-Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/)
+[**Visual Studio**](https://visualstudio.microsoft.com/vs/) is Microsoft's flagship IDE available for [Microsoft Windows](https://visualstudio.microsoft.com/vs/) and [macOS](https://visualstudio.microsoft.com/vs/mac/).
+
+My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/visual-studio-2019.vssettings).
 
 <details>
-<summary>Visual Studio extensions</summary>
+<summary>Visual Studio Community 2019 extensions</summary>
 
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
+* [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover): Remove all comments in any file with a click of a button. Can also remove #regions and preserve XML Doc comments.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig): Language service for .editorconfig files.
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
-* [Glyphfriend 2019](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019):  enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries
-* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
-* [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom): Open any solution, project, folder and file in Atom
-* [Open in Notepad++](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad): Open any solution, project, folder and file in Notepad++.
-* [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText): Open any solution, project, folder and file in Sublime Text.
+* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files (here is my [settings](dotfile/vs2019/license-header-manager.licenseheader) file.)
+* [Live Share](https://visualstudio.microsoft.com/services/live-share/): Real-time collaborative development
+* [Microsoft Library Manager](https://github.com/aspnet/LibraryManager): Install and consume 3rd-party client-side libraries with ease.
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode): Open any solution, project, folder and file in Visual Studio Code.
 * [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017): Includes the following extensions:
   * Align Assignments
@@ -69,19 +71,22 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Solution Error Visualizer
   * Time Stamp Margin
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Identify and remove any trailing whitespace.
-* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features.
+* [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks): A collection of minor fixes and tweaks for Visual Studio to reduce the paper cuts and make you a happier developer
+* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features (and my [settings](dotfile/vs2019/viasfora-settings.xml) and [theme](dotfile/vs2019/viasfora-theme.json) files)
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput): Color output for build and debug windows.
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false): Includes the following extensions:
   * Add New File
   * Browser Reload on Save
   * Browser Sync
   * Bundler & Minifier
-  * CSS Tools
+  * CSS Tools 2019
   * Editor Enhancements
   * File Icons
   * File Nesting
-  * Image Sprites
+  * Glyphfriend 2019
+  * HTML Tool 2019
   * Image Optimizer
+  * Image Sprites
   * Markdown Editor
   * Open Command Line
   * Package Installer
@@ -102,18 +107,10 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 
 </details>
 
-<details>
-<summary>Visual Studio dotfiles</summary>
-
-* [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
-* [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
-* [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
-* [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
-
-</details>
-
 ## Visual Studio Code
-[Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
+[**Visual Studio Code**](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor available for [macOS](https://code.visualstudio.com/#alt-downloads) and [Microsoft Windows](https://code.visualstudio.com/#alt-downloads) and [Linux](https://code.visualstudio.com/#alt-downloads)
+
+My Visual Studio Code configuration files can be found [here](dotfile/vscode/).
 
 <details>
 <summary>Visual Studio Code extensions</summary>
@@ -122,90 +119,33 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 
 </details>
 
-<details>
-<summary>Visual Studio Code dotfiles</summary>
-
-* [extensions.json](dotfile/vscode/extensions.json)
-* [keybindings.json](dotfile/vscode/keybindings.json)
-* [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
-* [settings.json](dotfile/vscode/settings.json)
-
-</details>
-
 ## Notepad++
-[Notepad++](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
-
-<details>
-<summary>Notepad++ extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Notepad++ dotfiles</summary>
-
-* Soon
-
-</details>
-
-## Atom
-[Atom](https://atom.io/) is GitHub's cross-platform, open-source source-code editor.
-
-<details>
-<summary>Atom extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Atom dotfiles</summary>
-
-* Soon
-
-</details>
-
-## Sublime Text
-[Sublime Text](https://www.sublimetext.com/) is a cross-platform source-code editor.
-
-<details>
-<summary>Sublime Text extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Sublime Text dotfiles</summary>
-
-* Soon
-
-</details>
+[**Notepad++**](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
 
 # TOOLS & UTILITIES
-Soon.
+[**GitHub Desktop**](https://desktop.github.com/) is a stand-alone application that simplifies your development workflow.<br><br>
+[**LINQPad**](https://www.linqpad.net/) is an awesome scratchpad for coding.<br><br>
+[**Windows Terminal**](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+
+# GITHUB
+* [GitHub .gitignore](https://github.com/APrettyCoolProgram/my-development-environment/blob/development/dotfile/github/.gitignore)
+* [GitHub repository templates](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github)
 
 # TEMPLATES
 * [Data folders](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/data-folders/)
 * [.NET Core C# projects](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/csharp)
-* [GitHub repositories](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github)
 
 # EDITORCONFIG
 [EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 
-The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
-
-EditorConfig files are easily readable and they work nicely with version control systems.
-
-* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
+The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems. This is my [.editorconfig](dotfile/editor.config/generic.editorconfig) file.
 
 # FONTS
-* [Fira Code](https://github.com/tonsky/FiraCode)
-* [Google Fonts](https://github.com/google/fonts)
+* [Fira Code](https://github.com/tonsky/FiraCode): My go-to font for coding.
+* [Google Fonts](https://github.com/google/fonts): Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
-# THEMES
-* [Dracula](https://draculatheme.com/)
+# APPLICATION THEMES
+* [Dracula](https://draculatheme.com/): A cross-platform, cross-application theme.
 
 ***
 

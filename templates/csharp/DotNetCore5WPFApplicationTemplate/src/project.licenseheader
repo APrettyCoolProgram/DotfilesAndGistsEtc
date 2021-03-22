@@ -1,0 +1,17 @@
+﻿extensions: designer.cs generated.cs
+extensions: .xaml
+<!--
+    PROJECT: %Project% (https://github.com/account-name/%Project%)
+    FILE: %FileName%
+    UPDATED: %CurrentMonth%-%CurrentDay%-%CurrentYear%-%CurrentTime%
+    LICENSE: Apache v2 (https://apache.org/licenses/LICENSE-2.0)
+    Copyright 2020 <YOU> All Rights reserved
+-->
+
+extensions: .cs
+/* PROJECT: %Project% (https://github.com/account-name/%Project%)
+ *    FILE: %Namespace%.%FileName%
+ * UPDATED: %CurrentMonth%-%CurrentDay%-%CurrentYear%-%CurrentTime%
+ * LICENSE: Apache v2 (https://apache.org/licenses/LICENSE-2.0)
+ *          Copyright 2020 <YOU> All Rights reserved
+ */

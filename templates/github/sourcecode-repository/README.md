@@ -1,22 +1,21 @@
 <!--
-  project-templates 201024
-  project-templates-github-general-project-repository-template 201024
+  GitHub repository template (b210103)
+  https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github/
 -->
 
-***
+<!-- Alpha/Beta warning -->
+<h6 align="center">
 
-<h3 align="center">
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20ALPHA%20SOFTWARE-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/WARNING:-THIS%20IS%20BETA%20SOFTWARE-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/THIS%20REPOSITORY%20HAS%20BEEN-%20ARCHIVED-%23990000?style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/THIS%20REPOSITORY%20HAS%20BEEN-%20DEPRECIATED-%23990000?style=for-the-badge"><br>
 
-  THIS REPOSITORY HAS BEEN ARCHIVED<br>
-  THIS REPOSITORY HAS BEEN DEPRECIATED<br>
-  THIS IS ALPHA/BETA SOFTWARE
-
-</h3>
+</h6>
 
 <h4 align="center">
 
   Development is continuing at [repository-name](URL).<br>
-  Use at your own risk
 
 </h4>
 
@@ -24,23 +23,26 @@
 
 <h3 align="center">
 
-  <img src="repository-data/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
+  <img src="resources/image/logo/github-repository-templates-logo-142x225.png" alt="GitHub Repository Templates repository logo" width="142">
   <br>
   A GitHub template for a general project repository.
   <br>
 
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 
-  <img src="https://img.shields.io/badge/status-active-brightgreen.svg">&nbsp;[![License](https://img.shields.io/github/license/aprettycoolprogram/repository-template)](https://www.apache.org/licenses/LICENSE-2.0)&nbsp;![GitHub release](https://img.shields.io/github/release/aprettycoolprogram/repository-template?label=latest%20release)
-  <br>
+  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square">&nbsp;
+  [![License](https://img.shields.io/github/license/aprettycoolprogram/Archiwizator?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0)&nbsp;
+  [![GitHub release](https://img.shields.io/github/v/release/aprettycoolprogram/Archiwizator?style=flat-square)](https://github.com/APrettyCoolProgram/Archiwizator/releases)&nbsp;
+  [![Issues](https://img.shields.io/github/issues/aprettycoolprogram/Archiwizator?style=flat-square)](https://github.com/aprettycoolprogram/Archiwizator/issues)&nbsp;
+  [![Pulls](https://img.shields.io/github/issues-pr/aprettycoolprogram/Archiwizator?style=flat-square)](https://github.com/aprettycoolprogram/Archiwizator/pulls)&nbsp;
 
-</h2>
+</h3>
 
 <h1 align="center">
 
-  <img src="repository-data/image/screenshot/screenshot.png" alt="Repository Screenshot" width="500">
+  <img src="resources/image/screenshot/screenshot.png" alt="Repository Screenshot" width="500">
   <br>
 
 </h1>
@@ -84,7 +86,7 @@ This is a template for GitHub repositories.
 # GETTING STARTED
 
 ### Before you begin
-Things you should do before you begin.
+Things you should know/do before you begin.
 
 ### Prerequisites
 * Prerequisite #1
@@ -172,30 +174,30 @@ I think so.
 # DEVELOPMENT
 A blurb about development can go here.
 
-* [Project homepage](https://github.com/github-account/repository-name)
-* [Changelog](repository-data/doc/changelog.md)
-* [Roadmap](repository-data/doc/roadmap.md)
-* [Known issues](repository-data/doc/known-issues.md)
-* [Support](repository-data/doc/support.md)
-* [Testing](repository-data/doc/testing.md)
-* [Built with](repository-data/doc/built-with.md)
-* [Contributors](repository-data/doc/contributors.md)
-* [Acknowledgements](repository-data/doc/acknowledgements.md)
-* [Notices](repository-data/doc/third-party-notices.md)
-* [Related projects](repository-data/doc/related-projects.md)
-* [Additional reading](repository-data/doc/additional-reading.md)
+
+
+* [Project homepage](https://github.com/APrettyCoolProgram/Archiwizator)
+* [Changelog](src/Resources/Doc/changelog.md)
+* [Roadmap](src/Resources/Doc/aroadmap.md)
+* [Known issues](src/Resources/Doc/known-issues.md)
+* [Support](src/Resources/Doc/support.md)
+* [Testing](src/Resources/Doc/testing.md)
+* [Built with](src/Resources/Doc/built-with.md)
+* [Contributors](src/Resources/Doc/contributors.md)
+* [Acknowledgements](src/Resources/Doc/acknowledgements.md)
+* [Notices](src/Resources/Doc/third-party-notices.md)
+* [Related projects](src/Resources/Doc/related-projects.md)
+* [Additional reading](src/Resources/Doc/additional-reading.md)
 
 ### Contributing
 If you are interested in contributing to this project, please see our:
-* [Code of conduct](repository-data/doc/code-of-conduct.md)
-* [Contributing guidelines](repository-data/doc/contributing.md)
-* [Testing procedures](repository-data/doc/testing.md)
-* [Issue template](repository-data/doc/issue-template.md)
-* [Pull request template](repository-data/doc/pull-request-template.md)
+* [Code of conduct](src/Resources/Doc/code-of-conduct.md)
+* [Contributing guidelines](src/Resources/Doc/contributing.md)
+* [Testing procedures](src/Resources/Doc/testing.md)
+* [Issue template](src/Resources/Doc/issue-template.md)
+* [Pull request template](src/Resources/Doc/pull-request-template.md)
 
 ### Repository
-* [Issues](https://github.com/github-account/repository-name/issues)
-* [Pull request](https://github.com/github-account/repository-name/pulls)
 * [Projects](https://github.com/github-account/repository-name/projects)
 * [Wiki](https://github.com/github-account/repository-name/wiki)
 * [Insights](https://github.com/github-account/repository-name/pulse)
@@ -203,5 +205,12 @@ If you are interested in contributing to this project, please see our:
 ***
 
 <!-- DEVELOPMENT FOOTER -->
-[![Developed by](https://img.shields.io/badge/developed%20by-a%20pretty%20cool%20program-17806D.svg)](https://aprettycoolprogram.com)&nbsp;[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D.svg)](mailto:feedback@aprettycoolprogram.com)&nbsp;[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;<br>
-[![Repository built using](https://img.shields.io/badge/repository%20built%20using-a%20pretty%20cool%20repository%20template-17806D.svg)](https://github.com/APrettyCoolProgram/repository-template/tree/master)
+[![GitHub release date](https://img.shields.io/github/release-date/github-account/repository-name?style=flat-square)](https://github.com/github-account/repository-name/releases)&nbsp;![Release downloads](https://img.shields.io/github/downloads/github-account/repository-name/total?style=flat-square)&nbsp;![Language count](https://img.shields.io/github/languages/count/github-account/repository-name?style=flat-square)&nbsp;
+![Top language](https://img.shields.io/github/languages/top/github-account/repository-name?style=flat-square)&nbsp;
+![Repository size](https://img.shields.io/github/repo-size/github-account/repository-name?style=flat-square)&nbsp;
+![Lines of code](https://img.shields.io/tokei/lines/github/github-account/repository-name?style=flat-square)
+[![Developed by](https://img.shields.io/badge/developed%20by-a%20pretty%20cool%20program-17806D?style=flat-square)](https://aprettycoolprogram.com)&nbsp;
+[![Feedback](https://img.shields.io/badge/feedback@aprettycoolprogram.com-17806D?style=flat-square)](mailto:feedback@aprettycoolprogram.com)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/aprettycoolprogram.svg?label=GitHub&style=social)](https://github.com/aprettycoolprogram)&nbsp;
+[![Twitter](https://img.shields.io/twitter/follow/aprettycoolprog.svg?label=Twitter&style=social)](https://twitter.com/aprettycoolprog)&nbsp;
+[![Repository built using](https://img.shields.io/badge/README%20built%20using-a%20pretty%20cool%20README%20template-17806D.svg)](https://github.com/APrettyCoolProgram/my-development-environment/tree/development/templates/github)
