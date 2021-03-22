@@ -156,10 +156,10 @@ EditorConfig files are easily readable and they work nicely with version control
 * [.editorconfig](dotfile/editorconfig/generic.editorconfig)
 
 # FONTS
-* [Fira Code](https://github.com/tonsky/FiraCode)
-* [Google Fonts](https://github.com/google/fonts)
+* [Fira Code](https://github.com/tonsky/FiraCode): I use this for coding
+* [Google Fonts](https://github.com/google/fonts): Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
-# THEMES
+# APPLICATION THEMES
 * [Dracula](https://draculatheme.com/)
 
 ***
