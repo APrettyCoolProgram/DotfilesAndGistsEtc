@@ -24,7 +24,7 @@
   [ABOUT](#about)<br>
   [EDITORS](#editors)<br>
   [TOOLS & UTILITIES](#tools-&-utilities)<br>
-  [PROJECT TEMPLATES](#project-templates)<br>
+  [TEMPLATES](#project-templates)<br>
   [EDITORCONFIG](#editorconfig)<br>
   [FONTS](#fonts)<br>
   [THEMES](#themes)
@@ -156,11 +156,11 @@ EditorConfig files are easily readable and they work nicely with version control
 * [.editorconfig](dotfile/editorconfig/generic.editorconfig)
 
 # FONTS
-* [Fira Code](https://github.com/tonsky/FiraCode): I use this for coding
+* [Fira Code](https://github.com/tonsky/FiraCode): This is my go-to font for coding
 * [Google Fonts](https://github.com/google/fonts): Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
 # APPLICATION THEMES
-* [Dracula](https://draculatheme.com/)
+* [Dracula](https://draculatheme.com/): A cross-platform, cross-application theme.
 
 ***
 
