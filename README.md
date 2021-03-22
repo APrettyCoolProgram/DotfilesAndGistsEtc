@@ -24,7 +24,8 @@
   [ABOUT](#about)<br>
   [EDITORS](#editors)<br>
   [TOOLS & UTILITIES](#tools-&-utilities)<br>
-  [TEMPLATES](#project-templates)<br>
+  [GITHUB](#github)<br>
+  [TEMPLATES](#templates)<br>
   [EDITORCONFIG](#editorconfig)<br>
   [FONTS](#fonts)<br>
   [THEMES](#themes)
@@ -140,23 +141,23 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 # TOOLS & UTILITIES
 * [GitHub Desktop](https://desktop.github.com/) GitHub Desktop simplifies your development workflow.
 * [LINQPad](https://www.linqpad.net/) The Ultimate Scratchpad for C#, F# and VB.
+* [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL. 
+
+# GITHUB
+* [GitHub .gitignore](https://github.com/APrettyCoolProgram/my-development-environment/blob/development/dotfile/github/.gitignore)
+* [GitHub repository templates](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github)
 
 # TEMPLATES
 * [Data folders](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/data-folders/)
 * [.NET Core C# projects](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/csharp)
-* [GitHub repositories](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/github)
 
 # EDITORCONFIG
 [EditorConfig](https://editorconfig.org/) helps maintain consistent coding styles for multiple developers working on the same project across various editors and IDEs.
 
-The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles.
-
-EditorConfig files are easily readable and they work nicely with version control systems.
-
-* [.editorconfig](dotfile/editorconfig/generic.editorconfig)
+The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems. This is my [.editorconfig](dotfile/editor.config/generic.editorconfig) file.
 
 # FONTS
-* [Fira Code](https://github.com/tonsky/FiraCode): This is my go-to font for coding
+* [Fira Code](https://github.com/tonsky/FiraCode): My go-to font for coding.
 * [Google Fonts](https://github.com/google/fonts): Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 
 # APPLICATION THEMES
