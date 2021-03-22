@@ -41,7 +41,7 @@ This repository details a bunch of stuff about the development environment I use
 # EDITORS
 
 ## Visual Studio
-Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/)
+Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/). Here is the [settings](dotfile/vs2019/visual-studio-2019.vssettings) file I use.
 
 <details>
 <summary>Visual Studio extensions</summary>
@@ -51,7 +51,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 * [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover): Remove all comments in any file with a click of a button. Can also remove #regions and preserve XML Doc comments.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig): Language service for .editorconfig files.
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
-* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
+* [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files (here is my [settings](dotfile/vs2019/license-header-manager.licenseheader) file.)
 * [Live Share](https://visualstudio.microsoft.com/services/live-share/): Real-time collaborative development
 * [Microsoft Library Manager](https://github.com/aspnet/LibraryManager): Install and consume 3rd-party client-side libraries with ease.
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode): Open any solution, project, folder and file in Visual Studio Code.
@@ -70,7 +70,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Time Stamp Margin
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Identify and remove any trailing whitespace.
 * [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks): A collection of minor fixes and tweaks for Visual Studio to reduce the paper cuts and make you a happier developer
-* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features.
+* [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features (and my [settings](dotfile/vs2019/viasfora-settings.xml) and [theme](dotfile/vs2019/viasfora-theme.json) files)
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput): Color output for build and debug windows.
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false): Includes the following extensions:
   * Add New File
@@ -105,33 +105,13 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 
 </details>
 
-<details>
-<summary>Visual Studio dotfiles</summary>
-
-* [Visual Studio 2019 .vssettings](dotfile/vs2019/visual-studio-2019.vssettings)
-* [License Header Manager license header](dotfile/vs2019/license-header-manager.licenseheader)
-* [Viasfora settings](dotfile/vs2019/viasfora-settings.xml)
-* [Viasfora theme](dotfile/vs2019/viasfora-theme.json)
-
-</details>
-
 ## Visual Studio Code
-[Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
+[Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor. The configuration files I use are [here](dotfile/vscode/).
 
 <details>
 <summary>Visual Studio Code extensions</summary>
 
 * Soon
-
-</details>
-
-<details>
-<summary>Visual Studio Code dotfiles</summary>
-
-* [extensions.json](dotfile/vscode/extensions.json)
-* [keybindings.json](dotfile/vscode/keybindings.json)
-* [keybindingsMac.json](dotfile/vscode/keybindingsMac.json)
-* [settings.json](dotfile/vscode/settings.json)
 
 </details>
 
