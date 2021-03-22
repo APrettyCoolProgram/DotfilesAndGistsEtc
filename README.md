@@ -41,7 +41,7 @@ This repository details a bunch of stuff about the development environment I use
 # EDITORS
 
 ## Visual Studio
-[**Visual Studio**](https://visualstudio.microsoft.com/vs/) is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/).
+[**Visual Studio**](https://visualstudio.microsoft.com/vs/) is Microsoft's flagship IDE available for [Microsoft Windows](https://visualstudio.microsoft.com/vs/) and [macOS](https://visualstudio.microsoft.com/vs/mac/).
 
 My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/visual-studio-2019.vssettings).
 
@@ -108,10 +108,7 @@ My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/vi
 </details>
 
 ## Visual Studio Code
-[Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
-
-https://code.visualstudio.com/#alt-downloads
-
+[**Visual Studio Code**](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor available for [macOS](https://code.visualstudio.com/#alt-downloads) and [Microsoft Windows](https://code.visualstudio.com/#alt-downloads) and [Linux](https://code.visualstudio.com/#alt-downloads)
 
 My Visual Studio Code configuration files can be found [here](dotfile/vscode/).
 
