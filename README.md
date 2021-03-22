@@ -139,9 +139,9 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 [Notepad++](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
 
 # TOOLS & UTILITIES
-[GitHub Desktop](https://desktop.github.com/) is a stand-alone application that simplifies your development workflow.
+[GitHub Desktop](https://desktop.github.com/) is a stand-alone application that simplifies your development workflow.<br>
 <br>
-[LINQPad](https://www.linqpad.net/) is an awesome scratchpad for coding.
+[LINQPad](https://www.linqpad.net/) is an awesome scratchpad for coding.<br>
 <br>
 [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) The Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
