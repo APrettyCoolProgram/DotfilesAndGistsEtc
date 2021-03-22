@@ -47,15 +47,12 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
+* [Comment Remover](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.CommentRemover): Remove all comments in any file with a click of a button. Can also remove #regions and preserve XML Doc comments.
 * [EditorConfig Language Service](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorConfig): Language service for .editorconfig files.
 * [Editor Guidelines](https://marketplace.visualstudio.com/items?itemName=PaulHarrington.EditorGuidelines): Adds vertical column guides to the Visual Studio text editor.
-* [Glyphfriend 2019](https://marketplace.visualstudio.com/items?itemName=RionWilliams.Glyphfriend2019):  enhance the existing Intellisense to display preview glyphs for many of the common glyph-based font libraries
 * [License Header Manager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager): Add license headers to source code files.
 * [Live Share](https://visualstudio.microsoft.com/services/live-share/): Real-time collaborative development
 * [Microsoft Library Manager](https://github.com/aspnet/LibraryManager): Install and consume 3rd-party client-side libraries with ease.
-* [Open in Atom](https://marketplace.visualstudio.com/items?itemName=GregTrevellick.OpeninAtom): Open any solution, project, folder and file in Atom
-* [Open in Notepad++](https://marketplace.visualstudio.com/items?itemName=CalvinAAllen.OpeninNotepad): Open any solution, project, folder and file in Notepad++.
-* [Open in Sublime Text](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninSublimeText): Open any solution, project, folder and file in Sublime Text.
 * [Open in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.OpeninVisualStudioCode): Open any solution, project, folder and file in Visual Studio Code.
 * [Productivity Power Tools 2017/2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.ProductivityPowerPack2017): Includes the following extensions:
   * Align Assignments
@@ -71,6 +68,7 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Solution Error Visualizer
   * Time Stamp Margin
 * [Trailing Whitespace Visualizer](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.TrailingWhitespaceVisualizer): Identify and remove any trailing whitespace.
+* [Tweaks](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.Tweaks): A collection of minor fixes and tweaks for Visual Studio to reduce the paper cuts and make you a happier developer
 * [Viasfora](https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora): improves your text editing experience through the use of color and other features.
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput): Color output for build and debug windows.
 * [Web Essentials 2019](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.WebEssentials2019&ssr=false): Includes the following extensions:
@@ -82,8 +80,10 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
   * Editor Enhancements
   * File Icons
   * File Nesting
-  * Image Sprites
+  * Glyphfriend 2019
+  * HTML Tool 2019
   * Image Optimizer
+  * Image Sprites
   * Markdown Editor
   * Open Command Line
   * Package Installer
@@ -137,56 +137,9 @@ Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac]
 ## Notepad++
 [Notepad++](https://notepad-plus-plus.org/) is a free source code editor and Notepad replacement that supports several languages.
 
-<details>
-<summary>Notepad++ extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Notepad++ dotfiles</summary>
-
-* Soon
-
-</details>
-
-## Atom
-[Atom](https://atom.io/) is GitHub's cross-platform, open-source source-code editor.
-
-<details>
-<summary>Atom extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Atom dotfiles</summary>
-
-* Soon
-
-</details>
-
-## Sublime Text
-[Sublime Text](https://www.sublimetext.com/) is a cross-platform source-code editor.
-
-<details>
-<summary>Sublime Text extensions</summary>
-
-* Soon
-
-</details>
-
-<details>
-<summary>Sublime Text dotfiles</summary>
-
-* Soon
-
-</details>
-
 # TOOLS & UTILITIES
-Soon.
+* [GitHub Desktop](https://desktop.github.com/) GitHub Desktop simplifies your development workflow.
+* [LINQPad](https://www.linqpad.net/) The Ultimate Scratchpad for C#, F# and VB.
 
 # TEMPLATES
 * [Data folders](https://github.com/APrettyCoolProgram/my-development-environment/tree/master/templates/data-folders/)
