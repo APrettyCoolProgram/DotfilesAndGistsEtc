@@ -43,10 +43,10 @@ This repository details a bunch of stuff about the development environment I use
 ## Visual Studio
 Visual Studio is Microsoft's flagship IDE, available for [Visual Studio for Mac](https://visualstudio.microsoft.com/vs/mac/) and [Microsoft Windows](https://visualstudio.microsoft.com/vs/).
 
-The .settings file I use is [settings](dotfile/vs2019/visual-studio-2019.vssettings).
+My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/visual-studio-2019.vssettings).
 
 <details>
-<summary>Visual Studio extensions</summary>
+<summary>Visual Studio Community 2019 extensions</summary>
 
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
@@ -110,7 +110,7 @@ The .settings file I use is [settings](dotfile/vs2019/visual-studio-2019.vssetti
 ## Visual Studio Code
 [Visual Studio Code](https://code.visualstudio.com/) is Microsoft's cross-platform source-code editor.
 
-The configuration files I use are [here](dotfile/vscode/).
+My Visual Studio Code configuration files can be found [here](dotfile/vscode/).
 
 <details>
 <summary>Visual Studio Code extensions</summary>
