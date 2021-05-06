@@ -38,15 +38,18 @@
 # ABOUT
 This repository details a bunch of stuff about the development environment I use to develop software and stuff.
 
+# FRAMEWORKS
+## .NET CORE 5.x
+Most of my development is with Microsoft's [.NET Core version 5.0](https://dotnet.microsoft.com/download/dotnet/5.0.)
+
 # EDITORS
+## Visual Studio Community 2019
+[**Visual Studio 2019**](https://visualstudio.microsoft.com/vs/) is Microsoft's flagship IDE available for [Microsoft Windows](https://visualstudio.microsoft.com/vs/) and [macOS](https://visualstudio.microsoft.com/vs/mac/).
 
-## Visual Studio
-[**Visual Studio**](https://visualstudio.microsoft.com/vs/) is Microsoft's flagship IDE available for [Microsoft Windows](https://visualstudio.microsoft.com/vs/) and [macOS](https://visualstudio.microsoft.com/vs/mac/).
-
-My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/visual-studio-2019.vssettings).
+My Visual Studio 2019 .settings file I use is [here](dotfile/vs2019/visual-studio-2019.vssettings).
 
 <details>
-<summary>Visual Studio Community 2019 extensions</summary>
+<summary>Visual Studio 2019 extensions</summary>
 
 * [.ignore**](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ignore): A language service that makes it painless to handle all types of .ignore files.
 * [Automatic Versions 2](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions): Automatically increments or updates version numbers in a project.
@@ -96,14 +99,6 @@ My Visual Studio Community 2019 .settings file I use is [here](dotfile/vs2019/vi
   * Web Compiler
   * ZenCoding
 * [XAMLStyler](https://marketplace.visualstudio.com/items?itemName=TeamXavalon.XAMLStyler): Formats XAML source code based on a set of styling rules
-
-</details>
-
-<details>
-<summary>Visual Studio NuGet packages</summary>
-
-* [Roslyn Analyzers](https://github.com/dotnet/roslyn-analyzers)
-* [Roslynator](https://github.com/JosefPihrt/Roslynator)
 
 </details>
 
